@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Strength potion",
+    "doses": [
+      { "dose": 1, "id": 119 },
+      { "dose": 2, "id": 117 },
+      { "dose": 3, "id": 115 },
+      { "dose": 4, "id": 113 }
+    ]
+  },
+  {
+    "name": "Attack potion",
+    "doses": [
+      { "dose": 1, "id": 125 },
+      { "dose": 2, "id": 123 },
+      { "dose": 3, "id": 121 },
+      { "dose": 4, "id": 2428 }
+    ]
+  },
+  {
+    "name": "Restore potion",
+    "doses": [
+      { "dose": 1, "id": 131 },
+      { "dose": 2, "id": 129 },
+      { "dose": 3, "id": 127 },
+      { "dose": 4, "id": 2430 }
+    ]
+  },
+  {
+    "name": "Defence potion",
+    "doses": [
+      { "dose": 1, "id": 137 },
+      { "dose": 2, "id": 135 },
+      { "dose": 3, "id": 133 },
+      { "dose": 4, "id": 2432 }
+    ]
+  },
+  {
+    "name": "Prayer potion",
+    "doses": [
+      { "dose": 1, "id": 143 },
+      { "dose": 2, "id": 141 },
+      { "dose": 3, "id": 139 },
+      { "dose": 4, "id": 2434 }
+    ]
+  },
+  {
+    "name": "Super attack",
+    "doses": [
+      { "dose": 1, "id": 149 },
+      { "dose": 2, "id": 147 },
+      { "dose": 3, "id": 145 },
+      { "dose": 4, "id": 2436 }
+    ]
+  },
+  {
+    "name": "Fishing potion",
+    "doses": [
+      { "dose": 1, "id": 155 },
+      { "dose": 2, "id": 153 },
+      { "dose": 3, "id": 151 },
+      { "dose": 4, "id": 2438 }
+    ]
+  },
+  {
+    "name": "Super strength",
+    "doses": [
+      { "dose": 1, "id": 161 },
+      { "dose": 2, "id": 159 },
+      { "dose": 3, "id": 157 },
+      { "dose": 4, "id": 2440 }
+    ]
+  },
+  {
+    "name": "Super defence",
+    "doses": [
+      { "dose": 1, "id": 167 },
+      { "dose": 2, "id": 165 },
+      { "dose": 3, "id": 163 },
+      { "dose": 4, "id": 2442 }
+    ]
+  },
+  {
+    "name": "Ranging potion",
+    "doses": [
+      { "dose": 1, "id": 173 },
+      { "dose": 2, "id": 171 },
+      { "dose": 3, "id": 169 },
+      { "dose": 4, "id": 2444 }
+    ]
+  },
+  {
+    "name": "Antipoison",
+    "doses": [
+      { "dose": 1, "id": 179 },
+      { "dose": 2, "id": 177 },
+      { "dose": 3, "id": 175 },
+      { "dose": 4, "id": 2446 }
+    ]
+  },
+  {
+    "name": "Superantipoison",
+    "doses": [
+      { "dose": 1, "id": 185 },
+      { "dose": 2, "id": 183 },
+      { "dose": 3, "id": 181 },
+      { "dose": 4, "id": 2448 }
+    ]
+  },
+  {
+    "name": "Zamorak brew",
+    "doses": [
+      { "dose": 1, "id": 193 },
+      { "dose": 2, "id": 191 },
+      { "dose": 3, "id": 189 },
+      { "dose": 4, "id": 2450 }
+    ]
+  },
+  {
+    "name": "Antifire potion",
+    "doses": [
+      { "dose": 1, "id": 2458 },
+      { "dose": 2, "id": 2456 },
+      { "dose": 3, "id": 2454 },
+      { "dose": 4, "id": 2452 }
+    ]
+  },
+  {
+    "name": "Energy potion",
+    "doses": [
+      { "dose": 1, "id": 3014 },
+      { "dose": 2, "id": 3012 },
+      { "dose": 3, "id": 3010 },
+      { "dose": 4, "id": 3008 }
+    ]
+  },
+  {
+    "name": "Super energy",
+    "doses": [
+      { "dose": 1, "id": 3022 },
+      { "dose": 2, "id": 3020 },
+      { "dose": 3, "id": 3018 },
+      { "dose": 4, "id": 3016 }
+    ]
+  },
+  {
+    "name": "Super restore",
+    "doses": [
+      { "dose": 1, "id": 3030 },
+      { "dose": 2, "id": 3028 },
+      { "dose": 3, "id": 3026 },
+      { "dose": 4, "id": 3024 }
+    ]
+  },
+  {
+    "name": "Agility potion",
+    "doses": [
+      { "dose": 1, "id": 3038 },
+      { "dose": 2, "id": 3036 },
+      { "dose": 3, "id": 3034 },
+      { "dose": 4, "id": 3032 }
+    ]
+  },
+  {
+    "name": "Magic potion",
+    "doses": [
+      { "dose": 1, "id": 3046 },
+      { "dose": 2, "id": 3044 },
+      { "dose": 3, "id": 3042 },
+      { "dose": 4, "id": 3040 }
+    ]
+  },
+  {
+    "name": "Serum 207",
+    "doses": [
+      { "dose": 1, "id": 3414 },
+      { "dose": 2, "id": 3412 },
+      { "dose": 3, "id": 3410 },
+      { "dose": 4, "id": 3408 }
+    ]
+  },
+  {
+    "name": "Olive oil",
+    "doses": [
+      { "dose": 1, "id": 3428 },
+      { "dose": 2, "id": 3426 },
+      { "dose": 3, "id": 3424 },
+      { "dose": 4, "id": 3422 }
+    ]
+  },
+  {
+    "name": "Sacred oil",
+    "doses": [
+      { "dose": 1, "id": 3436 },
+      { "dose": 2, "id": 3434 },
+      { "dose": 3, "id": 3432 },
+      { "dose": 4, "id": 3430 }
+    ]
+  },
+  {
+    "name": "Guthix rest",
+    "doses": [
+      { "dose": 1, "id": 4423 },
+      { "dose": 2, "id": 4421 },
+      { "dose": 3, "id": 4419 },
+      { "dose": 4, "id": 4417 }
+    ]
+  },
+  {
+    "name": "Relicym's balm",
+    "doses": [
+      { "dose": 1, "id": 4848 },
+      { "dose": 2, "id": 4846 },
+      { "dose": 3, "id": 4844 },
+      { "dose": 4, "id": 4842 }
+    ]
+  },
+  {
+    "name": "Antidote+",
+    "doses": [
+      { "dose": 1, "id": 5949 },
+      { "dose": 2, "id": 5947 },
+      { "dose": 3, "id": 5945 },
+      { "dose": 4, "id": 5943 }
+    ]
+  },
+  {
+    "name": "Antidote++",
+    "doses": [
+      { "dose": 1, "id": 5958 },
+      { "dose": 2, "id": 5956 },
+      { "dose": 3, "id": 5954 },
+      { "dose": 4, "id": 5952 }
+    ]
+  },
+  {
+    "name": "Compost potion",
+    "doses": [
+      { "dose": 1, "id": 6476 },
+      { "dose": 2, "id": 6474 },
+      { "dose": 3, "id": 6472 },
+      { "dose": 4, "id": 6470 }
+    ]
+  },
+  {
+    "name": "Saradomin brew",
+    "doses": [
+      { "dose": 1, "id": 6691 },
+      { "dose": 2, "id": 6689 },
+      { "dose": 3, "id": 6687 },
+      { "dose": 4, "id": 6685 }
+    ]
+  },
+  {
+    "name": "Guthix balance",
+    "doses": [
+      { "dose": 1, "id": 7666 },
+      { "dose": 2, "id": 7664 },
+      { "dose": 3, "id": 7662 },
+      { "dose": 4, "id": 7660 }
+    ]
+  },
+  {
+    "name": "Combat potion",
+    "doses": [
+      { "dose": 1, "id": 9745 },
+      { "dose": 2, "id": 9743 },
+      { "dose": 3, "id": 9741 },
+      { "dose": 4, "id": 9739 }
+    ]
+  },
+  {
+    "name": "Hunter potion",
+    "doses": [
+      { "dose": 1, "id": 10004 },
+      { "dose": 2, "id": 10002 },
+      { "dose": 3, "id": 10000 },
+      { "dose": 4, "id": 9998 }
+    ]
+  },
+  {
+    "name": "Sanfew serum",
+    "doses": [
+      { "dose": 1, "id": 10931 },
+      { "dose": 2, "id": 10929 },
+      { "dose": 3, "id": 10927 },
+      { "dose": 4, "id": 10925 }
+    ]
+  },
+  {
+    "name": "Attack mix",
+    "doses": [
+      { "dose": 1, "id": 11431 },
+      { "dose": 2, "id": 11429 }
+    ]
+  },
+  {
+    "name": "Antipoison mix",
+    "doses": [
+      { "dose": 1, "id": 11435 },
+      { "dose": 2, "id": 11433 }
+    ]
+  },
+  {
+    "name": "Relicym's mix",
+    "doses": [
+      { "dose": 1, "id": 11439 },
+      { "dose": 2, "id": 11437 }
+    ]
+  },
+  {
+    "name": "Strength mix",
+    "doses": [
+      { "dose": 1, "id": 11441 },
+      { "dose": 2, "id": 11443 }
+    ]
+  },
+  {
+    "name": "Combat mix",
+    "doses": [
+      { "dose": 1, "id": 11447 },
+      { "dose": 2, "id": 11445 }
+    ]
+  },
+  {
+    "name": "Restore mix",
+    "doses": [
+      { "dose": 1, "id": 11451 },
+      { "dose": 2, "id": 11449 }
+    ]
+  },
+  {
+    "name": "Energy mix",
+    "doses": [
+      { "dose": 1, "id": 11455 },
+      { "dose": 2, "id": 11453 }
+    ]
+  },
+  {
+    "name": "Defence mix",
+    "doses": [
+      { "dose": 1, "id": 11459 },
+      { "dose": 2, "id": 11457 }
+    ]
+  },
+  {
+    "name": "Agility mix",
+    "doses": [
+      { "dose": 1, "id": 11463 },
+      { "dose": 2, "id": 11461 }
+    ]
+  },
+  {
+    "name": "Prayer mix",
+    "doses": [
+      { "dose": 1, "id": 11467 },
+      { "dose": 2, "id": 11465 }
+    ]
+  },
+  {
+    "name": "Superattack mix",
+    "doses": [
+      { "dose": 1, "id": 11471 },
+      { "dose": 2, "id": 11469 }
+    ]
+  },
+  {
+    "name": "Anti-poison supermix",
+    "doses": [
+      { "dose": 1, "id": 11475 },
+      { "dose": 2, "id": 11473 }
+    ]
+  },
+  {
+    "name": "Fishing mix",
+    "doses": [
+      { "dose": 1, "id": 11479 },
+      { "dose": 2, "id": 11477 }
+    ]
+  },
+  {
+    "name": "Super energy mix",
+    "doses": [
+      { "dose": 1, "id": 11483 },
+      { "dose": 2, "id": 11481 }
+    ]
+  },
+  {
+    "name": "Super str. mix",
+    "doses": [
+      { "dose": 1, "id": 11487 },
+      { "dose": 2, "id": 11485 }
+    ]
+  },
+  {
+    "name": "Magic essence mix",
+    "doses": [
+      { "dose": 1, "id": 11491 },
+      { "dose": 2, "id": 11489 }
+    ]
+  },
+  {
+    "name": "Super restore mix",
+    "doses": [
+      { "dose": 1, "id": 11495 },
+      { "dose": 2, "id": 11493 }
+    ]
+  },
+  {
+    "name": "Super def. mix",
+    "doses": [
+      { "dose": 1, "id": 11499 },
+      { "dose": 2, "id": 11497 }
+    ]
+  },
+  {
+    "name": "Antidote+ mix",
+    "doses": [
+      { "dose": 1, "id": 11503 },
+      { "dose": 2, "id": 11501 }
+    ]
+  },
+  {
+    "name": "Antifire mix",
+    "doses": [
+      { "dose": 1, "id": 11507 },
+      { "dose": 2, "id": 11505 }
+    ]
+  },
+  {
+    "name": "Ranging mix",
+    "doses": [
+      { "dose": 1, "id": 11511 },
+      { "dose": 2, "id": 11509 }
+    ]
+  },
+  {
+    "name": "Magic mix",
+    "doses": [
+      { "dose": 1, "id": 11515 },
+      { "dose": 2, "id": 11513 }
+    ]
+  },
+  {
+    "name": "Hunting mix",
+    "doses": [
+      { "dose": 1, "id": 11519 },
+      { "dose": 2, "id": 11517 }
+    ]
+  },
+  {
+    "name": "Zamorak mix",
+    "doses": [
+      { "dose": 1, "id": 11523 },
+      { "dose": 2, "id": 11521 }
+    ]
+  },
+  {
+    "name": "Extended antifire",
+    "doses": [
+      { "dose": 1, "id": 11957 },
+      { "dose": 2, "id": 11955 },
+      { "dose": 3, "id": 11953 },
+      { "dose": 4, "id": 11951 }
+    ]
+  },
+  {
+    "name": "Extended antifire mix",
+    "doses": [
+      { "dose": 1, "id": 11962 },
+      { "dose": 2, "id": 11960 }
+    ]
+  },
+  {
+    "name": "Stamina potion",
+    "doses": [
+      { "dose": 1, "id": 12631 },
+      { "dose": 2, "id": 12629 },
+      { "dose": 3, "id": 12627 },
+      { "dose": 4, "id": 12625 }
+    ]
+  },
+  {
+    "name": "Stamina mix",
+    "doses": [
+      { "dose": 1, "id": 12635 },
+      { "dose": 2, "id": 12633 }
+    ]
+  },
+  {
+    "name": "Super combat potion",
+    "doses": [
+      { "dose": 1, "id": 12701 },
+      { "dose": 2, "id": 12699 },
+      { "dose": 3, "id": 12697 },
+      { "dose": 4, "id": 12695 }
+    ]
+  },
+  {
+    "name": "Anti-venom",
+    "doses": [
+      { "dose": 1, "id": 12911 },
+      { "dose": 2, "id": 12909 },
+      { "dose": 3, "id": 12907 },
+      { "dose": 4, "id": 12905 }
+    ]
+  },
+  {
+    "name": "Anti-venom+",
+    "doses": [
+      { "dose": 1, "id": 12919 },
+      { "dose": 2, "id": 12917 },
+      { "dose": 3, "id": 12915 },
+      { "dose": 4, "id": 12913 }
+    ]
+  },
+  {
+    "name": "Super antifire potion",
+    "doses": [
+      { "dose": 1, "id": 21987 },
+      { "dose": 2, "id": 21984 },
+      { "dose": 3, "id": 21981 },
+      { "dose": 4, "id": 21978 }
+    ]
+  },
+  {
+    "name": "Super antifire mix",
+    "doses": [
+      { "dose": 1, "id": 21997 },
+      { "dose": 2, "id": 21994 }
+    ]
+  },
+  {
+    "name": "Extended super antifire",
+    "doses": [
+      { "dose": 1, "id": 22218 },
+      { "dose": 2, "id": 22215 },
+      { "dose": 3, "id": 22212 },
+      { "dose": 4, "id": 22209 }
+    ]
+  },
+  {
+    "name": "Extended super antifire mix",
+    "doses": [
+      { "dose": 1, "id": 22224 },
+      { "dose": 2, "id": 22221 }
+    ]
+  },
+  {
+    "name": "Battlemage potion",
+    "doses": [
+      { "dose": 1, "id": 22458 },
+      { "dose": 2, "id": 22455 },
+      { "dose": 3, "id": 22452 },
+      { "dose": 4, "id": 22449 }
+    ]
+  },
+  {
+    "name": "Bastion potion",
+    "doses": [
+      { "dose": 1, "id": 22470 },
+      { "dose": 2, "id": 22467 },
+      { "dose": 3, "id": 22464 },
+      { "dose": 4, "id": 22461 }
+    ]
+  },
+  {
+    "name": "Divine super combat potion",
+    "doses": [
+      { "dose": 1, "id": 23694 },
+      { "dose": 2, "id": 23691 },
+      { "dose": 3, "id": 23688 },
+      { "dose": 4, "id": 23685 }
+    ]
+  },
+  {
+    "name": "Divine super attack potion",
+    "doses": [
+      { "dose": 1, "id": 23706 },
+      { "dose": 2, "id": 23703 },
+      { "dose": 3, "id": 23700 },
+      { "dose": 4, "id": 23697 }
+    ]
+  },
+  {
+    "name": "Divine super strength potion",
+    "doses": [
+      { "dose": 1, "id": 23718 },
+      { "dose": 2, "id": 23715 },
+      { "dose": 3, "id": 23712 },
+      { "dose": 4, "id": 23709 }
+    ]
+  },
+  {
+    "name": "Divine super defence potion",
+    "doses": [
+      { "dose": 1, "id": 23730 },
+      { "dose": 2, "id": 23727 },
+      { "dose": 3, "id": 23724 },
+      { "dose": 4, "id": 23721 }
+    ]
+  },
+  {
+    "name": "Divine ranging potion",
+    "doses": [
+      { "dose": 1, "id": 23742 },
+      { "dose": 2, "id": 23739 },
+      { "dose": 3, "id": 23736 },
+      { "dose": 4, "id": 23733 }
+    ]
+  },
+  {
+    "name": "Divine magic potion",
+    "doses": [
+      { "dose": 1, "id": 23754 },
+      { "dose": 2, "id": 23751 },
+      { "dose": 3, "id": 23748 },
+      { "dose": 4, "id": 23745 }
+    ]
+  },
+  {
+    "name": "Divine battlemage potion",
+    "doses": [
+      { "dose": 1, "id": 24632 },
+      { "dose": 2, "id": 24629 },
+      { "dose": 3, "id": 24626 },
+      { "dose": 4, "id": 24623 }
+    ]
+  },
+  {
+    "name": "Divine bastion potion",
+    "doses": [
+      { "dose": 1, "id": 24644 },
+      { "dose": 2, "id": 24641 },
+      { "dose": 3, "id": 24638 },
+      { "dose": 4, "id": 24635 }
+    ]
+  }
+]
