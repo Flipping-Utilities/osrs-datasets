@@ -3,6 +3,8 @@ export interface Item {
     id: number;
     // Item name
     name: string;
+    // Image url
+    image: string;
     // Examine text
     examine: string;
     // Can this item be traded between players
