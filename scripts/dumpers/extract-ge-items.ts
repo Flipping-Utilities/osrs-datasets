@@ -1,10 +1,10 @@
 import { readFileSync, writeFileSync } from "fs";
-import itemsR from "../pages/ge-items-list.json";
-import { Item } from "../types";
 import parseInfo from "infobox-parser";
+import { GEItemList } from "../../data/items/ge-items-list";
+import { GE_ITEMS } from "../paths";
+import { Item } from "../types";
 import { WikiPageWithContent } from "./get-page-content";
 
-const GEItemsPath = __dirname + `/../pages/ge-items.json`;
 interface WikiItem {
   gemwname?: string;
   name: string;
@@ -28,6 +28,7 @@ interface WikiItem {
   weight: string;
   id: string;
 }
+
 const WikiToItemKeys: Record<Partial<keyof WikiItem>, keyof Item> = {
   gemwname: "name",
   name: "name",
@@ -44,11 +45,10 @@ const WikiToItemKeys: Record<Partial<keyof WikiItem>, keyof Item> = {
   weight: "weight",
   id: "id",
 };
-const wikiItems: Record<string, number> = itemsR;
 
 // Todo: Use https://oldschool.runescape.wiki/?curid=181035 instead?
 export function extractGEItems(): Item[] {
-  const candidateItemIds = Object.values(wikiItems);
+  const candidateItemIds = Object.values(GEItemList);
   const items: Item[] = [];
   for (let i = 0; i < candidateItemIds.length; i++) {
     if (i % 100 === 0) {
@@ -71,7 +71,7 @@ export function extractGEItems(): Item[] {
     }
 
     const parsed: WikiItem = parseInfo(
-      rawWikiPage.rawContent.replace(/\{\|/g, "{a|").replace(/\{\{sic\}\}/g, '')
+      rawWikiPage.rawContent.replace(/\{\|/g, "{a|").replace(/\{\{sic\}\}/g, "")
     ).general;
 
     const hasMultiple = Object.keys(parsed).some((v) => v.endsWith("2"));
@@ -148,7 +148,8 @@ export function extractGEItems(): Item[] {
           case "tradeable":
           case "stackable":
           case "members":
-            value = (parsed as any)[key] === "Yes" || (parsed as any)[key] === true;
+            value =
+              (parsed as any)[key] === "Yes" || (parsed as any)[key] === true;
             break;
           default:
             break;
@@ -188,7 +189,7 @@ export function extractGEItems(): Item[] {
     }
   }
 
-  writeFileSync(GEItemsPath, JSON.stringify(items, null, 2));
+  writeFileSync(GE_ITEMS, JSON.stringify(items, null, 2));
   console.log(`Finished writing ${items.length} items.`);
   return items;
 }
@@ -206,7 +207,7 @@ interface MappingItem {
 }
 
 export function testGeItems() {
-  const ourItems: Item[] = JSON.parse(readFileSync(GEItemsPath, "utf8"));
+  const ourItems: Item[] = JSON.parse(readFileSync(GE_ITEMS, "utf8"));
   const wikiItems: MappingItem[] = JSON.parse(
     readFileSync(__dirname + "/../pages/mapping.json", "utf8")
   );
@@ -232,7 +233,11 @@ export function testGeItems() {
         `item ${wikiItem.id} has a different examine: ${wikiItem.examine} vs ${ourItem.examine}`
       );
     }
-    if (wikiItem.value !== ourItem.value && wikiItem.value !== 0 && wikiItem.value !== 1) {
+    if (
+      wikiItem.value !== ourItem.value &&
+      wikiItem.value !== 0 &&
+      wikiItem.value !== 1
+    ) {
       console.warn(
         `item ${wikiItem.id} has a different value: ${wikiItem.value} vs ${ourItem.value}`
       );

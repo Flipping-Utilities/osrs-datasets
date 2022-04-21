@@ -1,21 +1,10 @@
 import axios from "axios";
 import { writeFileSync } from "fs";
-import { WikiPageTitle } from "./get-pages";
+import { WikiPageTitle } from "./page-list";
+import { WikiPageWithContent } from "../wiki/request";
 
-import pages from "../pages/list.json";
 
-export interface WikiPageWithContent {
-  pagename: string;
-  title: string;
-  pageid: number;
-  revid: number;
-  content: string;
-  rawContent: string;
-  displaytitle: string;
-  properties: { name: string; value: string }[];
-}
-
-interface WikiResponse {
+interface WikiPageResponse {
   title: number;
   revid: number;
   displaytitle: string;
@@ -27,6 +16,12 @@ interface WikiResponse {
   };
   properties: { name: string; "*": string }[];
 }
+
+// Will download all of the wiki pages from the list
+export async function DumpAllWikiPages() {
+
+}
+
 
 export async function dumpAllWikiPages(): Promise<void> {
   const now = Date.now();
@@ -48,7 +43,7 @@ export async function dumpAllWikiPages(): Promise<void> {
         },
       }
     );
-    const result = response.data.parse as WikiResponse;
+    const result = response.data.parse as WikiPageResponse;
 
     const newPage: WikiPageWithContent = {
       pageid: currentPage.pageid,
