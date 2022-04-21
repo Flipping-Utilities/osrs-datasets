@@ -4,29 +4,32 @@ import { Item } from "../types";
 import parseInfo from "infobox-parser";
 import { WikiPageWithContent } from "./get-page-content";
 
+const GEItemsPath = __dirname + `/../pages/ge-items.json`;
 interface WikiItem {
+  gemwname?: string;
   name: string;
   // format: "File:1-3rds full jug.png"
   image: string;
   // format: ['2 November', '2004']
   // release: [string, string];
   // update: string;
-  members: "Yes" | "No";
+  members: "Yes" | "No" | boolean;
   // quest: string;
-  tradeable: "Yes" | "No";
-  // placeholder: "Yes" | "No";
-  equipable: "Yes" | "No";
-  stackable: "Yes" | "No";
-  // noteable: "Yes" | "No";
-  exchange: "Yes" | "No";
+  tradeable: "Yes" | "No" | boolean;
+  // placeholder: "Yes" | "No" | boolean;
+  equipable: "Yes" | "No" | boolean;
+  stackable: "Yes" | "No" | boolean;
+  // noteable: "Yes" | "No" | boolean;
+  exchange: "Yes" | "No" | boolean;
   destroy: string;
   examine: string;
   value: string;
-  alchable: "Yes" | "No";
+  alchable: "Yes" | "No" | boolean;
   weight: string;
   id: string;
 }
 const WikiToItemKeys: Record<Partial<keyof WikiItem>, keyof Item> = {
+  gemwname: "name",
   name: "name",
   image: "image",
   members: "isMembers",
@@ -67,7 +70,7 @@ export function extractGEItems(): Item[] {
       continue;
     }
 
-    const parsed = parseInfo(
+    const parsed: WikiItem = parseInfo(
       rawWikiPage.rawContent.replace(/\{\|/g, "{a|")
     ).general;
 
@@ -95,7 +98,7 @@ export function extractGEItems(): Item[] {
 
     const baseItem: Item = {
       id: Number(parsed.id),
-      name: parsed.name,
+      name: parsed.gemwname || parsed.name,
       examine: parsed.examine,
       image: parsed.image,
       isEquipable: parsed.equipable === "Yes" || parsed.equipable === true,
@@ -131,19 +134,21 @@ export function extractGEItems(): Item[] {
           case "id":
           case "value":
           case "weight":
-            value = Number(parsed[key]);
+            value = Number((parsed as any)[key]);
             break;
           case "name":
+          case "gemwname":
           case "examine":
           case "destroy":
-            value = parsed[key];
+            value = (parsed as any)[key];
             break;
           case "equipable":
           case "alchable":
           case "exchange":
           case "tradeable":
           case "stackable":
-            value = parsed[key] === "Yes";
+          case "members":
+            value = (parsed as any)[key] === "Yes" || (parsed as any)[key] === true;
             break;
           default:
             break;
@@ -183,10 +188,59 @@ export function extractGEItems(): Item[] {
     }
   }
 
-  writeFileSync(
-    __dirname + `/../pages/ge-items.json`,
-    JSON.stringify(items, null, 2)
-  );
+  writeFileSync(GEItemsPath, JSON.stringify(items, null, 2));
   console.log(`Finished writing ${items.length} items.`);
   return items;
+}
+
+interface MappingItem {
+  examine: string;
+  id: number;
+  members: boolean;
+  lowalch: number;
+  limit: number;
+  value: number;
+  highalch: number;
+  icon: string;
+  name: string;
+}
+
+export function testGeItems() {
+  const ourItems: Item[] = JSON.parse(readFileSync(GEItemsPath, "utf8"));
+  const wikiItems: MappingItem[] = JSON.parse(
+    readFileSync(__dirname + "/../pages/mapping.json", "utf8")
+  );
+
+  for (let i = 0; i < wikiItems.length; i++) {
+    const wikiItem = wikiItems[i];
+    const ourItem = ourItems.find((item) => item.id === wikiItem.id);
+
+    if (!ourItem) {
+      console.error("Wiki has an extra item!", wikiItem.id, wikiItem.name);
+      continue;
+    }
+
+    if (wikiItem.name !== ourItem.name) {
+      console.warn(
+        `item ${wikiItem.id} has a different name: ${wikiItem.name} vs ${ourItem.name}`
+      );
+    }
+
+    if (wikiItem.examine !== ourItem.examine) {
+      // Mapping is frequently outdated on examine
+      // console.warn(
+      //   `item ${wikiItem.id} has a different examine: ${wikiItem.examine} vs ${ourItem.examine}`
+      // );
+    }
+    if (wikiItem.value !== ourItem.value && wikiItem.value !== 0 && wikiItem.value !== 1) {
+      console.warn(
+        `item ${wikiItem.id} has a different value: ${wikiItem.value} vs ${ourItem.value}`
+      );
+    }
+    if (wikiItem.members !== ourItem.isMembers) {
+      console.warn(
+        `item ${wikiItem.id} has a different membership: ${wikiItem.members} vs ${ourItem.isMembers}`
+      );
+    }
+  }
 }

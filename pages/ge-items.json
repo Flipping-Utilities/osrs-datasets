@@ -640,7 +640,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -660,7 +660,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -680,7 +680,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -999,7 +999,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -1019,7 +1019,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -1039,7 +1039,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -4638,7 +4638,7 @@
   },
   {
     "id": 12775,
-    "name": "Annakarl teleport",
+    "name": "Annakarl teleport (tablet)",
     "examine": "A teleport to Annakarl, in level 46 Wilderness.",
     "image": "File:Annakarl teleport (tablet).png",
     "isEquipable": false,
@@ -5296,7 +5296,7 @@
   },
   {
     "id": 19631,
-    "name": "Ape atoll teleport",
+    "name": "Ape atoll teleport (tablet)",
     "examine": "A teleport to Ape Atoll.",
     "image": "File:Ape atoll teleport (tablet).png",
     "isEquipable": false,
@@ -5504,7 +5504,7 @@
   },
   {
     "id": 19613,
-    "name": "Arceuus library teleport",
+    "name": "Arceuus library teleport (tablet)",
     "examine": "A teleport to the Arceuus Librarysic",
     "image": "File:Arceuus library teleport (tablet).png",
     "isEquipable": false,
@@ -5623,7 +5623,7 @@
   },
   {
     "id": 8011,
-    "name": "Ardougne teleport",
+    "name": "Ardougne teleport (tablet)",
     "examine": "A teleport to East Ardougne.",
     "image": "File:Ardougne teleport (tablet).png",
     "isEquipable": false,
@@ -6224,7 +6224,7 @@
   },
   {
     "id": 8520,
-    "name": "Asgarnian ale",
+    "name": "Asgarnian ale (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Asgarnian ale (flatpack).png",
     "isEquipable": false,
@@ -7139,7 +7139,7 @@
   },
   {
     "id": 8926,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (blue)",
     "examine": "Essential pirate wear.",
     "image": "File:Bandana eyepatch (blue) equipped.png",
     "isEquipable": true,
@@ -7156,7 +7156,7 @@
   },
   {
     "id": 8927,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (brown)",
     "examine": "Essential pirate wear.",
     "image": "File:Bandana eyepatch (brown) equipped.png",
     "isEquipable": true,
@@ -7173,7 +7173,7 @@
   },
   {
     "id": 8925,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (red)",
     "examine": "Essential pirate wear.",
     "image": "File:Bandana eyepatch (red) equipped.png",
     "isEquipable": true,
@@ -7190,7 +7190,7 @@
   },
   {
     "id": 8924,
-    "name": "Bandana eyepatch",
+    "name": "Bandana eyepatch (white)",
     "examine": "Essential pirate wear.",
     "image": "File:Bandana eyepatch (white) equipped.png",
     "isEquipable": true,
@@ -7785,7 +7785,7 @@
   },
   {
     "id": 24955,
-    "name": "Barbarian teleport",
+    "name": "Barbarian teleport (tablet)",
     "examine": "A teleport to Barbarian Outpost.",
     "image": "File:Barbarian teleport (tablet).png",
     "isEquipable": false,
@@ -7916,7 +7916,7 @@
   },
   {
     "id": 19629,
-    "name": "Barrows teleport",
+    "name": "Barrows teleport (tablet)",
     "examine": "A teleport to the Barrows.",
     "image": "File:Barrows teleport (tablet).png",
     "isEquipable": false,
@@ -8115,7 +8115,7 @@
   },
   {
     "id": 22949,
-    "name": "Battlefront teleport",
+    "name": "Battlefront teleport (tablet)",
     "examine": "A teleport to the Kebos Battlefront.",
     "image": "File:Battlefront teleport (tablet).png",
     "isEquipable": false,
@@ -8297,7 +8297,7 @@
   },
   {
     "id": 8516,
-    "name": "Beer barrel",
+    "name": "Beer barrel (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Beer barrel (flatpack).png",
     "isEquipable": false,
@@ -8541,7 +8541,7 @@
   },
   {
     "id": 5075,
-    "name": "Bird nest",
+    "name": "Bird nest (empty)",
     "examine": "It's an empty bird's nest.",
     "image": "File:Bird nest (empty).png",
     "isEquipable": false,
@@ -8981,7 +8981,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -9001,7 +9001,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -9021,7 +9021,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -10469,7 +10469,7 @@
   },
   {
     "id": 10014,
-    "name": "Black warlock",
+    "name": "Black warlock (item)",
     "examine": "There's a black warlock butterfly in here.",
     "image": "File:Black warlock (item).png",
     "isEquipable": false,
@@ -10604,7 +10604,7 @@
   },
   {
     "id": 3361,
-    "name": "Blamish blue shell",
+    "name": "Blamish blue shell (pointed)",
     "examine": "A large blue coloured blamish snail shell, looks protective.",
     "image": "File:Blamish blue shell (pointed).png",
     "isEquipable": false,
@@ -10621,7 +10621,7 @@
   },
   {
     "id": 3351,
-    "name": "Blamish blue shell",
+    "name": "Blamish blue shell (round)",
     "examine": "A large blue coloured blamish snail shell, looks protective.",
     "image": "File:Blamish blue shell (round).png",
     "isEquipable": false,
@@ -10638,7 +10638,7 @@
   },
   {
     "id": 3355,
-    "name": "Blamish myre shell",
+    "name": "Blamish myre shell (pointed)",
     "examine": "A large 'Myre' coloured blamish snail shell, looks protective.",
     "image": "File:Blamish myre shell (pointed).png",
     "isEquipable": false,
@@ -10655,7 +10655,7 @@
   },
   {
     "id": 3345,
-    "name": "Blamish myre shell",
+    "name": "Blamish myre shell (round)",
     "examine": "A large 'Myre' coloured blamish snail shell, looks protective.",
     "image": "File:Blamish myre shell (round).png",
     "isEquipable": false,
@@ -10672,7 +10672,7 @@
   },
   {
     "id": 3359,
-    "name": "Blamish ochre shell",
+    "name": "Blamish ochre shell (pointed)",
     "examine": "A large ochre coloured blamish snail shell, looks protective.",
     "image": "File:Blamish ochre shell (pointed).png",
     "isEquipable": false,
@@ -10689,7 +10689,7 @@
   },
   {
     "id": 3349,
-    "name": "Blamish ochre shell",
+    "name": "Blamish ochre shell (round)",
     "examine": "A large muddy yellow coloured blamish snail shell, looks protective.",
     "image": "File:Blamish ochre shell (round).png",
     "isEquipable": false,
@@ -10706,7 +10706,7 @@
   },
   {
     "id": 3357,
-    "name": "Blamish red shell",
+    "name": "Blamish red shell (pointed)",
     "examine": "A large red coloured blamish snail shell, looks protective.",
     "image": "File:Blamish red shell (pointed).png",
     "isEquipable": false,
@@ -10723,7 +10723,7 @@
   },
   {
     "id": 3347,
-    "name": "Blamish red shell",
+    "name": "Blamish red shell (round)",
     "examine": "A large red and black blamish snail shell, looks protective.",
     "image": "File:Blamish red shell (round).png",
     "isEquipable": false,
@@ -11027,7 +11027,7 @@
   },
   {
     "id": 3339,
-    "name": "Blood'n'tar snelm",
+    "name": "Blood'n'tar snelm (pointed)",
     "examine": "A red and black pointed snail shell helmet.",
     "image": "File:Blood'n'tar snelm (pointed) equipped.png",
     "isEquipable": true,
@@ -11044,7 +11044,7 @@
   },
   {
     "id": 3329,
-    "name": "Blood'n'tar snelm",
+    "name": "Blood'n'tar snelm (round)",
     "examine": "A red and black Snail shell helmet.",
     "image": "File:Blood'n'tar snelm (round) equipped.png",
     "isEquipable": true,
@@ -12281,7 +12281,7 @@
   },
   {
     "id": 8014,
-    "name": "Bones to bananas",
+    "name": "Bones to bananas (tablet)",
     "examine": "A tablet containing a magic spell.",
     "image": "File:Bones to bananas (tablet).png",
     "isEquipable": false,
@@ -12298,7 +12298,7 @@
   },
   {
     "id": 8015,
-    "name": "Bones to peaches",
+    "name": "Bones to peaches (tablet)",
     "examine": "A tablet containing a magic spell.",
     "image": "File:Bones to peaches (tablet).png",
     "isEquipable": false,
@@ -12383,7 +12383,7 @@
   },
   {
     "id": 8510,
-    "name": "Bookcase",
+    "name": "Bookcase (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Bookcase (flatpack).png",
     "isEquipable": false,
@@ -12980,7 +12980,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13000,7 +13000,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13020,7 +13020,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13128,7 +13128,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13148,7 +13148,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13168,7 +13168,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -13339,7 +13339,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -13359,7 +13359,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -13379,7 +13379,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -14445,7 +14445,7 @@
   },
   {
     "id": 6279,
-    "name": "Broodoo shield",
+    "name": "Broodoo shield (blue)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (blue) equipped.png",
     "isEquipable": true,
@@ -14464,7 +14464,7 @@
   },
   {
     "id": 6259,
-    "name": "Broodoo shield (10)",
+    "name": "Broodoo shield (10) (blue)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (blue) equipped.png",
     "isEquipable": true,
@@ -14483,7 +14483,7 @@
   },
   {
     "id": 6235,
-    "name": "Broodoo shield",
+    "name": "Broodoo shield (green)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (green) equipped.png",
     "isEquipable": true,
@@ -14502,7 +14502,7 @@
   },
   {
     "id": 6215,
-    "name": "Broodoo shield (10)",
+    "name": "Broodoo shield (10) (green)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (green) equipped.png",
     "isEquipable": true,
@@ -14521,7 +14521,7 @@
   },
   {
     "id": 6257,
-    "name": "Broodoo shield",
+    "name": "Broodoo shield (orange)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (orange) equipped.png",
     "isEquipable": true,
@@ -14540,7 +14540,7 @@
   },
   {
     "id": 6237,
-    "name": "Broodoo shield (10)",
+    "name": "Broodoo shield (10) (orange)",
     "examine": "A scary broodoo shield.",
     "image": "File:Broodoo shield (orange) equipped.png",
     "isEquipable": true,
@@ -14610,7 +14610,7 @@
   },
   {
     "id": 3343,
-    "name": "Bruise blue snelm",
+    "name": "Bruise blue snelm (pointed)",
     "examine": "A moody blue pointed snail shell helmet.",
     "image": "File:Bruise blue snelm (pointed) equipped.png",
     "isEquipable": true,
@@ -14627,7 +14627,7 @@
   },
   {
     "id": 3333,
-    "name": "Bruise blue snelm",
+    "name": "Bruise blue snelm (round)",
     "examine": "A moody blue snail shell helmet.",
     "image": "File:Bruise blue snelm (round) equipped.png",
     "isEquipable": true,
@@ -15315,7 +15315,7 @@
   },
   {
     "id": 8010,
-    "name": "Camelot teleport",
+    "name": "Camelot teleport (tablet)",
     "examine": "A teleport to Camelot.",
     "image": "File:Camelot teleport (tablet).png",
     "isEquipable": false,
@@ -15348,7 +15348,7 @@
   },
   {
     "id": 4529,
-    "name": "Candle lantern",
+    "name": "Candle lantern (white)",
     "examine": "A candle in a glass cage.",
     "isEquipable": false,
     "isAlchable": false,
@@ -15366,7 +15366,7 @@
   },
   {
     "id": 4532,
-    "name": "Candle lantern",
+    "name": "Candle lantern (black)",
     "examine": "A candle in a glass cage.",
     "isEquipable": false,
     "isAlchable": false,
@@ -15486,7 +15486,7 @@
   },
   {
     "id": 12776,
-    "name": "Carrallangar teleport",
+    "name": "Carrallangar teleport (tablet)",
     "examine": "A teleport to Carrallangar, in level 19 Wilderness.",
     "image": "File:Carrallangar teleport (tablet).png",
     "isEquipable": false,
@@ -15503,7 +15503,7 @@
   },
   {
     "id": 8566,
-    "name": "Carved oak bench",
+    "name": "Carved oak bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Carved oak bench (flatpack).png",
     "isEquipable": false,
@@ -15520,7 +15520,7 @@
   },
   {
     "id": 9853,
-    "name": "Carved oak magic wardrobe",
+    "name": "Carved oak magic wardrobe (flatpack)",
     "examine": "Carved oak magic wardrobe.",
     "image": "File:Carved oak magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -15537,7 +15537,7 @@
   },
   {
     "id": 8552,
-    "name": "Carved oak table",
+    "name": "Carved oak table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Carved oak table (flatpack).png",
     "isEquipable": false,
@@ -15554,7 +15554,7 @@
   },
   {
     "id": 8570,
-    "name": "Carved teak bench",
+    "name": "Carved teak bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Carved teak bench (flatpack).png",
     "isEquipable": false,
@@ -15571,7 +15571,7 @@
   },
   {
     "id": 9855,
-    "name": "Carved teak magic wardrobe",
+    "name": "Carved teak magic wardrobe (flatpack)",
     "examine": "Carved teak magic wardrobe.",
     "image": "File:Carved teak magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -15588,7 +15588,7 @@
   },
   {
     "id": 8556,
-    "name": "Carved teak table",
+    "name": "Carved teak table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Carved teak table (flatpack).png",
     "isEquipable": false,
@@ -15690,7 +15690,7 @@
   },
   {
     "id": 24961,
-    "name": "Catherby teleport",
+    "name": "Catherby teleport (tablet)",
     "examine": "A teleport to Catherby.",
     "image": "File:Catherby teleport (tablet).png",
     "isEquipable": false,
@@ -15832,7 +15832,7 @@
   },
   {
     "id": 19627,
-    "name": "Cemetery teleport",
+    "name": "Cemetery teleport (tablet)",
     "examine": "A teleport to the Cemetery in level 31 Wilderness.",
     "image": "File:Cemetery teleport (tablet).png",
     "isEquipable": false,
@@ -15985,7 +15985,7 @@
   },
   {
     "id": 8526,
-    "name": "Chef's delight",
+    "name": "Chef's delight (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Chef's delight (flatpack).png",
     "isEquipable": false,
@@ -16392,7 +16392,7 @@
   },
   {
     "id": 8518,
-    "name": "Cider barrel",
+    "name": "Cider barrel (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Cider barrel (flatpack).png",
     "isEquipable": false,
@@ -17141,7 +17141,7 @@
   },
   {
     "id": 7228,
-    "name": "Cooked chompy",
+    "name": "Cooked chompy (roasted)",
     "examine": "Roasted chompy bird.",
     "image": "File:Cooked chompy (roasted).png",
     "isEquipable": false,
@@ -17598,7 +17598,7 @@
   },
   {
     "id": 8496,
-    "name": "Crude chair",
+    "name": "Crude chair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Crude chair (flatpack).png",
     "isEquipable": false,
@@ -17683,7 +17683,7 @@
   },
   {
     "id": 8624,
-    "name": "Crystal ball",
+    "name": "Crystal ball (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Crystal ball (flatpack).png",
     "isEquipable": false,
@@ -17734,7 +17734,7 @@
   },
   {
     "id": 8628,
-    "name": "Crystal of power",
+    "name": "Crystal of power (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Crystal of power (flatpack).png",
     "isEquipable": false,
@@ -18063,7 +18063,7 @@
   },
   {
     "id": 12777,
-    "name": "Dareeyak teleport",
+    "name": "Dareeyak teleport (tablet)",
     "examine": "A teleport to Dareeyak, in level 23 Wilderness.",
     "image": "File:Dareeyak teleport (tablet).png",
     "isEquipable": false,
@@ -18654,7 +18654,7 @@
   },
   {
     "id": 6388,
-    "name": "Desert top",
+    "name": "Desert top (overcoat)",
     "examine": "Good for those cold desert nights.",
     "image": "File:Desert top (overcoat) equipped male.png",
     "isEquipable": true,
@@ -20066,7 +20066,7 @@
   },
   {
     "id": 8524,
-    "name": "Dragon bitter",
+    "name": "Dragon bitter (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Dragon bitter (flatpack).png",
     "isEquipable": false,
@@ -21950,7 +21950,7 @@
   },
   {
     "id": 19615,
-    "name": "Draynor manor teleport",
+    "name": "Draynor manor teleport (tablet)",
     "examine": "A teleport to Draynor Manor.",
     "image": "File:Draynor manor teleport (tablet).png",
     "isEquipable": false,
@@ -22693,7 +22693,7 @@
   },
   {
     "id": 8626,
-    "name": "Elemental sphere",
+    "name": "Elemental sphere (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Elemental sphere (flatpack).png",
     "isEquipable": false,
@@ -22829,7 +22829,7 @@
   },
   {
     "id": 24018,
-    "name": "Elven skirt",
+    "name": "Elven skirt (white)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (white, female) equipped.png",
     "isEquipable": true,
@@ -22846,7 +22846,7 @@
   },
   {
     "id": 24012,
-    "name": "Elven skirt",
+    "name": "Elven skirt (yellow)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (yellow, female) equipped.png",
     "isEquipable": true,
@@ -22863,7 +22863,7 @@
   },
   {
     "id": 24027,
-    "name": "Elven top",
+    "name": "Elven top (white vest)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (white vest, male) equipped.png",
     "isEquipable": true,
@@ -22880,7 +22880,7 @@
   },
   {
     "id": 24015,
-    "name": "Elven top",
+    "name": "Elven top (white)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (white) equipped male.png",
     "isEquipable": true,
@@ -22897,7 +22897,7 @@
   },
   {
     "id": 24021,
-    "name": "Elven top",
+    "name": "Elven top (yellow vest)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (yellow vest, male) equipped.png",
     "isEquipable": true,
@@ -22914,7 +22914,7 @@
   },
   {
     "id": 24009,
-    "name": "Elven top",
+    "name": "Elven top (yellow)",
     "examine": "Clothing from the elven city of Prifddinas.",
     "image": "File:Elven top (yellow) equipped male.png",
     "isEquipable": true,
@@ -24431,7 +24431,7 @@
   },
   {
     "id": 8009,
-    "name": "Falador teleport",
+    "name": "Falador teleport (tablet)",
     "examine": "A teleport to Falador.",
     "image": "File:Falador teleport (tablet).png",
     "isEquipable": false,
@@ -24448,7 +24448,7 @@
   },
   {
     "id": 8445,
-    "name": "Fancy hedge",
+    "name": "Fancy hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Fancy hedge (bagged).png",
     "isEquipable": false,
@@ -24465,7 +24465,7 @@
   },
   {
     "id": 8604,
-    "name": "Fancy teak dresser",
+    "name": "Fancy teak dresser (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Fancy teak dresser (flatpack).png",
     "isEquipable": false,
@@ -24635,7 +24635,7 @@
   },
   {
     "id": 19621,
-    "name": "Fenkenstrain's castle teleport",
+    "name": "Fenkenstrain's castle teleport (tablet)",
     "examine": "A teleport to Fenkenstrain's Castle.",
     "image": "File:Fenkenstrain's castle teleport (tablet).png",
     "isEquipable": false,
@@ -24922,7 +24922,7 @@
   },
   {
     "id": 24959,
-    "name": "Fishing guild teleport",
+    "name": "Fishing guild teleport (tablet)",
     "examine": "A teleport to the Fishing Guild.",
     "image": "File:Fishing guild teleport (tablet).png",
     "isEquipable": false,
@@ -25214,7 +25214,7 @@
   },
   {
     "id": 8586,
-    "name": "Four-poster bed",
+    "name": "Four-poster bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Four-poster bed (flatpack).png",
     "isEquipable": false,
@@ -25927,7 +25927,7 @@
   },
   {
     "id": 12778,
-    "name": "Ghorrock teleport",
+    "name": "Ghorrock teleport (tablet)",
     "examine": "A teleport to Ghorrock, in level 45 Wilderness.",
     "image": "File:Ghorrock teleport (tablet).png",
     "isEquipable": false,
@@ -26130,7 +26130,7 @@
   },
   {
     "id": 8574,
-    "name": "Gilded bench",
+    "name": "Gilded bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded bench (flatpack).png",
     "isEquipable": false,
@@ -26164,7 +26164,7 @@
   },
   {
     "id": 9846,
-    "name": "Gilded cape rack",
+    "name": "Gilded cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded cape rack (flatpack).png",
     "isEquipable": false,
@@ -26198,7 +26198,7 @@
   },
   {
     "id": 8594,
-    "name": "Gilded clock",
+    "name": "Gilded clock (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded clock (flatpack).png",
     "isEquipable": false,
@@ -26300,7 +26300,7 @@
   },
   {
     "id": 8608,
-    "name": "Gilded dresser",
+    "name": "Gilded dresser (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded dresser (flatpack).png",
     "isEquipable": false,
@@ -26317,7 +26317,7 @@
   },
   {
     "id": 8588,
-    "name": "Gilded four-poster",
+    "name": "Gilded four-poster (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded four-poster (flatpack).png",
     "isEquipable": false,
@@ -26385,7 +26385,7 @@
   },
   {
     "id": 9857,
-    "name": "Gilded magic wardrobe",
+    "name": "Gilded magic wardrobe (flatpack)",
     "examine": "Gilded mahogany magic wardrobe.",
     "image": "File:Gilded magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -26555,7 +26555,7 @@
   },
   {
     "id": 8622,
-    "name": "Gilded wardrobe",
+    "name": "Gilded wardrobe (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Gilded wardrobe (flatpack).png",
     "isEquipable": false,
@@ -28198,7 +28198,7 @@
   },
   {
     "id": 8522,
-    "name": "Greenman's ale",
+    "name": "Greenman's ale (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Greenman's ale (flatpack).png",
     "isEquipable": false,
@@ -29848,7 +29848,7 @@
   },
   {
     "id": 19625,
-    "name": "Harmony island teleport",
+    "name": "Harmony island teleport (tablet)",
     "examine": "A teleport to Harmony Island.",
     "image": "File:Harmony island teleport (tablet).png",
     "isEquipable": false,
@@ -30503,7 +30503,7 @@
   },
   {
     "id": 24963,
-    "name": "Ice plateau teleport",
+    "name": "Ice plateau teleport (tablet)",
     "examine": "A teleport to the Ice Plateau in level 53 Wilderness.",
     "image": "File:Ice plateau teleport (tablet).png",
     "isEquipable": false,
@@ -31045,7 +31045,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -31065,7 +31065,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -31085,7 +31085,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -31404,7 +31404,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -31424,7 +31424,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -31444,7 +31444,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -33261,7 +33261,7 @@
   },
   {
     "id": 3159,
-    "name": "Karambwan vessel",
+    "name": "Karambwan vessel (baited)",
     "examine": "This Karambwan Vessel is loaded with Karambwanji.",
     "isEquipable": false,
     "isAlchable": false,
@@ -33635,7 +33635,7 @@
   },
   {
     "id": 12779,
-    "name": "Kharyrll teleport",
+    "name": "Kharyrll teleport (tablet)",
     "examine": "A teleport to Kharyrll.",
     "image": "File:Kharyrll teleport (tablet).png",
     "isEquipable": false,
@@ -33652,7 +33652,7 @@
   },
   {
     "id": 24957,
-    "name": "Khazard teleport",
+    "name": "Khazard teleport (tablet)",
     "examine": "A teleport to Port Khazard.",
     "image": "File:Khazard teleport (tablet).png",
     "isEquipable": false,
@@ -33703,7 +33703,7 @@
   },
   {
     "id": 8528,
-    "name": "Kitchen table",
+    "name": "Kitchen table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Kitchen table (flatpack).png",
     "isEquipable": false,
@@ -34027,7 +34027,7 @@
   },
   {
     "id": 8580,
-    "name": "Large oak bed",
+    "name": "Large oak bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Large oak bed (flatpack).png",
     "isEquipable": false,
@@ -34044,7 +34044,7 @@
   },
   {
     "id": 8584,
-    "name": "Large teak bed",
+    "name": "Large teak bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Large teak bed (flatpack).png",
     "isEquipable": false,
@@ -34129,7 +34129,7 @@
   },
   {
     "id": 12780,
-    "name": "Lassar teleport",
+    "name": "Lassar teleport (tablet)",
     "examine": "A teleport to Lassar.",
     "image": "File:Lassar teleport (tablet).png",
     "isEquipable": false,
@@ -35262,7 +35262,7 @@
   },
   {
     "id": 8008,
-    "name": "Lumbridge teleport",
+    "name": "Lumbridge teleport (tablet)",
     "examine": "A teleport to Lumbridge.",
     "image": "File:Lumbridge teleport (tablet).png",
     "isEquipable": false,
@@ -35296,7 +35296,7 @@
   },
   {
     "id": 9864,
-    "name": "M. treasure chest",
+    "name": "M. treasure chest (flatpack)",
     "examine": "Mahogany treasure chest.",
     "image": "File:M. treasure chest (flatpack).png",
     "isEquipable": false,
@@ -35398,7 +35398,7 @@
   },
   {
     "id": 9848,
-    "name": "Magic cape rack",
+    "name": "Magic cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Magic cape rack (flatpack).png",
     "isEquipable": false,
@@ -35879,7 +35879,7 @@
   },
   {
     "id": 8508,
-    "name": "Mahogany armchair",
+    "name": "Mahogany armchair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany armchair (flatpack).png",
     "isEquipable": false,
@@ -35896,7 +35896,7 @@
   },
   {
     "id": 9861,
-    "name": "Mahogany armour case",
+    "name": "Mahogany armour case (flatpack)",
     "examine": "Mahogany armour case.",
     "image": "File:Mahogany armour case (flatpack).png",
     "isEquipable": false,
@@ -35913,7 +35913,7 @@
   },
   {
     "id": 8572,
-    "name": "Mahogany bench",
+    "name": "Mahogany bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany bench (flatpack).png",
     "isEquipable": false,
@@ -35947,7 +35947,7 @@
   },
   {
     "id": 8514,
-    "name": "Mahogany bookcase",
+    "name": "Mahogany bookcase (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany bookcase (flatpack).png",
     "isEquipable": false,
@@ -35964,7 +35964,7 @@
   },
   {
     "id": 9845,
-    "name": "Mahogany cape rack",
+    "name": "Mahogany cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany cape rack (flatpack).png",
     "isEquipable": false,
@@ -35981,7 +35981,7 @@
   },
   {
     "id": 8606,
-    "name": "Mahogany dresser",
+    "name": "Mahogany dresser (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany dresser (flatpack).png",
     "isEquipable": false,
@@ -35998,7 +35998,7 @@
   },
   {
     "id": 9867,
-    "name": "Mahogany fancy dress box",
+    "name": "Mahogany fancy dress box (flatpack)",
     "examine": "Mahogany fancy dress box.",
     "image": "File:Mahogany fancy dress box (flatpack).png",
     "isEquipable": false,
@@ -36032,7 +36032,7 @@
   },
   {
     "id": 9856,
-    "name": "Mahogany magic wardrobe",
+    "name": "Mahogany magic wardrobe (flatpack)",
     "examine": "Mahogany magic wardrobe.",
     "image": "File:Mahogany magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -36140,7 +36140,7 @@
   },
   {
     "id": 8558,
-    "name": "Mahogany table",
+    "name": "Mahogany table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany table (flatpack).png",
     "isEquipable": false,
@@ -36157,7 +36157,7 @@
   },
   {
     "id": 9851,
-    "name": "Mahogany toy box",
+    "name": "Mahogany toy box (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany toy box (flatpack).png",
     "isEquipable": false,
@@ -36174,7 +36174,7 @@
   },
   {
     "id": 8620,
-    "name": "Mahogany wardrobe",
+    "name": "Mahogany wardrobe (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Mahogany wardrobe (flatpack).png",
     "isEquipable": false,
@@ -36571,7 +36571,7 @@
   },
   {
     "id": 9847,
-    "name": "Marble cape rack",
+    "name": "Marble cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Marble cape rack (flatpack).png",
     "isEquipable": false,
@@ -36588,7 +36588,7 @@
   },
   {
     "id": 9858,
-    "name": "Marble magic wardrobe",
+    "name": "Marble magic wardrobe (flatpack)",
     "examine": "Marble magic wardrobe.",
     "image": "File:Marble magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -37022,7 +37022,7 @@
   },
   {
     "id": 19617,
-    "name": "Mind altar teleport",
+    "name": "Mind altar teleport (tablet)",
     "examine": "A teleport to the Mind Altar.",
     "image": "File:Mind altar teleport (tablet).png",
     "isEquipable": false,
@@ -37259,7 +37259,7 @@
   },
   {
     "id": 9418,
-    "name": "Mith grapple",
+    "name": "Mith grapple (unf)",
     "examine": "A mithril grapple tipped bolt - needs a rope.",
     "image": "File:Mith grapple (unf).png",
     "isEquipable": false,
@@ -37336,7 +37336,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -37356,7 +37356,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -37376,7 +37376,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -37695,7 +37695,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -37715,7 +37715,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -37735,7 +37735,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -39090,7 +39090,7 @@
   },
   {
     "id": 24949,
-    "name": "Moonclan teleport",
+    "name": "Moonclan teleport (tablet)",
     "examine": "A teleport to Lunar Isle.",
     "image": "File:Moonclan teleport (tablet).png",
     "isEquipable": false,
@@ -39588,7 +39588,7 @@
   },
   {
     "id": 3337,
-    "name": "Myre snelm",
+    "name": "Myre snelm (pointed)",
     "examine": "A swamp coloured pointed snail shell helmet.",
     "image": "File:Myre snelm (pointed) equipped.png",
     "isEquipable": true,
@@ -39605,7 +39605,7 @@
   },
   {
     "id": 3327,
-    "name": "Myre snelm",
+    "name": "Myre snelm (round)",
     "examine": "A marshy coloured snail shell helmet.",
     "image": "File:Myre snelm (round) equipped.png",
     "isEquipable": true,
@@ -40461,7 +40461,7 @@
   },
   {
     "id": 8439,
-    "name": "Nice hedge",
+    "name": "Nice hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Nice hedge (bagged).png",
     "isEquipable": false,
@@ -40638,7 +40638,7 @@
   },
   {
     "id": 8504,
-    "name": "Oak armchair",
+    "name": "Oak armchair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak armchair (flatpack).png",
     "isEquipable": false,
@@ -40655,7 +40655,7 @@
   },
   {
     "id": 9859,
-    "name": "Oak armour case",
+    "name": "Oak armour case (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak armour case (flatpack).png",
     "isEquipable": false,
@@ -40672,7 +40672,7 @@
   },
   {
     "id": 8578,
-    "name": "Oak bed",
+    "name": "Oak bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak bed (flatpack).png",
     "isEquipable": false,
@@ -40689,7 +40689,7 @@
   },
   {
     "id": 8564,
-    "name": "Oak bench",
+    "name": "Oak bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak bench (flatpack).png",
     "isEquipable": false,
@@ -40757,7 +40757,7 @@
   },
   {
     "id": 8512,
-    "name": "Oak bookcase",
+    "name": "Oak bookcase (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak bookcase (flatpack).png",
     "isEquipable": false,
@@ -40774,7 +40774,7 @@
   },
   {
     "id": 9843,
-    "name": "Oak cape rack",
+    "name": "Oak cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak cape rack (flatpack).png",
     "isEquipable": false,
@@ -40791,7 +40791,7 @@
   },
   {
     "id": 8502,
-    "name": "Oak chair",
+    "name": "Oak chair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak chair (flatpack).png",
     "isEquipable": false,
@@ -40808,7 +40808,7 @@
   },
   {
     "id": 8590,
-    "name": "Oak clock",
+    "name": "Oak clock (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak clock (flatpack).png",
     "isEquipable": false,
@@ -40825,7 +40825,7 @@
   },
   {
     "id": 8550,
-    "name": "Oak dining table",
+    "name": "Oak dining table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak dining table (flatpack).png",
     "isEquipable": false,
@@ -40842,7 +40842,7 @@
   },
   {
     "id": 8612,
-    "name": "Oak drawers",
+    "name": "Oak drawers (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak drawers (flatpack).png",
     "isEquipable": false,
@@ -40859,7 +40859,7 @@
   },
   {
     "id": 8600,
-    "name": "Oak dresser",
+    "name": "Oak dresser (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak dresser (flatpack).png",
     "isEquipable": false,
@@ -40876,7 +40876,7 @@
   },
   {
     "id": 9865,
-    "name": "Oak fancy dress box",
+    "name": "Oak fancy dress box (flatpack)",
     "examine": "Oak fancy dress box.",
     "image": "File:Oak fancy dress box (flatpack).png",
     "isEquipable": false,
@@ -40893,7 +40893,7 @@
   },
   {
     "id": 8530,
-    "name": "Oak kitchen table",
+    "name": "Oak kitchen table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak kitchen table (flatpack).png",
     "isEquipable": false,
@@ -40961,7 +40961,7 @@
   },
   {
     "id": 9852,
-    "name": "Oak magic wardrobe",
+    "name": "Oak magic wardrobe (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -41046,7 +41046,7 @@
   },
   {
     "id": 8598,
-    "name": "Oak shaving stand",
+    "name": "Oak shaving stand (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak shaving stand (flatpack).png",
     "isEquipable": false,
@@ -41131,7 +41131,7 @@
   },
   {
     "id": 9849,
-    "name": "Oak toy box",
+    "name": "Oak toy box (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak toy box (flatpack).png",
     "isEquipable": false,
@@ -41148,7 +41148,7 @@
   },
   {
     "id": 9862,
-    "name": "Oak treasure chest",
+    "name": "Oak treasure chest (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak treasure chest (flatpack).png",
     "isEquipable": false,
@@ -41165,7 +41165,7 @@
   },
   {
     "id": 8614,
-    "name": "Oak wardrobe",
+    "name": "Oak wardrobe (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Oak wardrobe (flatpack).png",
     "isEquipable": false,
@@ -41318,7 +41318,7 @@
   },
   {
     "id": 3341,
-    "name": "Ochre snelm",
+    "name": "Ochre snelm (pointed)",
     "examine": "A muddy yellow coloured pointed snail shell helmet.",
     "image": "File:Ochre snelm (pointed) equipped.png",
     "isEquipable": true,
@@ -41335,7 +41335,7 @@
   },
   {
     "id": 3331,
-    "name": "Ochre snelm",
+    "name": "Ochre snelm (round)",
     "examine": "A muddy yellow snail shell helmet.",
     "image": "File:Ochre snelm (round) equipped.png",
     "isEquipable": true,
@@ -42169,7 +42169,7 @@
   },
   {
     "id": 8560,
-    "name": "Opulent table",
+    "name": "Opulent table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Opulent table (flatpack).png",
     "isEquipable": false,
@@ -42412,7 +42412,7 @@
   },
   {
     "id": 24951,
-    "name": "Ourania teleport",
+    "name": "Ourania teleport (tablet)",
     "examine": "A teleport to the Ourania cave.",
     "image": "File:Ourania teleport (tablet).png",
     "isEquipable": false,
@@ -42497,7 +42497,7 @@
   },
   {
     "id": 12781,
-    "name": "Paddewwa teleport",
+    "name": "Paddewwa teleport (tablet)",
     "examine": "A teleport to Paddewwa.",
     "image": "File:Paddewwa teleport (tablet).png",
     "isEquipable": false,
@@ -43415,7 +43415,7 @@
   },
   {
     "id": 7130,
-    "name": "Pirate bandana",
+    "name": "Pirate bandana (blue)",
     "examine": "Essential pirate wear.",
     "image": "File:Pirate bandana (blue) equipped male.png",
     "isEquipable": true,
@@ -43432,7 +43432,7 @@
   },
   {
     "id": 7136,
-    "name": "Pirate bandana",
+    "name": "Pirate bandana (brown)",
     "examine": "Essential pirate wear.",
     "image": "File:Pirate bandana (brown) equipped male.png",
     "isEquipable": true,
@@ -43449,7 +43449,7 @@
   },
   {
     "id": 7124,
-    "name": "Pirate bandana",
+    "name": "Pirate bandana (red)",
     "examine": "Essential pirate wear.",
     "image": "File:Pirate bandana (red) equipped male.png",
     "isEquipable": true,
@@ -43466,7 +43466,7 @@
   },
   {
     "id": 7112,
-    "name": "Pirate bandana",
+    "name": "Pirate bandana (white)",
     "examine": "Essential pirate wear.",
     "image": "File:Pirate bandana (white) equipped male.png",
     "isEquipable": true,
@@ -43517,7 +43517,7 @@
   },
   {
     "id": 7116,
-    "name": "Pirate leggings",
+    "name": "Pirate leggings (brown)",
     "examine": "A sea worthy pair of trousers.",
     "image": "File:Pirate leggings (beige) equipped male.png",
     "isEquipable": true,
@@ -43534,7 +43534,7 @@
   },
   {
     "id": 7132,
-    "name": "Pirate leggings",
+    "name": "Pirate leggings (blue)",
     "examine": "A sea worthy pair of trousers.",
     "image": "File:Pirate leggings (blue) equipped male.png",
     "isEquipable": true,
@@ -43551,7 +43551,7 @@
   },
   {
     "id": 7138,
-    "name": "Pirate leggings",
+    "name": "Pirate leggings (brown)",
     "examine": "A sea worthy pair of trousers.",
     "image": "File:Pirate leggings (brown) equipped male.png",
     "isEquipable": true,
@@ -43568,7 +43568,7 @@
   },
   {
     "id": 7126,
-    "name": "Pirate leggings",
+    "name": "Pirate leggings (red)",
     "examine": "A sea worthy pair of trousers.",
     "image": "File:Pirate leggings (red) equipped male.png",
     "isEquipable": true,
@@ -43788,7 +43788,7 @@
   },
   {
     "id": 273,
-    "name": "Poison",
+    "name": "Poison (item)",
     "examine": "This stuff looks nasty.",
     "image": "File:Poison (item).png",
     "isEquipable": false,
@@ -44635,7 +44635,7 @@
   },
   {
     "id": 428,
-    "name": "Priest gown",
+    "name": "Priest gown (bottom)",
     "examine": "Bottom half of a priest suit.",
     "image": "File:Priest gown (bottom) equipped male.png",
     "isEquipable": true,
@@ -44652,7 +44652,7 @@
   },
   {
     "id": 426,
-    "name": "Priest gown",
+    "name": "Priest gown (top)",
     "examine": "Top half of a priest suit.",
     "image": "File:Priest gown (top) equipped male.png",
     "isEquipable": true,
@@ -48009,7 +48009,7 @@
   },
   {
     "id": 8500,
-    "name": "Rocking chair",
+    "name": "Rocking chair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Rocking chair (flatpack).png",
     "isEquipable": false,
@@ -48367,7 +48367,7 @@
   },
   {
     "id": 10020,
-    "name": "Ruby harvest",
+    "name": "Ruby harvest (item)",
     "examine": "There's a ruby harvest butterfly in here.",
     "image": "File:Ruby harvest (item).png",
     "isEquipable": false,
@@ -48734,7 +48734,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -48754,7 +48754,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -48774,7 +48774,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -50448,7 +50448,7 @@
   },
   {
     "id": 19619,
-    "name": "Salve graveyard teleport",
+    "name": "Salve graveyard teleport (tablet)",
     "examine": "A teleport to the Salve graveyard.",
     "image": "File:Salve graveyard teleport (tablet).png",
     "isEquipable": false,
@@ -50995,7 +50995,7 @@
   },
   {
     "id": 10018,
-    "name": "Sapphire glacialis",
+    "name": "Sapphire glacialis (item)",
     "examine": "There's a sapphire glacialis butterfly in here.",
     "image": "File:Sapphire glacialis (item).png",
     "isEquipable": false,
@@ -51896,7 +51896,7 @@
   },
   {
     "id": 12782,
-    "name": "Senntisten teleport",
+    "name": "Senntisten teleport (tablet)",
     "examine": "A teleport to Senntisten.",
     "image": "File:Senntisten teleport (tablet).png",
     "isEquipable": false,
@@ -52094,7 +52094,7 @@
   },
   {
     "id": 1854,
-    "name": "Shantay pass",
+    "name": "Shantay pass (item)",
     "examine": "Allows you to pass through the Shantay pass into the Kharid Desert.",
     "image": "File:Shantay pass (item).png",
     "isEquipable": false,
@@ -52502,7 +52502,7 @@
   },
   {
     "id": 8596,
-    "name": "Shaving stand",
+    "name": "Shaving stand (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Shaving stand (flatpack).png",
     "isEquipable": false,
@@ -52638,7 +52638,7 @@
   },
   {
     "id": 5030,
-    "name": "Shirt",
+    "name": "Shirt (brown)",
     "examine": "Tiny!",
     "image": "File:Shirt (brown) equipped male.png",
     "isEquipable": true,
@@ -52655,7 +52655,7 @@
   },
   {
     "id": 5034,
-    "name": "Shirt",
+    "name": "Shirt (lilac)",
     "examine": "Tiny!",
     "image": "File:Shirt (lilac) equipped male.png",
     "isEquipable": true,
@@ -52672,7 +52672,7 @@
   },
   {
     "id": 5032,
-    "name": "Shirt",
+    "name": "Shirt (yellow)",
     "examine": "Tiny!",
     "image": "File:Shirt (yellow) equipped male.png",
     "isEquipable": true,
@@ -52689,7 +52689,7 @@
   },
   {
     "id": 8610,
-    "name": "Shoe box",
+    "name": "Shoe box (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Shoe box (flatpack).png",
     "isEquipable": false,
@@ -52757,7 +52757,7 @@
   },
   {
     "id": 5046,
-    "name": "Shorts",
+    "name": "Shorts (blue)",
     "examine": "Blue shorts, these would look great on dwarves!",
     "image": "File:Shorts (blue) equipped male.png",
     "isEquipable": true,
@@ -52774,7 +52774,7 @@
   },
   {
     "id": 5042,
-    "name": "Shorts",
+    "name": "Shorts (brown)",
     "examine": "These look great, on dwarves!",
     "image": "File:Shorts (brown) equipped male.png",
     "isEquipable": true,
@@ -52791,7 +52791,7 @@
   },
   {
     "id": 5044,
-    "name": "Shorts",
+    "name": "Shorts (yellow)",
     "examine": "Yellow shorts. Far too small for you.",
     "image": "File:Shorts (yellow) equipped male.png",
     "isEquipable": true,
@@ -54162,7 +54162,7 @@
   },
   {
     "id": 5052,
-    "name": "Skirt",
+    "name": "Skirt (blue)",
     "examine": "A blue skirt.",
     "image": "File:Skirt (blue) equipped male.png",
     "isEquipable": true,
@@ -54179,7 +54179,7 @@
   },
   {
     "id": 5048,
-    "name": "Skirt",
+    "name": "Skirt (brown)",
     "examine": "A brown skirt. Size small!",
     "image": "File:Skirt (brown) equipped male.png",
     "isEquipable": true,
@@ -54196,7 +54196,7 @@
   },
   {
     "id": 5050,
-    "name": "Skirt",
+    "name": "Skirt (lilac)",
     "examine": "Lilac skirt.",
     "image": "File:Skirt (lilac) equipped male.png",
     "isEquipable": true,
@@ -54400,7 +54400,7 @@
   },
   {
     "id": 8441,
-    "name": "Small box hedge",
+    "name": "Small box hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Small box hedge (bagged).png",
     "isEquipable": false,
@@ -54502,7 +54502,7 @@
   },
   {
     "id": 7801,
-    "name": "Snake hide",
+    "name": "Snake hide (swamp)",
     "examine": "Scaly but not slimy!",
     "image": "File:Snake hide (swamp).png",
     "isEquipable": false,
@@ -54735,7 +54735,7 @@
   },
   {
     "id": 10016,
-    "name": "Snowy knight",
+    "name": "Snowy knight (item)",
     "examine": "There's a snowy knight butterfly in here.",
     "image": "File:Snowy knight (item).png",
     "isEquipable": false,
@@ -55776,7 +55776,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -55796,7 +55796,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -55816,7 +55816,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": true,
     "drop": "Drop",
     "options": [],
@@ -56135,7 +56135,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -56155,7 +56155,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -56175,7 +56175,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": false,
+    "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -57582,7 +57582,7 @@
   },
   {
     "id": 7110,
-    "name": "Stripy pirate shirt",
+    "name": "Stripy pirate shirt (beige)",
     "examine": "A sea worthy shirt.",
     "image": "File:Stripy pirate shirt (beige) equipped male.png",
     "isEquipable": true,
@@ -57599,7 +57599,7 @@
   },
   {
     "id": 7128,
-    "name": "Stripy pirate shirt",
+    "name": "Stripy pirate shirt (blue)",
     "examine": "A sea worthy shirt.",
     "image": "File:Stripy pirate shirt (blue) equipped male.png",
     "isEquipable": true,
@@ -57616,7 +57616,7 @@
   },
   {
     "id": 7134,
-    "name": "Stripy pirate shirt",
+    "name": "Stripy pirate shirt (brown)",
     "examine": "A sea worthy shirt.",
     "image": "File:Stripy pirate shirt (brown) equipped male.png",
     "isEquipable": true,
@@ -57633,7 +57633,7 @@
   },
   {
     "id": 7122,
-    "name": "Stripy pirate shirt",
+    "name": "Stripy pirate shirt (red)",
     "examine": "A sea worthy shirt.",
     "image": "File:Stripy pirate shirt (red) equipped male.png",
     "isEquipable": true,
@@ -58794,7 +58794,7 @@
   },
   {
     "id": 2150,
-    "name": "Swamp toad",
+    "name": "Swamp toad (item)",
     "examine": "A slippery little blighter.",
     "image": "File:Swamp toad (item).png",
     "isEquipable": false,
@@ -58930,7 +58930,7 @@
   },
   {
     "id": 7088,
-    "name": "Sweetcorn",
+    "name": "Sweetcorn (bowl)",
     "examine": "A bowl of cooked sweetcorn.",
     "image": "File:Sweetcorn (bowl).png",
     "isEquipable": false,
@@ -59021,7 +59021,7 @@
   },
   {
     "id": 8449,
-    "name": "Tall box hedge",
+    "name": "Tall box hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Tall box hedge (bagged).png",
     "isEquipable": false,
@@ -59038,7 +59038,7 @@
   },
   {
     "id": 8447,
-    "name": "Tall fancy hedge",
+    "name": "Tall fancy hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Tall fancy hedge (bagged).png",
     "isEquipable": false,
@@ -59299,7 +59299,7 @@
   },
   {
     "id": 8506,
-    "name": "Teak armchair",
+    "name": "Teak armchair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak armchair (flatpack).png",
     "isEquipable": false,
@@ -59316,7 +59316,7 @@
   },
   {
     "id": 9860,
-    "name": "Teak armour case",
+    "name": "Teak armour case (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak armour case (flatpack).png",
     "isEquipable": false,
@@ -59333,7 +59333,7 @@
   },
   {
     "id": 8582,
-    "name": "Teak bed",
+    "name": "Teak bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak bed (flatpack).png",
     "isEquipable": false,
@@ -59367,7 +59367,7 @@
   },
   {
     "id": 9844,
-    "name": "Teak cape rack",
+    "name": "Teak cape rack (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak cape rack (flatpack).png",
     "isEquipable": false,
@@ -59384,7 +59384,7 @@
   },
   {
     "id": 8592,
-    "name": "Teak clock",
+    "name": "Teak clock (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak clock (flatpack).png",
     "isEquipable": false,
@@ -59401,7 +59401,7 @@
   },
   {
     "id": 8568,
-    "name": "Teak dining bench",
+    "name": "Teak dining bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak dining bench (flatpack).png",
     "isEquipable": false,
@@ -59418,7 +59418,7 @@
   },
   {
     "id": 8616,
-    "name": "Teak drawers",
+    "name": "Teak drawers (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak drawers (flatpack).png",
     "isEquipable": false,
@@ -59435,7 +59435,7 @@
   },
   {
     "id": 8602,
-    "name": "Teak dresser",
+    "name": "Teak dresser (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak dresser (flatpack).png",
     "isEquipable": false,
@@ -59452,7 +59452,7 @@
   },
   {
     "id": 9866,
-    "name": "Teak fancy dress box",
+    "name": "Teak fancy dress box (flatpack)",
     "examine": "Teak fancy dress box.",
     "image": "File:Teak fancy dress box (flatpack).png",
     "isEquipable": false,
@@ -59469,7 +59469,7 @@
   },
   {
     "id": 8532,
-    "name": "Teak kitchen table",
+    "name": "Teak kitchen table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak kitchen table (flatpack).png",
     "isEquipable": false,
@@ -59503,7 +59503,7 @@
   },
   {
     "id": 9854,
-    "name": "Teak magic wardrobe",
+    "name": "Teak magic wardrobe (flatpack)",
     "examine": "Teak magic wardrobe.",
     "image": "File:Teak magic wardrobe (flatpack).png",
     "isEquipable": false,
@@ -59611,7 +59611,7 @@
   },
   {
     "id": 8554,
-    "name": "Teak table",
+    "name": "Teak table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak table (flatpack).png",
     "isEquipable": false,
@@ -59628,7 +59628,7 @@
   },
   {
     "id": 9850,
-    "name": "Teak toy box",
+    "name": "Teak toy box (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak toy box (flatpack).png",
     "isEquipable": false,
@@ -59645,7 +59645,7 @@
   },
   {
     "id": 9863,
-    "name": "Teak treasure chest",
+    "name": "Teak treasure chest (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak treasure chest (flatpack).png",
     "isEquipable": false,
@@ -59662,7 +59662,7 @@
   },
   {
     "id": 8618,
-    "name": "Teak wardrobe",
+    "name": "Teak wardrobe (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Teak wardrobe (flatpack).png",
     "isEquipable": false,
@@ -60699,7 +60699,7 @@
   },
   {
     "id": 8013,
-    "name": "Teleport to house",
+    "name": "Teleport to house (tablet)",
     "examine": "A teleport to one's own house.",
     "image": "File:Teleport to house (tablet).png",
     "isEquipable": false,
@@ -60834,7 +60834,7 @@
   },
   {
     "id": 8437,
-    "name": "Thorny hedge",
+    "name": "Thorny hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Thorny hedge (bagged).png",
     "isEquipable": false,
@@ -61485,7 +61485,7 @@
   },
   {
     "id": 8443,
-    "name": "Topiary hedge",
+    "name": "Topiary hedge (bagged)",
     "examine": "You can plant this in your garden.",
     "image": "File:Topiary hedge (bagged).png",
     "isEquipable": false,
@@ -62537,7 +62537,7 @@
   },
   {
     "id": 6339,
-    "name": "Tribal mask",
+    "name": "Tribal mask (blue)",
     "examine": "A ceremonial wooden mask.",
     "image": "File:Tribal mask (blue) equipped.png",
     "isEquipable": true,
@@ -62554,7 +62554,7 @@
   },
   {
     "id": 6335,
-    "name": "Tribal mask",
+    "name": "Tribal mask (green)",
     "examine": "A ceremonial wooden mask.",
     "image": "File:Tribal mask (green) equipped.png",
     "isEquipable": true,
@@ -62571,7 +62571,7 @@
   },
   {
     "id": 6337,
-    "name": "Tribal mask",
+    "name": "Tribal mask (orange)",
     "examine": "A ceremonial wooden mask.",
     "image": "File:Tribal mask (orange) equipped.png",
     "isEquipable": true,
@@ -62588,7 +62588,7 @@
   },
   {
     "id": 6351,
-    "name": "Tribal top",
+    "name": "Tribal top (blue)",
     "examine": "Local dress.",
     "image": "File:Tribal top (blue) equipped male.png",
     "isEquipable": true,
@@ -62605,7 +62605,7 @@
   },
   {
     "id": 6341,
-    "name": "Tribal top",
+    "name": "Tribal top (brown)",
     "examine": "Local dress.",
     "image": "File:Tribal top (brown) equipped male.png",
     "isEquipable": true,
@@ -62622,7 +62622,7 @@
   },
   {
     "id": 6371,
-    "name": "Tribal top",
+    "name": "Tribal top (pink)",
     "examine": "Local dress.",
     "image": "File:Tribal top (pink) equipped male.png",
     "isEquipable": true,
@@ -62639,7 +62639,7 @@
   },
   {
     "id": 6361,
-    "name": "Tribal top",
+    "name": "Tribal top (yellow)",
     "examine": "Local dress.",
     "image": "File:Tribal top (yellow) equipped male.png",
     "isEquipable": true,
@@ -62743,7 +62743,7 @@
   },
   {
     "id": 5040,
-    "name": "Trousers",
+    "name": "Trousers (blue)",
     "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
     "image": "File:Trousers (blue) equipped male.png",
     "isEquipable": true,
@@ -62760,7 +62760,7 @@
   },
   {
     "id": 5036,
-    "name": "Trousers",
+    "name": "Trousers (brown)",
     "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
     "image": "File:Trousers (brown) equipped male.png",
     "isEquipable": true,
@@ -62777,7 +62777,7 @@
   },
   {
     "id": 5038,
-    "name": "Trousers",
+    "name": "Trousers (lilac)",
     "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
     "image": "File:Trousers (lilac) equipped male.png",
     "isEquipable": true,
@@ -64194,7 +64194,7 @@
   },
   {
     "id": 8007,
-    "name": "Varrock teleport",
+    "name": "Varrock teleport (tablet)",
     "examine": "A teleport to Varrock.",
     "image": "File:Varrock teleport (tablet).png",
     "isEquipable": false,
@@ -64515,7 +64515,7 @@
   },
   {
     "id": 6359,
-    "name": "Villager armband",
+    "name": "Villager armband (blue)",
     "examine": "A light blue armband, as worn by the Tai Bwo Wannai locals.",
     "image": "File:Villager armband (blue) equipped male.png",
     "isEquipable": true,
@@ -64532,7 +64532,7 @@
   },
   {
     "id": 6347,
-    "name": "Villager armband",
+    "name": "Villager armband (brown)",
     "examine": "A brown armband, as worn by the Tai Bwo Wannai locals.",
     "image": "File:Villager armband (brown) equipped male.png",
     "isEquipable": true,
@@ -64549,7 +64549,7 @@
   },
   {
     "id": 6379,
-    "name": "Villager armband",
+    "name": "Villager armband (pink)",
     "examine": "A white armband, as worn by the Tai Bwo Wannai locals.",
     "image": "File:Villager armband (pink) equipped male.png",
     "isEquipable": true,
@@ -64566,7 +64566,7 @@
   },
   {
     "id": 6369,
-    "name": "Villager armband",
+    "name": "Villager armband (yellow)",
     "examine": "A dark blue armband, as worn by the Tai Bwo Wannai locals.",
     "image": "File:Villager armband (yellow) equipped male.png",
     "isEquipable": true,
@@ -64583,7 +64583,7 @@
   },
   {
     "id": 6355,
-    "name": "Villager hat",
+    "name": "Villager hat (blue)",
     "examine": "A brightly coloured hat prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager hat (blue) equipped male.png",
     "isEquipable": true,
@@ -64600,7 +64600,7 @@
   },
   {
     "id": 6345,
-    "name": "Villager hat",
+    "name": "Villager hat (brown)",
     "examine": "A brightly coloured hat prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager hat (brown) equipped male.png",
     "isEquipable": true,
@@ -64617,7 +64617,7 @@
   },
   {
     "id": 6375,
-    "name": "Villager hat",
+    "name": "Villager hat (pink)",
     "examine": "A brightly coloured hat prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager hat (pink) equipped male.png",
     "isEquipable": true,
@@ -64634,7 +64634,7 @@
   },
   {
     "id": 6365,
-    "name": "Villager hat",
+    "name": "Villager hat (yellow)",
     "examine": "A brightly coloured hat prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager hat (yellow) equipped male.png",
     "isEquipable": true,
@@ -64651,7 +64651,7 @@
   },
   {
     "id": 6353,
-    "name": "Villager robe",
+    "name": "Villager robe (blue)",
     "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager robe (blue) equipped male.png",
     "isEquipable": true,
@@ -64668,7 +64668,7 @@
   },
   {
     "id": 6343,
-    "name": "Villager robe",
+    "name": "Villager robe (brown)",
     "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager robe (brown) equipped male.png",
     "isEquipable": true,
@@ -64685,7 +64685,7 @@
   },
   {
     "id": 6373,
-    "name": "Villager robe",
+    "name": "Villager robe (pink)",
     "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager robe (pink) equipped male.png",
     "isEquipable": true,
@@ -64702,7 +64702,7 @@
   },
   {
     "id": 6363,
-    "name": "Villager robe",
+    "name": "Villager robe (yellow)",
     "examine": "A brightly coloured robe prized by the Tai Bwo Wannai peoples.",
     "image": "File:Villager robe (yellow) equipped male.png",
     "isEquipable": true,
@@ -64719,7 +64719,7 @@
   },
   {
     "id": 6357,
-    "name": "Villager sandals",
+    "name": "Villager sandals (blue)",
     "examine": "A brightly coloured pair of local sandals.",
     "image": "File:Villager sandals (blue) equipped male.png",
     "isEquipable": true,
@@ -64736,7 +64736,7 @@
   },
   {
     "id": 6349,
-    "name": "Villager sandals",
+    "name": "Villager sandals (brown)",
     "examine": "A brightly coloured pair of local sandals.",
     "image": "File:Villager sandals (brown) equipped male.png",
     "isEquipable": true,
@@ -64753,7 +64753,7 @@
   },
   {
     "id": 6377,
-    "name": "Villager sandals",
+    "name": "Villager sandals (pink)",
     "examine": "A brightly coloured pair of local sandals.",
     "image": "File:Villager sandals (pink) equipped male.png",
     "isEquipable": true,
@@ -64770,7 +64770,7 @@
   },
   {
     "id": 6367,
-    "name": "Villager sandals",
+    "name": "Villager sandals (yellow)",
     "examine": "A brightly coloured pair of local sandals.",
     "image": "File:Villager sandals (yellow) equipped male.png",
     "isEquipable": true,
@@ -64974,7 +64974,7 @@
   },
   {
     "id": 8012,
-    "name": "Watchtower teleport",
+    "name": "Watchtower teleport (tablet)",
     "examine": "A teleport to the Yanille Watchtower.",
     "image": "File:Watchtower teleport (tablet).png",
     "isEquipable": false,
@@ -65076,7 +65076,7 @@
   },
   {
     "id": 24953,
-    "name": "Waterbirth teleport",
+    "name": "Waterbirth teleport (tablet)",
     "examine": "A teleport to Waterbirth Island.",
     "image": "File:Waterbirth teleport (tablet).png",
     "isEquipable": false,
@@ -65287,7 +65287,7 @@
   },
   {
     "id": 19623,
-    "name": "West ardougne teleport",
+    "name": "West ardougne teleport (tablet)",
     "examine": "A teleport to West Ardougne.",
     "image": "File:West ardougne teleport (tablet).png",
     "isEquipable": false,
@@ -66660,7 +66660,7 @@
   },
   {
     "id": 8548,
-    "name": "Wood dining table",
+    "name": "Wood dining table (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Wood dining table (flatpack).png",
     "isEquipable": false,
@@ -66677,7 +66677,7 @@
   },
   {
     "id": 8576,
-    "name": "Wooden bed",
+    "name": "Wooden bed (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Wooden bed (flatpack).png",
     "isEquipable": false,
@@ -66694,7 +66694,7 @@
   },
   {
     "id": 8562,
-    "name": "Wooden bench",
+    "name": "Wooden bench (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Wooden bench (flatpack).png",
     "isEquipable": false,
@@ -66728,7 +66728,7 @@
   },
   {
     "id": 8498,
-    "name": "Wooden chair",
+    "name": "Wooden chair (flatpack)",
     "examine": "How does it all fit in there?",
     "image": "File:Wooden chair (flatpack).png",
     "isEquipable": false,
@@ -66881,7 +66881,7 @@
   },
   {
     "id": 5028,
-    "name": "Woven top",
+    "name": "Woven top (blue)",
     "examine": "Blue top, very tiny.",
     "image": "File:Woven top (blue) equipped male.png",
     "isEquipable": true,
@@ -66898,7 +66898,7 @@
   },
   {
     "id": 5024,
-    "name": "Woven top",
+    "name": "Woven top (brown)",
     "examine": "Far too small to wear.",
     "image": "File:Woven top (brown) equipped male.png",
     "isEquipable": true,
@@ -66915,7 +66915,7 @@
   },
   {
     "id": 5026,
-    "name": "Woven top",
+    "name": "Woven top (yellow)",
     "examine": "Yellow top, too small for me.",
     "image": "File:Woven top (yellow) equipped male.png",
     "isEquipable": true,
@@ -67136,7 +67136,7 @@
   },
   {
     "id": 10824,
-    "name": "Yak-hide armour",
+    "name": "Yak-hide armour (legs)",
     "examine": "Leg protection, made from smelly yak-hide.",
     "image": "File:Yak-hide armour (legs) equipped male.png",
     "isEquipable": true,
@@ -67153,7 +67153,7 @@
   },
   {
     "id": 10822,
-    "name": "Yak-hide armour",
+    "name": "Yak-hide armour (top)",
     "examine": "Smelly yak body armour.",
     "image": "File:Yak-hide armour (top) equipped male.png",
     "isEquipable": true,
@@ -68522,7 +68522,7 @@
   },
   {
     "id": 19912,
-    "name": "Zombie head",
+    "name": "Zombie head (Treasure Trails)",
     "examine": "Get a head in life.",
     "image": "File:Zombie head equipped.png",
     "isEquipable": true,

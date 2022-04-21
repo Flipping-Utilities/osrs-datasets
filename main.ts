@@ -1,6 +1,8 @@
 import { writeFileSync } from "fs";
-import { extractGEItems } from "./scripts/extract-ge-items";
-import { dumpAllWikiItemNames } from "./scripts/get-pages";
+import { extractGEItems, testGeItems } from "./scripts/extract-ge-items";
+import { dumpAllWikiPages } from "./scripts/get-page-content";
+import { dumpAllWikiItemNames, dumpAllWikiPageNames } from "./scripts/get-pages";
+
 
 function dumpItemNames() {
   return dumpAllWikiItemNames().then((r) => {
@@ -15,5 +17,7 @@ function dumpItemNames() {
     );
   });
 }
+
 // dumpItemNames();
 extractGEItems();
+testGeItems();
