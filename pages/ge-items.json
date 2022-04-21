@@ -11067,7 +11067,7 @@
     "isEquipable": true,
     "isAlchable": false,
     "isOnGrandExchange": true,
-    "isTradeable": false,
+    "isTradeable": true,
     "isMembers": true,
     "isStackable": false,
     "drop": "Drop",
@@ -18623,7 +18623,7 @@
     "name": "Desert shirt",
     "examine": "A cool, light desert shirt.",
     "image": "File:Desert shirt equipped male.png",
-    "isEquipable": false,
+    "isEquipable": true,
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
@@ -23892,7 +23892,7 @@
     "weight": 0.453
   },
   {
-    "id": 13459,
+    "id": 13460,
     "name": "Ensouled scorpion head",
     "examine": "The creature's soul is still in here. I could reanimate it with Basic Reanimation.",
     "image": "File:Ensouled scorpion head.png",
@@ -26736,28 +26736,7 @@
     "isStackable": false,
     "drop": "Drop",
     "options": [],
-    "relatedItems": [
-      20278
-    ],
-    "value": 1000,
-    "weight": 0.035
-  },
-  {
-    "id": 20278,
-    "name": "Gnomish firelighter",
-    "examine": "Fill it with firelighters to make pretty fire.",
-    "image": "File:Gnomish firelighter.png",
-    "isEquipable": false,
-    "isAlchable": false,
-    "isOnGrandExchange": true,
-    "isTradeable": true,
-    "isMembers": true,
-    "isStackable": false,
-    "drop": "Uncharge",
-    "options": [],
-    "relatedItems": [
-      20275
-    ],
+    "relatedItems": [],
     "value": 1000,
     "weight": 0.035
   },
@@ -30167,23 +30146,6 @@
     "relatedItems": [],
     "value": 750000,
     "weight": 2
-  },
-  {
-    "id": 25734,
-    "name": "Holy ghrazi rapier",
-    "examine": "A razor sharp rapier gifted with the light of Saradomin.",
-    "image": "File:Holy ghrazi rapier equipped.png",
-    "isEquipable": true,
-    "isAlchable": false,
-    "isOnGrandExchange": true,
-    "isTradeable": false,
-    "isMembers": true,
-    "isStackable": false,
-    "drop": "Dismantle",
-    "options": [],
-    "relatedItems": [],
-    "value": 5000000,
-    "weight": 1.814
   },
   {
     "id": 1599,
@@ -34991,6 +34953,23 @@
     "relatedItems": [],
     "value": 30,
     "weight": 0.907
+  },
+  {
+    "id": 25826,
+    "name": "Lizardkicker",
+    "examine": "A viscous bright-green ale. Smells like a herpetarium.",
+    "image": "File:Lizardkicker.png",
+    "isEquipable": false,
+    "isAlchable": false,
+    "isOnGrandExchange": true,
+    "isTradeable": true,
+    "isMembers": true,
+    "isStackable": false,
+    "drop": "Drop",
+    "options": [],
+    "relatedItems": [],
+    "value": 20,
+    "weight": 0.55
   },
   {
     "id": 13391,
@@ -68597,22 +68576,5 @@
     "relatedItems": [],
     "value": 20,
     "weight": 0
-  },
-  {
-    "id": 22647,
-    "name": "Zuriel's staff",
-    "examine": "A powerful staff.",
-    "image": "File:Zuriel's equipment equipped.png",
-    "isEquipable": true,
-    "isAlchable": false,
-    "isOnGrandExchange": true,
-    "isTradeable": true,
-    "isMembers": true,
-    "isStackable": false,
-    "drop": "Drop",
-    "options": [],
-    "relatedItems": [],
-    "value": 300000,
-    "weight": 2.267
   }
 ]

@@ -65,7 +65,7 @@ export async function dumpAllWikiPages(): Promise<void> {
     };
 
     writeFileSync(
-      `${__dirname}/pages/content/${newPage.pageid}.json`,
+      `${__dirname}/../pages/content/${newPage.pageid}.json`,
       JSON.stringify(newPage)
     );
   }

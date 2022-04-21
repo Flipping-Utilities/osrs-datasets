@@ -73,7 +73,11 @@ export function extractGEItems(): Item[] {
 
     const hasMultiple = Object.keys(parsed).some((v) => v.endsWith("2"));
 
-    if (parsed?.exchange !== "Yes" && !hasMultiple) {
+    if (
+      parsed?.exchange !== "Yes" &&
+      parsed?.exchange !== true &&
+      !hasMultiple
+    ) {
       if (!rawWikiPage.pagename.startsWith("Sigil")) {
         console.warn(
           "Item is not on the GE!",
@@ -94,12 +98,12 @@ export function extractGEItems(): Item[] {
       name: parsed.name,
       examine: parsed.examine,
       image: parsed.image,
-      isEquipable: parsed.equipable === "Yes",
-      isAlchable: parsed.alchable === "Yes",
-      isOnGrandExchange: parsed.exchange === "Yes",
-      isTradeable: parsed.tradeable === "Yes",
-      isMembers: parsed.members === "Yes",
-      isStackable: parsed.stackable === "Yes",
+      isEquipable: parsed.equipable === "Yes" || parsed.equipable === true,
+      isAlchable: parsed.alchable === "Yes" || parsed.alchable === true,
+      isOnGrandExchange: parsed.exchange === "Yes" || parsed.exchange === true,
+      isTradeable: parsed.tradeable === "Yes" || parsed.tradeable === true,
+      isMembers: parsed.members === "Yes" || parsed.members === true,
+      isStackable: parsed.stackable === "Yes" || parsed.stackable === true,
       drop: parsed.destroy,
       options: [],
       relatedItems: [],
