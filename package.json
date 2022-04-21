@@ -1,0 +1,19 @@
+{
+  "name": "osrs-cloud-wiki-scraper",
+  "version": "1.0.0",
+  "description": "Scraping the osrs wiki and storing the results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "infobox-parser": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/infobox-parser": "^3.3.1",
+    "@types/node": "^17.0.25"
+  }
+}

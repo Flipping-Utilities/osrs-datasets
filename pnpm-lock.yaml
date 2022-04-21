@@ -1,0 +1,54 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/infobox-parser': ^3.3.1
+  '@types/node': ^17.0.25
+  axios: ^0.26.1
+  infobox-parser: ^3.6.2
+
+dependencies:
+  axios: 0.26.1
+  infobox-parser: 3.6.2
+
+devDependencies:
+  '@types/infobox-parser': 3.3.1
+  '@types/node': 17.0.25
+
+packages:
+
+  /@types/infobox-parser/3.3.1:
+    resolution: {integrity: sha512-CuDY7d6+s+yxgr3XpKsnrKL50tRJFTiMXtCie5ePqj9XydK8vGsdl4RzkCwBrJnc0p7Fgr74GTwL5pWZS4qOpQ==}
+    dev: true
+
+  /@types/node/17.0.25:
+    resolution: {integrity: sha512-wANk6fBrUwdpY4isjWrKTufkrXdu1D2YHCot2fD/DfWxF5sMrVSA+KN7ydckvaTCh0HiqX9IVl0L5/ZoXg5M7w==}
+    dev: true
+
+  /axios/0.26.1:
+    resolution: {integrity: sha512-fPwcX4EvnSHuInCMItEhAGnaSEXRBjtzh9fOtsE6E1G6p7vl7edEeZe11QHf18+6+9gR5PbKV/sGKNaD8YaMeA==}
+    dependencies:
+      follow-redirects: 1.14.9
+    transitivePeerDependencies:
+      - debug
+    dev: false
+
+  /camelcase/4.1.0:
+    resolution: {integrity: sha1-1UVjW+HjPFQmScaRc+Xeas+uNN0=}
+    engines: {node: '>=4'}
+    dev: false
+
+  /follow-redirects/1.14.9:
+    resolution: {integrity: sha512-MQDfihBQYMcyy5dhRDJUHcw7lb2Pv/TuE6xP1vyraLukNDHKbDxDNaOE3NbCAdKQApno+GPRyo1YAp89yCjK4w==}
+    engines: {node: '>=4.0'}
+    peerDependencies:
+      debug: '*'
+    peerDependenciesMeta:
+      debug:
+        optional: true
+    dev: false
+
+  /infobox-parser/3.6.2:
+    resolution: {integrity: sha512-lasdwvbtjCtDDO6mArAs/ueFEnBJRyo2UbZPAkd5rEG5NVJ3XFCOvbMwNTT/rJlFv1+ORw8D3UvZV4brpgATCg==}
+    dependencies:
+      camelcase: 4.1.0
+    dev: false
