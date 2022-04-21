@@ -5505,7 +5505,7 @@
   {
     "id": 19613,
     "name": "Arceuus library teleport (tablet)",
-    "examine": "A teleport to the Arceuus Librarysic",
+    "examine": "A teleport to the Arceuus Library",
     "image": "File:Arceuus library teleport (tablet).png",
     "isEquipable": false,
     "isAlchable": false,
@@ -25979,7 +25979,7 @@
   {
     "id": 2167,
     "name": "Gianne's cook book",
-    "examine": "Aluft Gianne's favoritesic dishes.",
+    "examine": "Aluft Gianne's favorite dishes.",
     "image": "File:Gianne's cook book.png",
     "isEquipable": false,
     "isAlchable": false,
@@ -61252,7 +61252,7 @@
   {
     "id": 12432,
     "name": "Top hat",
-    "examine": "Aint no rabbits in this hat.sic",
+    "examine": "Aint no rabbits in this hat.",
     "image": "File:Top hat equipped.png",
     "isEquipable": true,
     "isAlchable": false,

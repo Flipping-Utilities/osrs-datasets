@@ -71,7 +71,7 @@ export function extractGEItems(): Item[] {
     }
 
     const parsed: WikiItem = parseInfo(
-      rawWikiPage.rawContent.replace(/\{\|/g, "{a|")
+      rawWikiPage.rawContent.replace(/\{\|/g, "{a|").replace(/\{\{sic\}\}/g, '')
     ).general;
 
     const hasMultiple = Object.keys(parsed).some((v) => v.endsWith("2"));
@@ -228,9 +228,9 @@ export function testGeItems() {
 
     if (wikiItem.examine !== ourItem.examine) {
       // Mapping is frequently outdated on examine
-      // console.warn(
-      //   `item ${wikiItem.id} has a different examine: ${wikiItem.examine} vs ${ourItem.examine}`
-      // );
+      console.warn(
+        `item ${wikiItem.id} has a different examine: ${wikiItem.examine} vs ${ourItem.examine}`
+      );
     }
     if (wikiItem.value !== ourItem.value && wikiItem.value !== 0 && wikiItem.value !== 1) {
       console.warn(
