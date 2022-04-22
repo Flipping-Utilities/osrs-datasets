@@ -1,3 +1,7 @@
-import { dumpWikiPageList } from "./scripts/dumpers/page-list";
+import { dumpGEItems, TestGeItems } from "./scripts/dumpers/extract-ge-items";
+import { dumpAllWikiPages } from "./scripts/dumpers/page-content";
+import { dumpGEItemList, dumpWikiPageList } from "./scripts/dumpers/page-list";
 
-dumpWikiPageList();
+// dumpWikiPageList();
+// TestGeItems();
+dumpAllWikiPages();

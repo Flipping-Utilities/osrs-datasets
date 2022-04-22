@@ -1,5 +1,5 @@
 import { writeFileSync } from "fs";
-import { GE_ITEM_LIST, WIKI_PAGE_LIST } from "../paths";
+import { GE_ITEM_PAGE_LIST, WIKI_PAGE_LIST } from "../paths";
 import { WikiPageSlim, WikiRequest } from "../wiki/request";
 
 /**
@@ -35,6 +35,9 @@ export async function dumpWikiPageList(): Promise<void> {
   await writeFileSync(WIKI_PAGE_LIST, JSON.stringify(pages, null, 2));
 }
 
+/**
+ * Fetches the list of items that are listed on the GE from the wiki
+ */
 export async function fetchGEItemList(): Promise<WikiPageSlim[]> {
   const properties = {
     action: "query",
@@ -45,8 +48,8 @@ export async function fetchGEItemList(): Promise<WikiPageSlim[]> {
   };
 
   const pages = await WikiRequest.queryAllPagesPromise<WikiPageSlim>(
-    "apcontinue",
-    "allpages",
+    "cmcontinue",
+    "categorymembers",
     properties
   );
   // Wiki responses have 'ns' property, remove it
@@ -61,5 +64,5 @@ export async function fetchGEItemList(): Promise<WikiPageSlim[]> {
  */
 export async function dumpGEItemList(): Promise<void> {
   const pages = await fetchGEItemList();
-  await writeFileSync(GE_ITEM_LIST, JSON.stringify(pages, null, 2));
+  await writeFileSync(GE_ITEM_PAGE_LIST, JSON.stringify(pages, null, 2));
 }

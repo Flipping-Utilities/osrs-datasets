@@ -1,9 +1,11 @@
+import axios from "axios";
 import { readFileSync, writeFileSync } from "fs";
 import parseInfo from "infobox-parser";
-import { GEItemList } from "../../data/items/ge-items-list";
-import { GE_ITEMS } from "../paths";
+import GEItemPageList from "../../data/items/ge-item-page-list";
+import GEItems from "../../data/items/ge-items";
+import { GE_ITEMS, WIKI_PAGES_FOLDER } from "../paths";
 import { Item } from "../types";
-import { WikiPageWithContent } from "./get-page-content";
+import { WikiPageWithContent } from "../wiki/request";
 
 interface WikiItem {
   gemwname?: string;
@@ -46,22 +48,20 @@ const WikiToItemKeys: Record<Partial<keyof WikiItem>, keyof Item> = {
   id: "id",
 };
 
-// Todo: Use https://oldschool.runescape.wiki/?curid=181035 instead?
-export function extractGEItems(): Item[] {
-  const candidateItemIds = Object.values(GEItemList);
+export function fetchGEItems(): Item[] {
   const items: Item[] = [];
-  for (let i = 0; i < candidateItemIds.length; i++) {
+  for (let i = 0; i < GEItemPageList.length; i++) {
     if (i % 100 === 0) {
-      console.info(`Parsing item ${i}/${candidateItemIds.length}`);
+      console.info(`Parsing item ${i}/${GEItemPageList.length}`);
     }
-    const pageId = candidateItemIds[i];
+    const page = GEItemPageList[i];
     let rawWikiPage;
     try {
       rawWikiPage = JSON.parse(
-        readFileSync(__dirname + `/../pages/content/${pageId}.json`, "utf8")
+        readFileSync(`${WIKI_PAGES_FOLDER}/${page.pageid}.json`, "utf8")
       ) as WikiPageWithContent;
     } catch (e) {
-      console.warn("Page not downloaded: ", pageId);
+      console.warn(`Page not downloaded: (${page.pageid}) ${page.title}`);
       continue;
     }
 
@@ -81,6 +81,7 @@ export function extractGEItems(): Item[] {
       parsed?.exchange !== true &&
       !hasMultiple
     ) {
+      // Sigils were used in seasonal game modes: Ignore them
       if (!rawWikiPage.pagename.startsWith("Sigil")) {
         console.warn(
           "Item is not on the GE!",
@@ -88,10 +89,10 @@ export function extractGEItems(): Item[] {
           rawWikiPage.pageid
         );
       }
-      // Skip non-ge items
+      // Skip items that are not on the GE
       continue;
     }
-    // Skip gone items and redundant jmod items
+    // Skip removed items and jmod items
     if ("removal" in parsed || rawWikiPage.title.includes("Redundant")) {
       continue;
     }
@@ -118,7 +119,6 @@ export function extractGEItems(): Item[] {
       const allVariants: Item[] = [];
       Object.keys(parsed).forEach((key: string) => {
         const candidateKey = key.match(/\d+$/);
-        // @ts-ignore
         const endIndex = candidateKey ? Number(candidateKey[0]) : 0;
         const baseKey = key.replace(/\d+$/, "");
         if (key === baseKey || endIndex === 0) {
@@ -167,14 +167,10 @@ export function extractGEItems(): Item[] {
         (v) => !v.isTradeable && v.isOnGrandExchange
       );
       if (oddities.length) {
+        // These are usually incorrect on the wiki: Warn so we can fix them
         console.warn(
           `Oddity found: ${oddities[0].name} is not tradeable, but on the GE!\n` +
             `https://oldschool.runescape.wiki/?curid=${rawWikiPage.pageid}`
-        );
-      }
-      if (geVariants.length === 0) {
-        console.info(
-          `Item ${rawWikiPage.title} has ${allVariants.length} variants, of which ${geVariants.length} are on the GE`
         );
       }
 
@@ -189,8 +185,16 @@ export function extractGEItems(): Item[] {
     }
   }
 
+  console.info(`Finished fetching ${items.length} items.`);
+  return items;
+}
+
+/**
+ * Will persist the GE items to a file.
+ */
+export async function dumpGEItems() {
+  const items = await fetchGEItems();
   writeFileSync(GE_ITEMS, JSON.stringify(items, null, 2));
-  console.log(`Finished writing ${items.length} items.`);
   return items;
 }
 
@@ -206,15 +210,24 @@ interface MappingItem {
   name: string;
 }
 
-export function testGeItems() {
-  const ourItems: Item[] = JSON.parse(readFileSync(GE_ITEMS, "utf8"));
-  const wikiItems: MappingItem[] = JSON.parse(
-    readFileSync(__dirname + "/../pages/mapping.json", "utf8")
+/**
+ * Will compare our generated item list with the mapping from prices.runescape.wiki
+ */
+export async function TestGeItems() {
+  const mappingRequest = await axios.get<MappingItem[]>(
+    "https://prices.runescape.wiki/api/v1/osrs/mapping",
+    {
+      headers: {
+        "User-Agent":
+          "FU Dataset script - Test GE Items - " +
+            process.env.DISCORD_IDENTIFIER || "Missing discord id >:(",
+      },
+    }
   );
-
+  const wikiItems = mappingRequest.data;
   for (let i = 0; i < wikiItems.length; i++) {
     const wikiItem = wikiItems[i];
-    const ourItem = ourItems.find((item) => item.id === wikiItem.id);
+    const ourItem = GEItems.find((item) => item.id === wikiItem.id);
 
     if (!ourItem) {
       console.error("Wiki has an extra item!", wikiItem.id, wikiItem.name);
