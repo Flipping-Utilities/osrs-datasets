@@ -1,5 +1,10 @@
 import { writeFileSync } from "fs";
-import { GE_ITEM_PAGE_LIST, WIKI_PAGE_LIST } from "../paths";
+import {
+  ALL_ITEM_PAGE_LIST,
+  ALL_SETS_PAGE_LIST,
+  GE_ITEM_PAGE_LIST,
+  WIKI_PAGE_LIST,
+} from "../paths";
 import { WikiPageSlim, WikiRequest } from "../wiki/request";
 
 /**
@@ -36,13 +41,15 @@ export async function dumpWikiPageList(): Promise<void> {
 }
 
 /**
- * Fetches the list of items that are listed on the GE from the wiki
+ * Fetches the list of all items
  */
-export async function fetchGEItemList(): Promise<WikiPageSlim[]> {
+export async function fetchAllItemPageList(
+  category: string = "Items"
+): Promise<WikiPageSlim[]> {
   const properties = {
     action: "query",
     list: "categorymembers",
-    cmtitle: "Category:Grand Exchange items",
+    cmtitle: `Category:${category}`,
     cmlimit: "max",
     format: "json",
   };
@@ -60,9 +67,32 @@ export async function fetchGEItemList(): Promise<WikiPageSlim[]> {
 }
 
 /**
- * Writes the page list to the disk
+ * Fetches the list of all items that are listed on the GE
  */
-export async function dumpGEItemList(): Promise<void> {
-  const pages = await fetchGEItemList();
+export function fetchGEItemPageList(): Promise<WikiPageSlim[]> {
+  return fetchAllItemPageList("Grand Exchange items");
+}
+
+/**
+ * Writes the all item list to the disk
+ */
+export async function dumpAllItemPageList(): Promise<void> {
+  const pages = await fetchAllItemPageList();
+  await writeFileSync(ALL_ITEM_PAGE_LIST, JSON.stringify(pages, null, 2));
+}
+
+/**
+ * Writes the GE page list to the disk
+ */
+export async function dumpGEItemPageList(): Promise<void> {
+  const pages = await fetchGEItemPageList();
   await writeFileSync(GE_ITEM_PAGE_LIST, JSON.stringify(pages, null, 2));
+}
+
+export async function fetchItemSetsPageList() {
+  return fetchAllItemPageList("Item_sets");
+}
+export async function dumpItemSetsPageList() {
+  const pages = await fetchItemSetsPageList();
+  await writeFileSync(ALL_SETS_PAGE_LIST, JSON.stringify(pages, null, 2));
 }
