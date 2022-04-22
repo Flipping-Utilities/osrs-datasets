@@ -57,7 +57,7 @@ function parseRecipe(recipeText: string): Recipe | null {
   skillKeys.forEach((key) => {
     const withoutSkill = key.split("skill")[1];
     let property = withoutSkill.split(/^\d+/)[1] as WikiSkillKeys;
-    const index = Number(property.replace(property, ""));
+    const index = Number(withoutSkill.replace(property, "")) - 1;
 
     if (!skills[index]) {
       skills[index] = { ...baseSkill };
@@ -80,11 +80,6 @@ function parseRecipe(recipeText: string): Recipe | null {
     // @ts-ignore
     skills[index][WikiSkillKeyToRecipeSkillKey[property]] = value;
   });
-
-  const baseMaterial: RecipeMaterial = {
-    id: 0,
-    quantity: 1,
-  };
 
   const inputs: RecipeMaterial[] = convertMaterialsToObject(
     recipeProperties,
@@ -132,7 +127,7 @@ function convertMaterialsToObject(
   materialKeys.forEach((key) => {
     const withoutMat = key.split(prefix)[1];
     let property = withoutMat.split(/^\d+/)[1] as WikiMaterialKey;
-    const index = Number(property.replace(property, ""));
+    const index = Number(withoutMat.replace(property, "")) - 1;
 
     if (!materials[index]) {
       materials[index] = { ...baseMaterial };
