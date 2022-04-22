@@ -8,5 +8,6 @@ export const ALL_ITEMS = `${ITEMS_FOLDER}/all-items.json`;
 export const ALL_ITEM_PAGE_LIST = `${ITEMS_FOLDER}/all-item-page-list.json`;
 export const ALL_SETS = `${ITEMS_FOLDER}/all-sets.json`;
 export const ALL_SETS_PAGE_LIST = `${ITEMS_FOLDER}/all-sets-page-list.json`;
+export const ALL_GE_RECIPES = `${ITEMS_FOLDER}/all-ge-recipes.json`;
 export const GE_ITEMS = `${ITEMS_FOLDER}/ge-items.json`;
 export const GE_ITEM_PAGE_LIST = `${ITEMS_FOLDER}/ge-item-page-list.json`;

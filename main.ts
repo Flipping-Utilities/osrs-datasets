@@ -11,6 +11,7 @@ import {
   dumpItemSetsPageList,
 } from "./scripts/dumpers/page-list";
 import { dumpAllSets, extractAllSets } from "./scripts/extractors/extract-sets";
+import { dumpAllRecipes } from "./scripts/extractors/extract-recipes";
 
 // dumpWikiPageList();
 // TestGeItems();
@@ -18,4 +19,5 @@ import { dumpAllSets, extractAllSets } from "./scripts/extractors/extract-sets";
 // dumpAllItemPageList();
 // dumpAllWikiPages();
 // dumpItemSets();
-dumpAllSets();
+// dumpAllSets();
+dumpAllRecipes();
