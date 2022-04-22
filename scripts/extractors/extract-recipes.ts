@@ -153,6 +153,8 @@ function convertMaterialsToObject(
         }
         break;
       case "itemnote":
+      case "txt":
+      case "subtxt":
         // Keep string
         break;
       default:

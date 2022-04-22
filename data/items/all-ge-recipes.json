@@ -914,7 +914,8 @@
     "outputs": [
       {
         "id": 2361,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -943,7 +944,8 @@
     "outputs": [
       {
         "id": 2361,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -980,7 +982,8 @@
     "outputs": [
       {
         "id": 2361,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -2128,7 +2131,8 @@
     "outputs": [
       {
         "id": 12775,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Annakarl teleport"
       }
     ],
     "members": true,
@@ -2481,7 +2485,8 @@
     "outputs": [
       {
         "id": 175,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Herblore"
       }
     ],
     "members": true,
@@ -2510,7 +2515,8 @@
     "outputs": [
       {
         "id": 2446,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Apothecary"
       }
     ],
     "members": false,
@@ -2570,7 +2576,8 @@
     "outputs": [
       {
         "id": 19631,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Ape atoll teleport"
       }
     ],
     "members": true,
@@ -2710,7 +2717,8 @@
     "outputs": [
       {
         "id": 12825,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Smithing"
       }
     ],
     "members": true,
@@ -2750,7 +2758,8 @@
     "outputs": [
       {
         "id": 12825,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Abbot Langley"
       }
     ],
     "members": true,
@@ -2776,7 +2785,8 @@
     "outputs": [
       {
         "id": 19613,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Arceuus library teleport"
       }
     ],
     "members": true,
@@ -2813,7 +2823,8 @@
     "outputs": [
       {
         "id": 10808,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -2842,11 +2853,13 @@
     "outputs": [
       {
         "id": 10808,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -2879,7 +2892,8 @@
     "outputs": [
       {
         "id": 8011,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Ardougne teleport"
       }
     ],
     "members": true,
@@ -3154,7 +3168,8 @@
     "outputs": [
       {
         "id": 8520,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Asgarnian barrel"
       }
     ],
     "members": true,
@@ -3918,7 +3933,8 @@
     "outputs": [
       {
         "id": 24955,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Barbarian teleport"
       }
     ],
     "members": true,
@@ -4011,7 +4027,8 @@
     "outputs": [
       {
         "id": 19629,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Barrows teleport"
       }
     ],
     "members": true,
@@ -4136,7 +4153,8 @@
     "outputs": [
       {
         "id": 22949,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Battlefront teleport"
       }
     ],
     "members": true,
@@ -4227,7 +4245,8 @@
     "outputs": [
       {
         "id": 8516,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Beer barrel"
       }
     ],
     "members": true,
@@ -4828,7 +4847,8 @@
     "outputs": [
       {
         "id": 2509,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": true,
@@ -4852,7 +4872,8 @@
     "outputs": [
       {
         "id": 2509,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -4877,7 +4898,8 @@
     "outputs": [
       {
         "id": 2509,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -4908,7 +4930,8 @@
     "outputs": [
       {
         "id": 2509,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan Leather spell"
       }
     ],
     "members": true,
@@ -5744,7 +5767,8 @@
     "outputs": [
       {
         "id": 2505,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": true,
@@ -5768,7 +5792,8 @@
     "outputs": [
       {
         "id": 2505,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -5793,7 +5818,8 @@
     "outputs": [
       {
         "id": 2505,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -5824,7 +5850,8 @@
     "outputs": [
       {
         "id": 2505,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan Leather spell"
       }
     ],
     "members": true,
@@ -5855,7 +5882,8 @@
     "outputs": [
       {
         "id": 1767,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Aggie"
       }
     ],
     "members": false,
@@ -5878,7 +5906,8 @@
     "outputs": [
       {
         "id": 1767,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Ali the dyer"
       }
     ],
     "members": true,
@@ -6322,7 +6351,8 @@
     "outputs": [
       {
         "id": 8014,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Bones to bananas"
       }
     ],
     "members": true,
@@ -6360,7 +6390,8 @@
     "outputs": [
       {
         "id": 8015,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Bones to peaches"
       }
     ],
     "members": true,
@@ -6391,7 +6422,8 @@
     "outputs": [
       {
         "id": 8510,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Bookcase"
       }
     ],
     "members": true,
@@ -6542,7 +6574,8 @@
     "outputs": [
       {
         "id": 1777,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Spinning wheel"
       }
     ],
     "members": true,
@@ -6579,7 +6612,8 @@
     "outputs": [
       {
         "id": 1777,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Spin Flax"
       }
     ],
     "members": true,
@@ -7022,7 +7056,8 @@
     "outputs": [
       {
         "id": 2349,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -7052,7 +7087,8 @@
     "outputs": [
       {
         "id": 2349,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -7090,7 +7126,8 @@
     "outputs": [
       {
         "id": 2349,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -7934,7 +7971,8 @@
       },
       {
         "id": 6339,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Blue tribal mask"
       },
       {
         "id": 1539,
@@ -7967,7 +8005,8 @@
       },
       {
         "id": 6335,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Green tribal mask"
       },
       {
         "id": 4820,
@@ -8000,7 +8039,8 @@
       },
       {
         "id": 6337,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Orange tribal mask"
       },
       {
         "id": 1539,
@@ -8589,7 +8629,8 @@
     "outputs": [
       {
         "id": 8010,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Camelot teleport"
       }
     ],
     "members": true,
@@ -8670,7 +8711,8 @@
       },
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Lit white candle"
       }
     ],
     "outputs": [
@@ -8699,7 +8741,8 @@
       },
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Lit black candle"
       }
     ],
     "outputs": [
@@ -8766,7 +8809,8 @@
     "outputs": [
       {
         "id": 12776,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carrallangar teleport"
       }
     ],
     "members": true,
@@ -8793,7 +8837,8 @@
     "outputs": [
       {
         "id": 8566,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved oak bench"
       }
     ],
     "members": true,
@@ -8818,7 +8863,8 @@
     "outputs": [
       {
         "id": 9853,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved oak magic wardrobe"
       }
     ],
     "members": true,
@@ -8843,7 +8889,8 @@
     "outputs": [
       {
         "id": 8552,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved oak table"
       }
     ],
     "members": true,
@@ -8868,7 +8915,8 @@
     "outputs": [
       {
         "id": 8570,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved teak bench"
       }
     ],
     "members": true,
@@ -8893,7 +8941,8 @@
     "outputs": [
       {
         "id": 9855,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved teak magic wardrobe"
       }
     ],
     "members": true,
@@ -8922,7 +8971,8 @@
     "outputs": [
       {
         "id": 8556,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Carved teak table"
       }
     ],
     "members": true,
@@ -9022,7 +9072,8 @@
     "outputs": [
       {
         "id": 24961,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Catherby teleport"
       }
     ],
     "members": true,
@@ -9166,7 +9217,8 @@
     "outputs": [
       {
         "id": 19627,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Cemetery teleport"
       }
     ],
     "members": true,
@@ -9432,7 +9484,8 @@
     "outputs": [
       {
         "id": 8526,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Chef's delight barrel"
       }
     ],
     "members": true,
@@ -10056,7 +10109,8 @@
     "outputs": [
       {
         "id": 8518,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Cider barrel"
       }
     ],
     "members": true,
@@ -10359,7 +10413,8 @@
     "outputs": [
       {
         "id": 6032,
-        "quantity": 15
+        "quantity": 15,
+        "subText": "Compost bin"
       }
     ],
     "members": true,
@@ -10389,7 +10444,8 @@
     "outputs": [
       {
         "id": 6032,
-        "quantity": 30
+        "quantity": 30,
+        "subText": "Big compost bin"
       }
     ],
     "members": true,
@@ -11063,7 +11119,8 @@
     "outputs": [
       {
         "id": 8496,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Crude chair"
       }
     ],
     "members": true,
@@ -11274,7 +11331,8 @@
     "outputs": [
       {
         "id": 12777,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Dareeyak teleport"
       }
     ],
     "members": true,
@@ -13044,7 +13102,8 @@
     "outputs": [
       {
         "id": 8524,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Dragon bitter barrel"
       }
     ],
     "members": true,
@@ -13513,7 +13572,8 @@
     "outputs": [
       {
         "id": 11284,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Smithing"
       }
     ],
     "members": true,
@@ -13547,7 +13607,8 @@
     "outputs": [
       {
         "id": 11284,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Oziach"
       }
     ],
     "members": true,
@@ -13570,7 +13631,8 @@
     "outputs": [
       {
         "id": 22003,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Smithing"
       }
     ],
     "members": true,
@@ -13604,7 +13666,8 @@
     "outputs": [
       {
         "id": 22003,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Oziach"
       }
     ],
     "members": true,
@@ -13985,7 +14048,8 @@
     "outputs": [
       {
         "id": 19615,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Draynor manor teleport"
       }
     ],
     "members": true,
@@ -14078,7 +14142,8 @@
     "outputs": [
       {
         "id": 4696,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Air Altar"
       }
     ],
     "members": true,
@@ -14112,7 +14177,8 @@
     "outputs": [
       {
         "id": 4696,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Earth Altar"
       }
     ],
     "members": true,
@@ -14765,7 +14831,8 @@
     "outputs": [
       {
         "id": 12817,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Smithing"
       }
     ],
     "members": true,
@@ -14805,7 +14872,8 @@
     "outputs": [
       {
         "id": 12817,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Abbot Langley"
       }
     ],
     "members": true,
@@ -15966,7 +16034,8 @@
     "outputs": [
       {
         "id": 8009,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Falador teleport"
       }
     ],
     "members": true,
@@ -15995,7 +16064,8 @@
     "outputs": [
       {
         "id": 8604,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Fancy teak dresser"
       }
     ],
     "members": true,
@@ -16058,7 +16128,8 @@
     "outputs": [
       {
         "id": 19621,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Fenkenstrain's castle teleport"
       }
     ],
     "members": true,
@@ -16588,7 +16659,8 @@
     "outputs": [
       {
         "id": 24959,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Fishing guild teleport"
       }
     ],
     "members": true,
@@ -16741,7 +16813,8 @@
     "outputs": [
       {
         "id": 8586,
-        "quantity": 1
+        "quantity": 1,
+        "text": "4-poster"
       }
     ],
     "members": true,
@@ -16963,7 +17036,8 @@
     "outputs": [
       {
         "id": 12778,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Ghorrock teleport"
       }
     ],
     "members": true,
@@ -16994,7 +17068,8 @@
     "outputs": [
       {
         "id": 8574,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded bench"
       }
     ],
     "members": true,
@@ -17023,7 +17098,8 @@
     "outputs": [
       {
         "id": 9846,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded cape rack"
       }
     ],
     "members": true,
@@ -17056,7 +17132,8 @@
     "outputs": [
       {
         "id": 8594,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded clock"
       }
     ],
     "members": true,
@@ -17089,7 +17166,8 @@
     "outputs": [
       {
         "id": 8608,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded dresser"
       }
     ],
     "members": true,
@@ -17122,7 +17200,8 @@
     "outputs": [
       {
         "id": 8588,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded 4-poster"
       }
     ],
     "members": true,
@@ -17151,7 +17230,8 @@
     "outputs": [
       {
         "id": 9857,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded magic wardrobe"
       }
     ],
     "members": true,
@@ -17180,7 +17260,8 @@
     "outputs": [
       {
         "id": 8622,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Gilded wardrobe"
       }
     ],
     "members": true,
@@ -17388,7 +17469,8 @@
     "outputs": [
       {
         "id": 2357,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Regular furnace"
       }
     ],
     "members": false,
@@ -17414,7 +17496,8 @@
     "outputs": [
       {
         "id": 2357,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -17448,7 +17531,8 @@
     "outputs": [
       {
         "id": 2357,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -17698,7 +17782,8 @@
     "outputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Granite maul (ornate handle)"
       }
     ],
     "members": true,
@@ -17710,7 +17795,8 @@
     "inputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Granite maul (or)"
       },
       {
         "id": 24229,
@@ -17720,7 +17806,8 @@
     "outputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Granite maul (or) (ornate handle)"
       }
     ],
     "members": true,
@@ -18066,7 +18153,8 @@
     "outputs": [
       {
         "id": 1745,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": true,
@@ -18090,7 +18178,8 @@
     "outputs": [
       {
         "id": 1745,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -18115,7 +18204,8 @@
     "outputs": [
       {
         "id": 1745,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -18146,7 +18236,8 @@
     "outputs": [
       {
         "id": 1745,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan Leather spell"
       }
     ],
     "members": true,
@@ -18268,7 +18359,8 @@
     "outputs": [
       {
         "id": 8522,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Greenman's barrel"
       }
     ],
     "members": true,
@@ -18715,7 +18807,8 @@
     "inputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Herb tea mix"
       },
       {
         "id": 251,
@@ -18745,7 +18838,8 @@
     "inputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Herb tea mix"
       },
       {
         "id": 255,
@@ -18775,7 +18869,8 @@
     "inputs": [
       {
         "id": 0,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Herb tea mix"
       },
       {
         "id": 249,
@@ -18816,7 +18911,8 @@
     "outputs": [
       {
         "id": 1743,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": false,
@@ -18840,7 +18936,8 @@
     "outputs": [
       {
         "id": 1743,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -18865,7 +18962,8 @@
     "outputs": [
       {
         "id": 1743,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -18896,7 +18994,8 @@
     "outputs": [
       {
         "id": 1743,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan Leather spell"
       }
     ],
     "members": true,
@@ -18996,7 +19095,8 @@
     "outputs": [
       {
         "id": 19625,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Harmony island teleport"
       }
     ],
     "members": true,
@@ -19367,7 +19467,8 @@
     "outputs": [
       {
         "id": 24963,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Ice plateau teleport"
       }
     ],
     "members": true,
@@ -19738,7 +19839,8 @@
     "outputs": [
       {
         "id": 2351,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -19764,7 +19866,8 @@
     "outputs": [
       {
         "id": 2351,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -19797,7 +19900,8 @@
     "outputs": [
       {
         "id": 2351,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -21156,7 +21260,8 @@
     "outputs": [
       {
         "id": 12779,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Kharyrll teleport"
       }
     ],
     "members": true,
@@ -21195,7 +21300,8 @@
     "outputs": [
       {
         "id": 24957,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Khazard teleport"
       }
     ],
     "members": true,
@@ -21226,7 +21332,8 @@
     "outputs": [
       {
         "id": 8528,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Kitchen table"
       }
     ],
     "members": true,
@@ -21525,7 +21632,8 @@
     "outputs": [
       {
         "id": 8580,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Large oak bed"
       }
     ],
     "members": true,
@@ -21554,7 +21662,8 @@
     "outputs": [
       {
         "id": 8584,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Large teak bed"
       }
     ],
     "members": true,
@@ -21703,7 +21812,8 @@
     "outputs": [
       {
         "id": 12780,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Lassar teleport"
       }
     ],
     "members": true,
@@ -21739,7 +21849,8 @@
     "outputs": [
       {
         "id": 4699,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Earth Altar"
       }
     ],
     "members": true,
@@ -21773,7 +21884,8 @@
     "outputs": [
       {
         "id": 4699,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Fire Altar"
       }
     ],
     "members": true,
@@ -21945,7 +22057,8 @@
     "outputs": [
       {
         "id": 1741,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": false,
@@ -21969,7 +22082,8 @@
     "outputs": [
       {
         "id": 1741,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -21994,7 +22108,8 @@
     "outputs": [
       {
         "id": 1741,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -22025,7 +22140,8 @@
     "outputs": [
       {
         "id": 1741,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan leather spell"
       }
     ],
     "members": true,
@@ -22498,7 +22614,8 @@
     "outputs": [
       {
         "id": 8008,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Lumbridge teleport"
       }
     ],
     "members": true,
@@ -22523,7 +22640,8 @@
     "outputs": [
       {
         "id": 9864,
-        "quantity": 1
+        "quantity": 1,
+        "text": "M. treasure chest"
       }
     ],
     "members": true,
@@ -22603,7 +22721,8 @@
     "outputs": [
       {
         "id": 9848,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Magic cape rack"
       }
     ],
     "members": true,
@@ -22956,7 +23075,8 @@
     "outputs": [
       {
         "id": 8508,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany armchair"
       }
     ],
     "members": true,
@@ -22981,7 +23101,8 @@
     "outputs": [
       {
         "id": 9861,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany armour case"
       }
     ],
     "members": true,
@@ -23006,7 +23127,8 @@
     "outputs": [
       {
         "id": 8572,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany bench"
       }
     ],
     "members": true,
@@ -23061,7 +23183,8 @@
     "outputs": [
       {
         "id": 8514,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany bookcase"
       }
     ],
     "members": true,
@@ -23086,7 +23209,8 @@
     "outputs": [
       {
         "id": 9845,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany cape rack"
       }
     ],
     "members": true,
@@ -23115,7 +23239,8 @@
     "outputs": [
       {
         "id": 8606,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany dresser"
       }
     ],
     "members": true,
@@ -23140,7 +23265,8 @@
     "outputs": [
       {
         "id": 9867,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany fancy dress box"
       }
     ],
     "members": true,
@@ -23165,7 +23291,8 @@
     "outputs": [
       {
         "id": 9856,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany magic wardrobe"
       }
     ],
     "members": true,
@@ -23195,7 +23322,8 @@
     "outputs": [
       {
         "id": 8782,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sawmill"
       }
     ],
     "members": true,
@@ -23230,7 +23358,8 @@
     "outputs": [
       {
         "id": 8782,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Plank Make"
       }
     ],
     "members": true,
@@ -23261,7 +23390,8 @@
     "outputs": [
       {
         "id": 6213,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -23290,11 +23420,13 @@
     "outputs": [
       {
         "id": 6213,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -23371,7 +23503,8 @@
     "outputs": [
       {
         "id": 8558,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany table"
       }
     ],
     "members": true,
@@ -23396,7 +23529,8 @@
     "outputs": [
       {
         "id": 9851,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany toy box"
       }
     ],
     "members": true,
@@ -23421,7 +23555,8 @@
     "outputs": [
       {
         "id": 8620,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mahogany wardrobe"
       }
     ],
     "members": true,
@@ -23586,7 +23721,8 @@
     "outputs": [
       {
         "id": 3444,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -23615,11 +23751,13 @@
     "outputs": [
       {
         "id": 3444,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -23775,7 +23913,8 @@
     "outputs": [
       {
         "id": 9847,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Marble cape rack"
       }
     ],
     "members": true,
@@ -23800,7 +23939,8 @@
     "outputs": [
       {
         "id": 9858,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Marble magic wardrobe"
       }
     ],
     "members": true,
@@ -24096,7 +24236,8 @@
     "outputs": [
       {
         "id": 19617,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Mind altar teleport"
       }
     ],
     "members": true,
@@ -24432,7 +24573,8 @@
     "outputs": [
       {
         "id": 4695,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Air Altar"
       }
     ],
     "members": true,
@@ -24466,7 +24608,8 @@
     "outputs": [
       {
         "id": 4695,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Water Altar"
       }
     ],
     "members": true,
@@ -24682,7 +24825,8 @@
     "outputs": [
       {
         "id": 2359,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -24711,7 +24855,8 @@
     "outputs": [
       {
         "id": 2359,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -24748,7 +24893,8 @@
     "outputs": [
       {
         "id": 2359,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -25571,7 +25717,8 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": true,
@@ -25612,7 +25759,8 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 28.8
+        "quantity": 28.8,
+        "subText": "Superglass make - giant seaweed"
       }
     ],
     "members": true,
@@ -25660,7 +25808,8 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 16.9
+        "quantity": 16.9,
+        "subText": "Superglass make - seaweed"
       }
     ],
     "members": true,
@@ -25708,7 +25857,8 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 16.9
+        "quantity": 16.9,
+        "subText": "Superglass make - soda ash"
       }
     ],
     "members": true,
@@ -25756,7 +25906,8 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 16.9
+        "quantity": 16.9,
+        "subText": "Superglass make - swamp weed"
       }
     ],
     "members": true,
@@ -25826,7 +25977,8 @@
     "outputs": [
       {
         "id": 24949,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Moonclan teleport"
       }
     ],
     "members": true,
@@ -26052,7 +26204,8 @@
     "outputs": [
       {
         "id": 4698,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Water Altar"
       }
     ],
     "members": true,
@@ -26086,7 +26239,8 @@
     "outputs": [
       {
         "id": 4698,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Earth Altar"
       }
     ],
     "members": true,
@@ -26250,7 +26404,8 @@
     "outputs": [
       {
         "id": 1405,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26274,7 +26429,8 @@
     "outputs": [
       {
         "id": 1405,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26298,7 +26454,8 @@
     "outputs": [
       {
         "id": 1405,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26322,7 +26479,8 @@
     "outputs": [
       {
         "id": 20739,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26346,7 +26504,8 @@
     "outputs": [
       {
         "id": 20739,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26370,7 +26529,8 @@
     "outputs": [
       {
         "id": 20739,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26394,7 +26554,8 @@
     "outputs": [
       {
         "id": 1407,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26418,7 +26579,8 @@
     "outputs": [
       {
         "id": 1407,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26442,7 +26604,8 @@
     "outputs": [
       {
         "id": 1407,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26466,7 +26629,8 @@
     "outputs": [
       {
         "id": 1401,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26490,7 +26654,8 @@
     "outputs": [
       {
         "id": 1401,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26514,7 +26679,8 @@
     "outputs": [
       {
         "id": 1401,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26538,7 +26704,8 @@
     "outputs": [
       {
         "id": 3054,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26562,7 +26729,8 @@
     "outputs": [
       {
         "id": 3054,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26586,7 +26754,8 @@
     "outputs": [
       {
         "id": 3054,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26610,7 +26779,8 @@
     "outputs": [
       {
         "id": 20733,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26634,7 +26804,8 @@
     "outputs": [
       {
         "id": 20733,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26658,7 +26829,8 @@
     "outputs": [
       {
         "id": 20733,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26682,7 +26854,8 @@
     "outputs": [
       {
         "id": 6563,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26706,7 +26879,8 @@
     "outputs": [
       {
         "id": 6563,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26730,7 +26904,8 @@
     "outputs": [
       {
         "id": 6563,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26754,7 +26929,8 @@
     "outputs": [
       {
         "id": 12000,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26778,7 +26954,8 @@
     "outputs": [
       {
         "id": 12000,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26802,7 +26979,8 @@
     "outputs": [
       {
         "id": 12000,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26826,7 +27004,8 @@
     "outputs": [
       {
         "id": 11789,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26850,7 +27029,8 @@
     "outputs": [
       {
         "id": 11789,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26874,7 +27054,8 @@
     "outputs": [
       {
         "id": 11789,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -26898,7 +27079,8 @@
     "outputs": [
       {
         "id": 1403,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -26922,7 +27104,8 @@
     "outputs": [
       {
         "id": 1403,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Hard Kandarin Diary"
       }
     ],
     "members": true,
@@ -26946,7 +27129,8 @@
     "outputs": [
       {
         "id": 1403,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
@@ -27238,7 +27422,8 @@
     "outputs": [
       {
         "id": 8504,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak armchair"
       }
     ],
     "members": true,
@@ -27263,7 +27448,8 @@
     "outputs": [
       {
         "id": 9859,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak armour case"
       }
     ],
     "members": true,
@@ -27292,7 +27478,8 @@
     "outputs": [
       {
         "id": 8578,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak bed"
       }
     ],
     "members": true,
@@ -27317,7 +27504,8 @@
     "outputs": [
       {
         "id": 8564,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak bench"
       }
     ],
     "members": true,
@@ -27372,7 +27560,8 @@
     "outputs": [
       {
         "id": 8512,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak bookcase"
       }
     ],
     "members": true,
@@ -27397,7 +27586,8 @@
     "outputs": [
       {
         "id": 9843,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak cape rack"
       }
     ],
     "members": true,
@@ -27422,7 +27612,8 @@
     "outputs": [
       {
         "id": 8502,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak chair"
       }
     ],
     "members": true,
@@ -27451,7 +27642,8 @@
     "outputs": [
       {
         "id": 8590,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak clock"
       }
     ],
     "members": true,
@@ -27476,7 +27668,8 @@
     "outputs": [
       {
         "id": 8550,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak dining table"
       }
     ],
     "members": true,
@@ -27501,7 +27694,8 @@
     "outputs": [
       {
         "id": 8612,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak drawers"
       }
     ],
     "members": true,
@@ -27530,7 +27724,8 @@
     "outputs": [
       {
         "id": 8600,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak dresser"
       }
     ],
     "members": true,
@@ -27555,7 +27750,8 @@
     "outputs": [
       {
         "id": 9865,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak fancy dress box"
       }
     ],
     "members": true,
@@ -27580,7 +27776,8 @@
     "outputs": [
       {
         "id": 8530,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak kitchen table"
       }
     ],
     "members": true,
@@ -27659,7 +27856,8 @@
     "outputs": [
       {
         "id": 9852,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak magic wardrobe"
       }
     ],
     "members": true,
@@ -27689,7 +27887,8 @@
     "outputs": [
       {
         "id": 8778,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sawmill"
       }
     ],
     "members": true,
@@ -27724,7 +27923,8 @@
     "outputs": [
       {
         "id": 8778,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Plank Make"
       }
     ],
     "members": true,
@@ -27755,7 +27955,8 @@
     "outputs": [
       {
         "id": 3440,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "2-dose oil"
       }
     ],
     "members": true,
@@ -27784,11 +27985,13 @@
     "outputs": [
       {
         "id": 3440,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -27817,11 +28020,13 @@
     "outputs": [
       {
         "id": 3440,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3434,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -27876,7 +28081,8 @@
     "outputs": [
       {
         "id": 8598,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak shaving stand"
       }
     ],
     "members": true,
@@ -28006,7 +28212,8 @@
     "outputs": [
       {
         "id": 9849,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak toy box"
       }
     ],
     "members": true,
@@ -28031,7 +28238,8 @@
     "outputs": [
       {
         "id": 9862,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak treasure chest"
       }
     ],
     "members": true,
@@ -28056,7 +28264,8 @@
     "outputs": [
       {
         "id": 8614,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Oak wardrobe"
       }
     ],
     "members": true,
@@ -28992,7 +29201,8 @@
     "outputs": [
       {
         "id": 8560,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Opulent table"
       }
     ],
     "members": true,
@@ -29339,7 +29549,8 @@
     "outputs": [
       {
         "id": 24951,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Ourania teleport"
       }
     ],
     "members": true,
@@ -29378,7 +29589,8 @@
     "outputs": [
       {
         "id": 12781,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Paddewwa teleport"
       }
     ],
     "members": true,
@@ -30571,7 +30783,8 @@
     "outputs": [
       {
         "id": 960,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sawmill"
       }
     ],
     "members": true,
@@ -30606,7 +30819,8 @@
     "outputs": [
       {
         "id": 960,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Plank Make"
       }
     ],
     "members": true,
@@ -31259,7 +31473,8 @@
     "outputs": [
       {
         "id": 3438,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "2-dose oil"
       }
     ],
     "members": true,
@@ -31288,11 +31503,13 @@
     "outputs": [
       {
         "id": 3438,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -31321,11 +31538,13 @@
     "outputs": [
       {
         "id": 3438,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3434,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -32014,7 +32233,8 @@
     "outputs": [
       {
         "id": 2507,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanner"
       }
     ],
     "members": true,
@@ -32038,7 +32258,8 @@
     "outputs": [
       {
         "id": 2507,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -32063,7 +32284,8 @@
     "outputs": [
       {
         "id": 2507,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -32094,7 +32316,8 @@
     "outputs": [
       {
         "id": 2507,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan leather spell"
       }
     ],
     "members": true,
@@ -32125,7 +32348,8 @@
     "outputs": [
       {
         "id": 1763,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Aggie"
       }
     ],
     "members": false,
@@ -32148,7 +32372,8 @@
     "outputs": [
       {
         "id": 1763,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Ali the dyer"
       }
     ],
     "members": true,
@@ -32618,7 +32843,8 @@
     "outputs": [
       {
         "id": 2568,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Murky Matt"
       }
     ],
     "members": false,
@@ -33112,7 +33338,8 @@
     "outputs": [
       {
         "id": 8500,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Rocking chair"
       }
     ],
     "members": true,
@@ -34344,7 +34571,8 @@
     "outputs": [
       {
         "id": 2363,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -34373,7 +34601,8 @@
     "outputs": [
       {
         "id": 2363,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -34410,7 +34639,8 @@
     "outputs": [
       {
         "id": 2363,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -34688,7 +34918,8 @@
     "outputs": [
       {
         "id": 19619,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Salve graveyard teleport"
       }
     ],
     "members": true,
@@ -35744,7 +35975,8 @@
     "outputs": [
       {
         "id": 12782,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Senntisten teleport"
       }
     ],
     "members": true,
@@ -35889,7 +36121,8 @@
     "outputs": [
       {
         "id": 8596,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Shaving stand"
       }
     ],
     "members": true,
@@ -35918,7 +36151,8 @@
     "outputs": [
       {
         "id": 8610,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Shoe box"
       }
     ],
     "members": true,
@@ -36621,7 +36855,8 @@
     "outputs": [
       {
         "id": 4697,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Air Altar"
       }
     ],
     "members": true,
@@ -36655,7 +36890,8 @@
     "outputs": [
       {
         "id": 4697,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Fire Altar"
       }
     ],
     "members": true,
@@ -36685,7 +36921,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanners"
       }
     ],
     "members": true,
@@ -36709,7 +36946,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -36734,7 +36972,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -36758,7 +36997,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal tanners"
       }
     ],
     "members": true,
@@ -36782,7 +37022,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sbott"
       }
     ],
     "members": true,
@@ -36807,7 +37048,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Eodan"
       }
     ],
     "members": true,
@@ -36838,7 +37080,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan Leather spell"
       }
     ],
     "members": true,
@@ -36876,7 +37119,8 @@
     "outputs": [
       {
         "id": 6289,
-        "quantity": 5
+        "quantity": 5,
+        "subText": "Tan leather spell"
       }
     ],
     "members": true,
@@ -37134,7 +37378,8 @@
     "outputs": [
       {
         "id": 1781,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Seaweed"
       }
     ],
     "members": true,
@@ -37160,7 +37405,8 @@
     "outputs": [
       {
         "id": 1781,
-        "quantity": 6
+        "quantity": 6,
+        "subText": "Giant seaweed"
       }
     ],
     "members": true,
@@ -37186,7 +37432,8 @@
     "outputs": [
       {
         "id": 1781,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Swamp weed"
       }
     ],
     "members": true,
@@ -37212,7 +37459,8 @@
     "outputs": [
       {
         "id": 1781,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Edible seaweed"
       }
     ],
     "members": true,
@@ -37346,7 +37594,8 @@
     "outputs": [
       {
         "id": 12821,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Smithing"
       }
     ],
     "members": true,
@@ -37386,7 +37635,8 @@
     "outputs": [
       {
         "id": 12821,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Abbot Langley"
       }
     ],
     "members": true,
@@ -37784,7 +38034,8 @@
     "outputs": [
       {
         "id": 3387,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Crafting"
       }
     ],
     "members": true,
@@ -37818,7 +38069,8 @@
     "outputs": [
       {
         "id": 3387,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Wizard Jalarast"
       }
     ],
     "members": true,
@@ -37844,7 +38096,8 @@
     "outputs": [
       {
         "id": 3393,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Crafting"
       }
     ],
     "members": true,
@@ -37878,7 +38131,8 @@
     "outputs": [
       {
         "id": 3393,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Wizard Jalarast"
       }
     ],
     "members": true,
@@ -37904,7 +38158,8 @@
     "outputs": [
       {
         "id": 3391,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Crafting"
       }
     ],
     "members": true,
@@ -37938,7 +38193,8 @@
     "outputs": [
       {
         "id": 3391,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Wizard Jalarast"
       }
     ],
     "members": true,
@@ -37964,7 +38220,8 @@
     "outputs": [
       {
         "id": 3385,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Crafting"
       }
     ],
     "members": true,
@@ -37998,7 +38255,8 @@
     "outputs": [
       {
         "id": 3385,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Wizard Jalarast"
       }
     ],
     "members": true,
@@ -38024,7 +38282,8 @@
     "outputs": [
       {
         "id": 3389,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Crafting"
       }
     ],
     "members": true,
@@ -38058,7 +38317,8 @@
     "outputs": [
       {
         "id": 3389,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Wizard Jalarast"
       }
     ],
     "members": true,
@@ -38321,7 +38581,8 @@
     "outputs": [
       {
         "id": 4694,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Water Altar"
       }
     ],
     "members": true,
@@ -38355,7 +38616,8 @@
     "outputs": [
       {
         "id": 4694,
-        "quantity": 13
+        "quantity": 13,
+        "subText": "Fire Altar"
       }
     ],
     "members": true,
@@ -38488,7 +38750,8 @@
     "outputs": [
       {
         "id": 2353,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Normal furnace"
       }
     ],
     "members": false,
@@ -38517,7 +38780,8 @@
     "outputs": [
       {
         "id": 2353,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Blast furnace"
       }
     ],
     "members": true,
@@ -38554,7 +38818,8 @@
     "outputs": [
       {
         "id": 2353,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Superheat"
       }
     ],
     "members": false,
@@ -40194,7 +40459,8 @@
     "outputs": [
       {
         "id": 6034,
-        "quantity": 15
+        "quantity": 15,
+        "subText": "Compost bin"
       }
     ],
     "members": true,
@@ -40224,7 +40490,8 @@
     "outputs": [
       {
         "id": 6034,
-        "quantity": 30
+        "quantity": 30,
+        "subText": "Big compost bin"
       }
     ],
     "members": true,
@@ -40255,7 +40522,8 @@
     "outputs": [
       {
         "id": 6034,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Compost potion (direct)"
       }
     ],
     "members": true,
@@ -40281,7 +40549,8 @@
     "outputs": [
       {
         "id": 6034,
-        "quantity": 15
+        "quantity": 15,
+        "subText": "Compost potion (bin)"
       }
     ],
     "members": true,
@@ -40315,7 +40584,8 @@
     "outputs": [
       {
         "id": 6034,
-        "quantity": 30
+        "quantity": 30,
+        "subText": "Compost potion (big bin)"
       }
     ],
     "members": true,
@@ -40676,7 +40946,8 @@
     "outputs": [
       {
         "id": 8506,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak armchair"
       }
     ],
     "members": true,
@@ -40701,7 +40972,8 @@
     "outputs": [
       {
         "id": 9860,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak armour case"
       }
     ],
     "members": true,
@@ -40730,7 +41002,8 @@
     "outputs": [
       {
         "id": 8582,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak bed"
       }
     ],
     "members": true,
@@ -40785,7 +41058,8 @@
     "outputs": [
       {
         "id": 9844,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak cape rack"
       }
     ],
     "members": true,
@@ -40814,7 +41088,8 @@
     "outputs": [
       {
         "id": 8592,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak clock"
       }
     ],
     "members": true,
@@ -40839,7 +41114,8 @@
     "outputs": [
       {
         "id": 8568,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak dining bench"
       }
     ],
     "members": true,
@@ -40864,7 +41140,8 @@
     "outputs": [
       {
         "id": 8616,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak drawers"
       }
     ],
     "members": true,
@@ -40893,7 +41170,8 @@
     "outputs": [
       {
         "id": 8602,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak dresser"
       }
     ],
     "members": true,
@@ -40918,7 +41196,8 @@
     "outputs": [
       {
         "id": 9866,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak fancy dress box"
       }
     ],
     "members": true,
@@ -40943,7 +41222,8 @@
     "outputs": [
       {
         "id": 8532,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak kitchen table"
       }
     ],
     "members": true,
@@ -40968,7 +41248,8 @@
     "outputs": [
       {
         "id": 9854,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak magic wardrobe"
       }
     ],
     "members": true,
@@ -40998,7 +41279,8 @@
     "outputs": [
       {
         "id": 8780,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Sawmill"
       }
     ],
     "members": true,
@@ -41033,7 +41315,8 @@
     "outputs": [
       {
         "id": 8780,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Plank Make"
       }
     ],
     "members": true,
@@ -41064,7 +41347,8 @@
     "outputs": [
       {
         "id": 6211,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -41093,11 +41377,13 @@
     "outputs": [
       {
         "id": 6211,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -41174,7 +41460,8 @@
     "outputs": [
       {
         "id": 8554,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak table"
       }
     ],
     "members": true,
@@ -41199,7 +41486,8 @@
     "outputs": [
       {
         "id": 9850,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak toy box"
       }
     ],
     "members": true,
@@ -41224,7 +41512,8 @@
     "outputs": [
       {
         "id": 9863,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak treasure chest"
       }
     ],
     "members": true,
@@ -41249,7 +41538,8 @@
     "outputs": [
       {
         "id": 8618,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teak wardrobe"
       }
     ],
     "members": true,
@@ -41286,7 +41576,8 @@
     "outputs": [
       {
         "id": 8013,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Teleport to house"
       }
     ],
     "members": true,
@@ -42612,7 +42903,8 @@
     "outputs": [
       {
         "id": 21483,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Direct addition"
       }
     ],
     "members": true,
@@ -42638,7 +42930,8 @@
     "outputs": [
       {
         "id": 21483,
-        "quantity": 15
+        "quantity": 15,
+        "subText": "Compost bin"
       }
     ],
     "members": true,
@@ -42672,7 +42965,8 @@
     "outputs": [
       {
         "id": 21483,
-        "quantity": 30
+        "quantity": 30,
+        "subText": "Big compost bin"
       }
     ],
     "members": true,
@@ -42711,7 +43005,8 @@
     "outputs": [
       {
         "id": 21483,
-        "quantity": 15
+        "quantity": 15,
+        "subText": "Compost potion"
       }
     ],
     "members": true,
@@ -42749,7 +43044,8 @@
     "outputs": [
       {
         "id": 21483,
-        "quantity": 30
+        "quantity": 30,
+        "subText": "Compost potion (big bin)"
       }
     ],
     "members": true,
@@ -43194,7 +43490,8 @@
     "outputs": [
       {
         "id": 1724,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "God book blessing"
       }
     ],
     "members": true,
@@ -43220,7 +43517,8 @@
     "outputs": [
       {
         "id": 1724,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Spirit of Scorpius"
       }
     ],
     "members": true,
@@ -43461,7 +43759,8 @@
     "outputs": [
       {
         "id": 8007,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Varrock teleport"
       }
     ],
     "members": true,
@@ -43595,7 +43894,8 @@
     "outputs": [
       {
         "id": 8012,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Watchtower teleport"
       }
     ],
     "members": true,
@@ -43844,7 +44144,8 @@
     "outputs": [
       {
         "id": 24953,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Waterbirth teleport"
       }
     ],
     "members": true,
@@ -44017,7 +44318,8 @@
     "outputs": [
       {
         "id": 19623,
-        "quantity": 1
+        "quantity": 1,
+        "text": "West ardougne teleport"
       }
     ],
     "members": true,
@@ -44190,7 +44492,8 @@
     "outputs": [
       {
         "id": 3442,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "3-dose oil"
       }
     ],
     "members": true,
@@ -44219,11 +44522,13 @@
     "outputs": [
       {
         "id": 3442,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       },
       {
         "id": 3436,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "4-dose oil"
       }
     ],
     "members": true,
@@ -44624,7 +44929,8 @@
     "outputs": [
       {
         "id": 8548,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Wood dining table"
       }
     ],
     "members": true,
@@ -44657,7 +44963,8 @@
     "outputs": [
       {
         "id": 8576,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Wooden bed"
       }
     ],
     "members": true,
@@ -44686,7 +44993,8 @@
     "outputs": [
       {
         "id": 8562,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Wooden bench"
       }
     ],
     "members": true,
@@ -44745,7 +45053,8 @@
     "outputs": [
       {
         "id": 8498,
-        "quantity": 1
+        "quantity": 1,
+        "text": "Wooden chair"
       }
     ],
     "members": true,
@@ -45342,7 +45651,8 @@
     "outputs": [
       {
         "id": 1765,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Aggie"
       }
     ],
     "members": false,
@@ -45365,7 +45675,8 @@
     "outputs": [
       {
         "id": 1765,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Ali the dyer"
       }
     ],
     "members": true,
@@ -45713,7 +46024,8 @@
     "outputs": [
       {
         "id": 11889,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "No Diary"
       }
     ],
     "members": true,
@@ -45737,7 +46049,8 @@
     "outputs": [
       {
         "id": 11889,
-        "quantity": 1
+        "quantity": 1,
+        "subText": "Elite Kandarin Diary"
       }
     ],
     "members": true,
