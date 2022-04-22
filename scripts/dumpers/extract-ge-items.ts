@@ -7,6 +7,8 @@ import { GE_ITEMS, WIKI_PAGES_FOLDER } from "../paths";
 import { Item } from "../types";
 import { WikiPageWithContent } from "../wiki/request";
 
+const GELimitsModuleUrl =
+  "https://oldschool.runescape.wiki/w/Module:GELimits/data?action=raw";
 interface WikiItem {
   gemwname?: string;
   name: string;
@@ -48,7 +50,13 @@ const WikiToItemKeys: Record<Partial<keyof WikiItem>, keyof Item> = {
   id: "id",
 };
 
-export function fetchGEItems(): Item[] {
+export async function fetchGEItems(): Promise<Item[]> {
+  const GELimitsRawText = (await axios.get(GELimitsModuleUrl)).data;
+  const json = GELimitsRawText.replace("return ", "")
+    .replace(/[[|\]]/g, "")
+    .replace(/=/g, ":");
+  const GELimitsRecord: Record<string, number> = JSON.parse(json);
+
   const items: Item[] = [];
   for (let i = 0; i < GEItemPageList.length; i++) {
     if (i % 100 === 0) {
@@ -113,6 +121,7 @@ export function fetchGEItems(): Item[] {
       relatedItems: [],
       value: Number(parsed.value),
       weight: Number(parsed.weight),
+      limit: GELimitsRecord[parsed.gemwname || parsed.name] || 0,
     };
 
     if (hasMultiple) {
@@ -175,9 +184,10 @@ export function fetchGEItems(): Item[] {
       }
 
       const geIds = geVariants.map((v) => v.id);
-      geVariants.forEach(
-        (v) => (v.relatedItems = geIds.filter((id) => v.id !== id))
-      );
+      geVariants.forEach((v) => {
+        v.relatedItems = geIds.filter((id) => v.id !== id);
+        v.limit = v.limit || GELimitsRecord[v.name] || 0;
+      });
 
       items.push(...geVariants);
     } else {
@@ -258,6 +268,11 @@ export async function TestGeItems() {
     if (wikiItem.members !== ourItem.isMembers) {
       console.warn(
         `item ${wikiItem.id} has a different membership: ${wikiItem.members} vs ${ourItem.isMembers}`
+      );
+    }
+    if (wikiItem.limit !== ourItem.limit && (wikiItem.limit || ourItem.limit)) {
+      console.warn(
+        `item ${wikiItem.id} has a different limit: ${wikiItem.limit} vs ${ourItem.limit}`
       );
     }
   }
