@@ -997,7 +997,7 @@
   },
   {
     "pageid": 347486,
-    "title": "2014 Valentines"
+    "title": "2014 Valentine's Day event"
   },
   {
     "pageid": 65154,
@@ -3844,6 +3844,10 @@
     "title": "Ahab's beer"
   },
   {
+    "pageid": 354505,
+    "title": "Ahmek"
+  },
+  {
     "pageid": 42778,
     "title": "Ahrim's armour set"
   },
@@ -3992,16 +3996,12 @@
     "title": "Ak-Haranu (2014 April Fools)"
   },
   {
+    "pageid": 354502,
+    "title": "Akhem"
+  },
+  {
     "pageid": 15394,
     "title": "Akthanakos"
-  },
-  {
-    "pageid": 36073,
-    "title": "Al-Kharid General Store"
-  },
-  {
-    "pageid": 15851,
-    "title": "Al-Kharid warrior"
   },
   {
     "pageid": 12567,
@@ -4012,12 +4012,12 @@
     "title": "Al Kharid (music track)"
   },
   {
-    "pageid": 273726,
-    "title": "Al Kharid - Menaphos War"
-  },
-  {
     "pageid": 65277,
     "title": "Al Kharid Camel"
+  },
+  {
+    "pageid": 36073,
+    "title": "Al Kharid General Store"
   },
   {
     "pageid": 46372,
@@ -4034,6 +4034,14 @@
   {
     "pageid": 14310,
     "title": "Al Kharid mine"
+  },
+  {
+    "pageid": 15851,
+    "title": "Al Kharid warrior"
+  },
+  {
+    "pageid": 273726,
+    "title": "Al Kharid–Menaphos War"
   },
   {
     "pageid": 43549,
@@ -4822,6 +4830,10 @@
   {
     "pageid": 39123,
     "title": "Amylase pack"
+  },
+  {
+    "pageid": 218509,
+    "title": "An anonymous looking door"
   },
   {
     "pageid": 43833,
@@ -5640,6 +5652,10 @@
     "title": "Annakarl teleport (tablet)"
   },
   {
+    "pageid": 354702,
+    "title": "Annalise"
+  },
+  {
     "pageid": 39733,
     "title": "Anne Isaakson"
   },
@@ -5952,16 +5968,16 @@
     "title": "Apmeken"
   },
   {
-    "pageid": 33463,
-    "title": "Apmeken (monster)"
-  },
-  {
     "pageid": 15171,
     "title": "Apothecary"
   },
   {
     "pageid": 298352,
     "title": "Apparatus"
+  },
+  {
+    "pageid": 354003,
+    "title": "Apparition"
   },
   {
     "pageid": 324655,
@@ -7416,6 +7432,10 @@
     "title": "Aurel's Supplies"
   },
   {
+    "pageid": 353699,
+    "title": "Auspah"
+  },
+  {
     "pageid": 52211,
     "title": "Austri"
   },
@@ -7560,6 +7580,10 @@
     "title": "Awakened Altar"
   },
   {
+    "pageid": 330214,
+    "title": "Awful Anthem (music track)"
+  },
+  {
     "pageid": 33945,
     "title": "Awful anthem"
   },
@@ -7662,6 +7686,10 @@
   {
     "pageid": 28022,
     "title": "Baba Yaga's Magic Shop."
+  },
+  {
+    "pageid": 354005,
+    "title": "Baboon emblem"
   },
   {
     "pageid": 254223,
@@ -8852,10 +8880,6 @@
     "title": "Barbarian Assault Reward Shop"
   },
   {
-    "pageid": 330231,
-    "title": "Barbarian Assault Tutorial"
-  },
-  {
     "pageid": 340085,
     "title": "Barbarian Camp"
   },
@@ -9158,10 +9182,6 @@
   {
     "pageid": 23740,
     "title": "Barrelchest"
-  },
-  {
-    "pageid": 330243,
-    "title": "Barrelchest Battle"
   },
   {
     "pageid": 10442,
@@ -9689,7 +9709,7 @@
   },
   {
     "pageid": 324573,
-    "title": "Bearhead (Scenery)"
+    "title": "Bearhead (scenery)"
   },
   {
     "pageid": 93566,
@@ -9896,6 +9916,10 @@
     "title": "Bell-pull"
   },
   {
+    "pageid": 354767,
+    "title": "Bell (Wizards' Guild)"
+  },
+  {
     "pageid": 298899,
     "title": "Bell (unused object)"
   },
@@ -9984,6 +10008,10 @@
     "title": "Beneath Cursed Sands"
   },
   {
+    "pageid": 354153,
+    "title": "Beneath Cursed Sands/Quick guide"
+  },
+  {
     "pageid": 316608,
     "title": "Beneath the Kingdom"
   },
@@ -10002,10 +10030,6 @@
   {
     "pageid": 99493,
     "title": "Bentamir"
-  },
-  {
-    "pageid": 330240,
-    "title": "Berating the King"
   },
   {
     "pageid": 17004,
@@ -11824,6 +11848,10 @@
     "title": "Blood Stinktree"
   },
   {
+    "pageid": 352111,
+    "title": "Blood Tithe (Darkmeyer)"
+  },
+  {
     "pageid": 23303,
     "title": "Blood diamond"
   },
@@ -11886,10 +11914,6 @@
   {
     "pageid": 54145,
     "title": "Blood tithe"
-  },
-  {
-    "pageid": 352111,
-    "title": "Blood tithe (NPC)"
   },
   {
     "pageid": 104656,
@@ -13220,6 +13244,10 @@
     "title": "Bottle"
   },
   {
+    "pageid": 353932,
+    "title": "Bottle of 'tonic'"
+  },
+  {
     "pageid": 24550,
     "title": "Bottle of wine"
   },
@@ -13274,10 +13302,6 @@
   {
     "pageid": 21893,
     "title": "Bouncer"
-  },
-  {
-    "pageid": 330242,
-    "title": "Bouncer's Theme"
   },
   {
     "pageid": 35731,
@@ -13486,6 +13510,10 @@
   {
     "pageid": 92776,
     "title": "Bracelet of slaughter"
+  },
+  {
+    "pageid": 330243,
+    "title": "Brain Battle"
   },
   {
     "pageid": 26204,
@@ -14641,7 +14669,7 @@
   },
   {
     "pageid": 324575,
-    "title": "Brown spice (4) (Scenery)"
+    "title": "Brown spice (4) (scenery)"
   },
   {
     "pageid": 70178,
@@ -14846,6 +14874,10 @@
   {
     "pageid": 33288,
     "title": "Bucket of rubble"
+  },
+  {
+    "pageid": 33941,
+    "title": "Bucket of saltwater"
   },
   {
     "pageid": 13083,
@@ -15376,10 +15408,6 @@
     "title": "Burthorpe"
   },
   {
-    "pageid": 273733,
-    "title": "Burthorpe - Troll Country War"
-  },
-  {
     "pageid": 43357,
     "title": "Burthorpe Castle"
   },
@@ -15394,6 +15422,10 @@
   {
     "pageid": 101976,
     "title": "Burthorpe Supplies"
+  },
+  {
+    "pageid": 273733,
+    "title": "Burthorpe–Troll Country War"
   },
   {
     "pageid": 20323,
@@ -15686,6 +15718,10 @@
   {
     "pageid": 301856,
     "title": "Caged monkey (Unicorn)"
+  },
+  {
+    "pageid": 330231,
+    "title": "Cain's Tutorial"
   },
   {
     "pageid": 9401,
@@ -16852,6 +16888,10 @@
     "title": "Cavaliers"
   },
   {
+    "pageid": 354545,
+    "title": "Cave (Meiyerditch Laboratories)"
+  },
+  {
     "pageid": 341574,
     "title": "Cave (Ungael)"
   },
@@ -17356,10 +17396,6 @@
     "title": "Centre of crop circle"
   },
   {
-    "pageid": 321660,
-    "title": "Centre piece"
-  },
-  {
     "pageid": 219417,
     "title": "Centrepiece space"
   },
@@ -17648,6 +17684,10 @@
     "title": "Champion Statue"
   },
   {
+    "pageid": 354021,
+    "title": "Champion of Scabaras"
+  },
+  {
     "pageid": 2171,
     "title": "Champions' Challenge"
   },
@@ -17674,10 +17714,6 @@
   {
     "pageid": 21960,
     "title": "Chaos Altar"
-  },
-  {
-    "pageid": 312198,
-    "title": "Chaos Altar (Prayer)"
   },
   {
     "pageid": 69130,
@@ -17734,6 +17770,10 @@
   {
     "pageid": 54907,
     "title": "Chaos Temple (hut)"
+  },
+  {
+    "pageid": 312198,
+    "title": "Chaos altar (Prayer)"
   },
   {
     "pageid": 308612,
@@ -18112,6 +18152,10 @@
     "title": "Chest (Barrows)"
   },
   {
+    "pageid": 354006,
+    "title": "Chest (Beneath Cursed Sands)"
+  },
+  {
     "pageid": 321153,
     "title": "Chest (Bronze key)"
   },
@@ -18446,6 +18490,10 @@
   {
     "pageid": 243957,
     "title": "Child (2005 Halloween event)"
+  },
+  {
+    "pageid": 356003,
+    "title": "Child (2014 Easter event)"
   },
   {
     "pageid": 39689,
@@ -18872,6 +18920,10 @@
     "title": "Circle (disambiguation)"
   },
   {
+    "pageid": 354007,
+    "title": "Circlet of water"
+  },
+  {
     "pageid": 27858,
     "title": "Circular hide"
   },
@@ -18886,6 +18938,10 @@
   {
     "pageid": 269512,
     "title": "Citharede Abbey mine"
+  },
+  {
+    "pageid": 119906,
+    "title": "Citizen"
   },
   {
     "pageid": 24973,
@@ -19472,6 +19528,10 @@
     "title": "Clue scroll (easy)"
   },
   {
+    "pageid": 354710,
+    "title": "Clue scroll (easy) - Al Kharid Mine"
+  },
+  {
     "pageid": 37295,
     "title": "Clue scroll (elite)"
   },
@@ -19502,6 +19562,10 @@
   {
     "pageid": 353230,
     "title": "Clue scroll (medium) - Beckon in Tai Bwo Wannai"
+  },
+  {
+    "pageid": 354790,
+    "title": "Clue scroll (medium) - USBJCPSO"
   },
   {
     "pageid": 329053,
@@ -21496,6 +21560,10 @@
     "title": "Crest"
   },
   {
+    "pageid": 330217,
+    "title": "Crest of a Wave"
+  },
+  {
     "pageid": 36349,
     "title": "Crest part"
   },
@@ -21568,16 +21636,16 @@
     "title": "Crocodile"
   },
   {
+    "pageid": 354012,
+    "title": "Crocodile emblem"
+  },
+  {
     "pageid": 117163,
     "title": "Crombwick Manor"
   },
   {
     "pageid": 83699,
     "title": "Crondis"
-  },
-  {
-    "pageid": 205316,
-    "title": "Crondis (monster)"
   },
   {
     "pageid": 21700,
@@ -22500,6 +22568,10 @@
     "title": "Cure Plant"
   },
   {
+    "pageid": 354010,
+    "title": "Cure crate"
+  },
+  {
     "pageid": 227524,
     "title": "Cure disease"
   },
@@ -22906,10 +22978,6 @@
   {
     "pageid": 9452,
     "title": "Dagger"
-  },
-  {
-    "pageid": 276862,
-    "title": "Dagger stall"
   },
   {
     "pageid": 27441,
@@ -24289,7 +24357,7 @@
   },
   {
     "pageid": 330226,
-    "title": "Delrith Summoning"
+    "title": "Delrith (music track)"
   },
   {
     "pageid": 302161,
@@ -25064,6 +25132,10 @@
     "title": "Dirty blast"
   },
   {
+    "pageid": 354478,
+    "title": "Dirty ground"
+  },
+  {
     "pageid": 20783,
     "title": "Dirty robe"
   },
@@ -25270,6 +25342,10 @@
   {
     "pageid": 12377,
     "title": "Dog (disambiguation)"
+  },
+  {
+    "pageid": 330242,
+    "title": "Dogfight"
   },
   {
     "pageid": 98094,
@@ -25534,6 +25610,10 @@
   {
     "pageid": 97733,
     "title": "Dorgeshuun Deep"
+  },
+  {
+    "pageid": 330220,
+    "title": "Dorgeshuun Treaty"
   },
   {
     "pageid": 10562,
@@ -26864,6 +26944,10 @@
     "title": "Dunce"
   },
   {
+    "pageid": 354009,
+    "title": "Dunes of Eternity"
+  },
+  {
     "pageid": 33677,
     "title": "Dung"
   },
@@ -27696,6 +27780,10 @@
     "title": "Egg"
   },
   {
+    "pageid": 355986,
+    "title": "Egg (2014 Easter event)"
+  },
+  {
     "pageid": 215072,
     "title": "Egg (2019 Easter event)"
   },
@@ -28246,10 +28334,6 @@
   {
     "pageid": 11925,
     "title": "Elvarg"
-  },
-  {
-    "pageid": 330247,
-    "title": "Elvarg's Theme"
   },
   {
     "pageid": 12515,
@@ -29180,6 +29264,10 @@
     "title": "Equipment table"
   },
   {
+    "pageid": 356287,
+    "title": "Erasmus"
+  },
+  {
     "pageid": 108591,
     "title": "Erdan"
   },
@@ -29298,10 +29386,6 @@
   {
     "pageid": 79855,
     "title": "Esther"
-  },
-  {
-    "pageid": 330214,
-    "title": "Etcetera Theme"
   },
   {
     "pageid": 9417,
@@ -29848,6 +29932,10 @@
     "title": "Eye of the Artisan"
   },
   {
+    "pageid": 330247,
+    "title": "Eye of the Storm"
+  },
+  {
     "pageid": 49281,
     "title": "Ezekial Lovecraft"
   },
@@ -29926,10 +30014,6 @@
   {
     "pageid": 341220,
     "title": "Fairy Cake"
-  },
-  {
-    "pageid": 330224,
-    "title": "Fairy Dragon Cutscene"
   },
   {
     "pageid": 27104,
@@ -33032,6 +33116,10 @@
     "title": "Frozen churning machine"
   },
   {
+    "pageid": 354517,
+    "title": "Frozen churning machine (scenery)"
+  },
+  {
     "pageid": 70296,
     "title": "Frozen jug"
   },
@@ -33152,12 +33240,8 @@
     "title": "Ful to the Brim"
   },
   {
-    "pageid": 33941,
-    "title": "Full bucket"
-  },
-  {
     "pageid": 33905,
-    "title": "Full bucket (The Fremennik Trials)"
+    "title": "Full bucket"
   },
   {
     "pageid": 298946,
@@ -33689,7 +33773,7 @@
   },
   {
     "pageid": 353289,
-    "title": "Gate (Manaphos)"
+    "title": "Gate (Menaphos)"
   },
   {
     "pageid": 254758,
@@ -34284,10 +34368,6 @@
     "title": "Giant Dwarf (statue)"
   },
   {
-    "pageid": 330215,
-    "title": "Giant Dwarf Meeting"
-  },
-  {
     "pageid": 12426,
     "title": "Giant Mole"
   },
@@ -34314,6 +34394,10 @@
   {
     "pageid": 25723,
     "title": "Giant Rock Crab"
+  },
+  {
+    "pageid": 26494,
+    "title": "Giant Scarab"
   },
   {
     "pageid": 29285,
@@ -34418,10 +34502,6 @@
   {
     "pageid": 80119,
     "title": "Giant rockslug"
-  },
-  {
-    "pageid": 26494,
-    "title": "Giant scarab"
   },
   {
     "pageid": 103316,
@@ -36186,6 +36266,10 @@
   {
     "pageid": 207570,
     "title": "Grand Exchange booth"
+  },
+  {
+    "pageid": 355028,
+    "title": "Grand Exchange booth (Deadman Mode)"
   },
   {
     "pageid": 298706,
@@ -39200,6 +39284,10 @@
     "title": "Head Guard"
   },
   {
+    "pageid": 354022,
+    "title": "Head Menaphite Guard"
+  },
+  {
     "pageid": 119913,
     "title": "Head Mourner"
   },
@@ -39784,10 +39872,6 @@
     "title": "Het"
   },
   {
-    "pageid": 205313,
-    "title": "Het (monster)"
-  },
-  {
     "pageid": 23169,
     "title": "Hetty"
   },
@@ -39866,6 +39950,10 @@
   {
     "pageid": 347846,
     "title": "High Priest Bighead"
+  },
+  {
+    "pageid": 354067,
+    "title": "High Priest of Scabaras"
   },
   {
     "pageid": 44220,
@@ -40584,6 +40672,10 @@
     "title": "Human bones"
   },
   {
+    "pageid": 354011,
+    "title": "Human emblem"
+  },
+  {
     "pageid": 42052,
     "title": "Human eye"
   },
@@ -40593,11 +40685,11 @@
   },
   {
     "pageid": 350717,
-    "title": "Humble Chivalry (beta)"
+    "title": "Humble Chivalry"
   },
   {
     "pageid": 350715,
-    "title": "Humble Piety (beta)"
+    "title": "Humble Piety"
   },
   {
     "pageid": 21032,
@@ -40793,7 +40885,7 @@
   },
   {
     "pageid": 98148,
-    "title": "Hypnotized"
+    "title": "Hypnotised"
   },
   {
     "pageid": 324177,
@@ -40942,10 +41034,6 @@
   {
     "pageid": 55329,
     "title": "Ice Troll Caves"
-  },
-  {
-    "pageid": 330239,
-    "title": "Ice Troll Caves (music track)"
   },
   {
     "pageid": 24461,
@@ -41408,10 +41496,6 @@
     "title": "Impetuous"
   },
   {
-    "pageid": 330246,
-    "title": "Impetuous Clue"
-  },
-  {
     "pageid": 3250,
     "title": "Impetuous Impulses"
   },
@@ -41438,6 +41522,10 @@
   {
     "pageid": 12399,
     "title": "Improved Reflexes"
+  },
+  {
+    "pageid": 330246,
+    "title": "Impulses"
   },
   {
     "pageid": 93834,
@@ -42672,6 +42760,10 @@
     "title": "Iwazaru"
   },
   {
+    "pageid": 354108,
+    "title": "Jabari"
+  },
+  {
     "pageid": 108605,
     "title": "Jack"
   },
@@ -42894,6 +42986,10 @@
   {
     "pageid": 53611,
     "title": "Jalsavrah Pyramid"
+  },
+  {
+    "pageid": 354112,
+    "title": "Jaltevas Pyramid"
   },
   {
     "pageid": 113669,
@@ -44340,10 +44436,6 @@
     "title": "Keldagrim's Best Bread"
   },
   {
-    "pageid": 273740,
-    "title": "Keldagrim - Troll Country War"
-  },
-  {
     "pageid": 61808,
     "title": "Keldagrim Mine"
   },
@@ -44382,6 +44474,10 @@
   {
     "pageid": 30237,
     "title": "Keldagrim tasks"
+  },
+  {
+    "pageid": 273740,
+    "title": "Keldagrim–Troll Country War"
   },
   {
     "pageid": 25576,
@@ -44434,6 +44530,10 @@
   {
     "pageid": 328987,
     "title": "Keris partisan"
+  },
+  {
+    "pageid": 353885,
+    "title": "Keris partisan (beta)"
   },
   {
     "pageid": 329167,
@@ -44560,6 +44660,10 @@
     "title": "Kharidian Desert"
   },
   {
+    "pageid": 273722,
+    "title": "Kharidian Desert Campaign"
+  },
+  {
     "pageid": 262200,
     "title": "Kharidian Empire"
   },
@@ -44570,6 +44674,10 @@
   {
     "pageid": 22147,
     "title": "Kharidian headpiece"
+  },
+  {
+    "pageid": 268783,
+    "title": "Kharidian–Zarosian War"
   },
   {
     "pageid": 41472,
@@ -44586,10 +44694,6 @@
   {
     "pageid": 41567,
     "title": "Kharyrll teleport (tablet)"
-  },
-  {
-    "pageid": 273723,
-    "title": "Khazard - Gnome War"
   },
   {
     "pageid": 38173,
@@ -44650,6 +44754,10 @@
   {
     "pageid": 11450,
     "title": "Khazard warlord"
+  },
+  {
+    "pageid": 273723,
+    "title": "Khazard–Gnome War"
   },
   {
     "pageid": 34097,
@@ -44746,10 +44854,6 @@
   {
     "pageid": 80916,
     "title": "King's Ransom/Quick guide"
-  },
-  {
-    "pageid": 330252,
-    "title": "King's Ransom Betrayal"
   },
   {
     "pageid": 33046,
@@ -44950,6 +45054,10 @@
   {
     "pageid": 277678,
     "title": "King of the Skill"
+  },
+  {
+    "pageid": 330239,
+    "title": "King of the Trolls"
   },
   {
     "pageid": 35287,
@@ -47112,6 +47220,10 @@
     "title": "Lilly"
   },
   {
+    "pageid": 354013,
+    "title": "Lily of the elid"
+  },
+  {
     "pageid": 20019,
     "title": "Lime"
   },
@@ -47194,6 +47306,10 @@
   {
     "pageid": 225062,
     "title": "Lion"
+  },
+  {
+    "pageid": 354826,
+    "title": "Lion helm"
   },
   {
     "pageid": 54715,
@@ -47784,6 +47900,10 @@
     "title": "Look-out"
   },
   {
+    "pageid": 330249,
+    "title": "Look to the Stars"
+  },
+  {
     "pageid": 97786,
     "title": "Looking Back"
   },
@@ -48054,10 +48174,6 @@
   {
     "pageid": 97736,
     "title": "Lost Soul"
-  },
-  {
-    "pageid": 330220,
-    "title": "Lost Tribe Cutscene"
   },
   {
     "pageid": 16169,
@@ -49152,6 +49268,10 @@
     "title": "Magical Animator"
   },
   {
+    "pageid": 353703,
+    "title": "Magical Barrier"
+  },
+  {
     "pageid": 322185,
     "title": "Magical Chest"
   },
@@ -50193,7 +50313,7 @@
   },
   {
     "pageid": 334162,
-    "title": "Market Stall"
+    "title": "Market Stall (Keldagrim)"
   },
   {
     "pageid": 33510,
@@ -50210,6 +50330,10 @@
   {
     "pageid": 256159,
     "title": "Market stall (Pollnivneach Rooftop Course)"
+  },
+  {
+    "pageid": 276862,
+    "title": "Market stall (dagger)"
   },
   {
     "pageid": 53552,
@@ -50516,6 +50640,10 @@
     "title": "Max hood"
   },
   {
+    "pageid": 353962,
+    "title": "Maximum damage cap"
+  },
+  {
     "pageid": 52480,
     "title": "Maximum hit"
   },
@@ -50744,6 +50872,10 @@
     "title": "Megan"
   },
   {
+    "pageid": 354059,
+    "title": "Mehhar"
+  },
+  {
     "pageid": 331283,
     "title": "Mehkmets"
   },
@@ -50888,6 +51020,14 @@
     "title": "Menagerie"
   },
   {
+    "pageid": 354052,
+    "title": "Menaphite Akh"
+  },
+  {
+    "pageid": 35229,
+    "title": "Menaphite Guard"
+  },
+  {
     "pageid": 34850,
     "title": "Menaphite Leader"
   },
@@ -50896,16 +51036,16 @@
     "title": "Menaphite Pantheon"
   },
   {
+    "pageid": 354098,
+    "title": "Menaphite Shadow"
+  },
+  {
     "pageid": 22441,
     "title": "Menaphite Thug"
   },
   {
     "pageid": 33949,
     "title": "Menaphite clothing"
-  },
-  {
-    "pageid": 35229,
-    "title": "Menaphite guard"
   },
   {
     "pageid": 65905,
@@ -51038,6 +51178,10 @@
   {
     "pageid": 70210,
     "title": "Message"
+  },
+  {
+    "pageid": 353930,
+    "title": "Message (Beneath Cursed Sands)"
   },
   {
     "pageid": 48954,
@@ -51632,10 +51776,6 @@
     "title": "Misthalin"
   },
   {
-    "pageid": 273719,
-    "title": "Misthalin - Morytania War"
-  },
-  {
     "pageid": 212608,
     "title": "Misthalin Manor"
   },
@@ -51650,6 +51790,10 @@
   {
     "pageid": 305763,
     "title": "Misthalin underground"
+  },
+  {
+    "pageid": 273719,
+    "title": "Misthalin–Morytania War"
   },
   {
     "pageid": 19480,
@@ -56320,6 +56464,14 @@
     "title": "Necromancy book"
   },
   {
+    "pageid": 354077,
+    "title": "Necropolis"
+  },
+  {
+    "pageid": 354191,
+    "title": "Necropolis mine"
+  },
+  {
     "pageid": 15378,
     "title": "Necrovarus"
   },
@@ -57656,6 +57808,10 @@
     "title": "Obelisk (Construction)"
   },
   {
+    "pageid": 354143,
+    "title": "Obelisk (Necropolis)"
+  },
+  {
     "pageid": 36331,
     "title": "Obelisk of Air"
   },
@@ -57706,10 +57862,6 @@
   {
     "pageid": 92492,
     "title": "Observatory Quest/Quick guide"
-  },
-  {
-    "pageid": 330249,
-    "title": "Observatory Telescope Cutscene"
   },
   {
     "pageid": 24788,
@@ -57910,6 +58062,10 @@
   {
     "pageid": 338861,
     "title": "Odd looking wall (Edgeville Dungeon)"
+  },
+  {
+    "pageid": 353933,
+    "title": "Odd spectacles"
   },
   {
     "pageid": 35922,
@@ -58753,7 +58909,7 @@
   },
   {
     "pageid": 324592,
-    "title": "Orange spice (4) (Scenery)"
+    "title": "Orange spice (4) (scenery)"
   },
   {
     "pageid": 17428,
@@ -59640,6 +59796,10 @@
     "title": "Partial note"
   },
   {
+    "pageid": 354172,
+    "title": "Partisan"
+  },
+  {
     "pageid": 38798,
     "title": "Party"
   },
@@ -60032,12 +60192,8 @@
     "title": "Penguin Agility Course"
   },
   {
-    "pageid": 330237,
-    "title": "Penguin Bards"
-  },
-  {
     "pageid": 330238,
-    "title": "Penguin Plans"
+    "title": "Penguin Plots"
   },
   {
     "pageid": 23440,
@@ -60386,6 +60542,14 @@
   {
     "pageid": 12985,
     "title": "Pharaoh's sceptre"
+  },
+  {
+    "pageid": 354279,
+    "title": "Pharaoh's sceptre (discontinued)"
+  },
+  {
+    "pageid": 66770,
+    "title": "Pharaoh Kemesis"
   },
   {
     "pageid": 347750,
@@ -62996,6 +63160,10 @@
     "title": "Pugel"
   },
   {
+    "pageid": 354700,
+    "title": "Pukkamay"
+  },
+  {
     "pageid": 24654,
     "title": "Pulley beam"
   },
@@ -65377,7 +65545,7 @@
   },
   {
     "pageid": 324594,
-    "title": "Red spice (4) (Scenery)"
+    "title": "Red spice (4) (scenery)"
   },
   {
     "pageid": 18129,
@@ -66541,7 +66709,7 @@
   },
   {
     "pageid": 352790,
-    "title": "Rob law"
+    "title": "Rob Law"
   },
   {
     "pageid": 245102,
@@ -66970,6 +67138,10 @@
   {
     "pageid": 17837,
     "title": "Roe"
+  },
+  {
+    "pageid": 354073,
+    "title": "Roger"
   },
   {
     "pageid": 54875,
@@ -67800,8 +67972,20 @@
     "title": "Ruins of Camdozaal"
   },
   {
+    "pageid": 353934,
+    "title": "Ruins of Isolation"
+  },
+  {
     "pageid": 316873,
     "title": "Ruins of Morra"
+  },
+  {
+    "pageid": 67590,
+    "title": "Ruins of Ullek"
+  },
+  {
+    "pageid": 354195,
+    "title": "Ruins of Ullek mine"
   },
   {
     "pageid": 299551,
@@ -68728,6 +68912,10 @@
     "title": "Rusty casket"
   },
   {
+    "pageid": 354017,
+    "title": "Rusty key"
+  },
+  {
     "pageid": 35614,
     "title": "Rusty scimitar"
   },
@@ -68914,10 +69102,6 @@
   {
     "pageid": 32463,
     "title": "Sailing"
-  },
-  {
-    "pageid": 330217,
-    "title": "Sailing Journey 2"
   },
   {
     "pageid": 104650,
@@ -69840,10 +70024,6 @@
     "title": "Scabaras"
   },
   {
-    "pageid": 205312,
-    "title": "Scabaras (monster)"
-  },
-  {
     "pageid": 27203,
     "title": "Scabarites"
   },
@@ -69929,11 +70109,23 @@
   },
   {
     "pageid": 35502,
-    "title": "Scarab mage"
+    "title": "Scarab Mage"
   },
   {
     "pageid": 34990,
-    "title": "Scarab swarm"
+    "title": "Scarab Swarm"
+  },
+  {
+    "pageid": 354237,
+    "title": "Scarab Swarm (Beneath Cursed Sands)"
+  },
+  {
+    "pageid": 354018,
+    "title": "Scarab emblem"
+  },
+  {
+    "pageid": 354019,
+    "title": "Scarab mould"
   },
   {
     "pageid": 35903,
@@ -70764,6 +70956,10 @@
     "title": "Selene"
   },
   {
+    "pageid": 354078,
+    "title": "Selim"
+  },
+  {
     "pageid": 112150,
     "title": "Semi-precious blue gem"
   },
@@ -71040,6 +71236,10 @@
     "title": "Seth Groats"
   },
   {
+    "pageid": 354503,
+    "title": "Sethos"
+  },
+  {
     "pageid": 22382,
     "title": "Settings"
   },
@@ -71170,6 +71370,10 @@
   {
     "pageid": 49223,
     "title": "Shadow Hound"
+  },
+  {
+    "pageid": 354114,
+    "title": "Shadow Portal"
   },
   {
     "pageid": 71327,
@@ -71362,6 +71566,10 @@
   {
     "pageid": 343924,
     "title": "Shattered Relic Hunter (T3)"
+  },
+  {
+    "pageid": 354181,
+    "title": "Shattered Relics (music track)"
   },
   {
     "pageid": 326232,
@@ -74308,10 +74516,6 @@
     "title": "Slave (Mourner Tunnels)"
   },
   {
-    "pageid": 96376,
-    "title": "Slave (Sophanem)"
-  },
-  {
     "pageid": 96377,
     "title": "Slave (Underground Pass)"
   },
@@ -75737,7 +75941,7 @@
   },
   {
     "pageid": 35500,
-    "title": "Sophanem guard"
+    "title": "Sophanem Guard"
   },
   {
     "pageid": 114807,
@@ -78032,6 +78236,10 @@
     "title": "Stepping stone (Mos Le'Harmless)"
   },
   {
+    "pageid": 354493,
+    "title": "Stepping stone (Necropolis)"
+  },
+  {
     "pageid": 256238,
     "title": "Stepping stone (Shilo Village)"
   },
@@ -78244,10 +78452,6 @@
     "title": "Stone left leg"
   },
   {
-    "pageid": 70166,
-    "title": "Stone mason"
-  },
-  {
     "pageid": 217665,
     "title": "Stone of Jas"
   },
@@ -78296,6 +78500,10 @@
     "title": "Stone tablet"
   },
   {
+    "pageid": 353946,
+    "title": "Stone tablet (Beneath Cursed Sands)"
+  },
+  {
     "pageid": 204219,
     "title": "Stone tablet (Lizardman Temple)"
   },
@@ -78310,6 +78518,10 @@
   {
     "pageid": 29229,
     "title": "Stonemason"
+  },
+  {
+    "pageid": 70166,
+    "title": "Stonemason (Sophanem)"
   },
   {
     "pageid": 276242,
@@ -79092,6 +79304,10 @@
     "title": "Sunken rowboat"
   },
   {
+    "pageid": 321660,
+    "title": "Suntrap"
+  },
+  {
     "pageid": 263293,
     "title": "Super"
   },
@@ -79325,7 +79541,7 @@
   },
   {
     "pageid": 330245,
-    "title": "Surok's Revenge"
+    "title": "Surok's Theme"
   },
   {
     "pageid": 34791,
@@ -79980,12 +80196,12 @@
     "title": "Tarn's Lair"
   },
   {
-    "pageid": 330232,
-    "title": "Tarn's Theme"
-  },
-  {
     "pageid": 34228,
     "title": "Tarn's diary"
+  },
+  {
+    "pageid": 330232,
+    "title": "Tarn Razorlor (music track)"
   },
   {
     "pageid": 27523,
@@ -81484,6 +81700,10 @@
     "title": "The Collector"
   },
   {
+    "pageid": 330215,
+    "title": "The Consortium (music track)"
+  },
+  {
     "pageid": 107147,
     "title": "The Corsair Curse"
   },
@@ -81608,6 +81828,10 @@
     "title": "The Face"
   },
   {
+    "pageid": 330224,
+    "title": "The Fairy Dragon"
+  },
+  {
     "pageid": 98125,
     "title": "The Far Side"
   },
@@ -81656,6 +81880,10 @@
     "title": "The Forgotten Cemetery"
   },
   {
+    "pageid": 354047,
+    "title": "The Forgotten Tomb"
+  },
+  {
     "pageid": 98294,
     "title": "The Forlorn Homestead"
   },
@@ -81700,6 +81928,10 @@
     "title": "The Fremennik Isles/Quick guide"
   },
   {
+    "pageid": 330240,
+    "title": "The Fremennik Kings"
+  },
+  {
     "pageid": 6897,
     "title": "The Fremennik Trials"
   },
@@ -81722,6 +81954,10 @@
   {
     "pageid": 98131,
     "title": "The Galleon"
+  },
+  {
+    "pageid": 354182,
+    "title": "The Gates of Menaphos"
   },
   {
     "pageid": 221997,
@@ -82032,12 +82268,16 @@
     "title": "The Part Where You Die"
   },
   {
+    "pageid": 330237,
+    "title": "The Penguin Bards"
+  },
+  {
     "pageid": 96679,
     "title": "The Pescallion"
   },
   {
-    "pageid": 66770,
-    "title": "The Pharaoh"
+    "pageid": 354104,
+    "title": "The Pharaoh (music track)"
   },
   {
     "pageid": 98921,
@@ -82124,6 +82364,10 @@
     "title": "The Silver Cog"
   },
   {
+    "pageid": 330252,
+    "title": "The Sinclairs"
+  },
+  {
     "pageid": 242253,
     "title": "The Sisterhood"
   },
@@ -82150,6 +82394,10 @@
   {
     "pageid": 324417,
     "title": "The Spurned Hero"
+  },
+  {
+    "pageid": 354090,
+    "title": "The Spymaster"
   },
   {
     "pageid": 275647,
@@ -82622,6 +82870,10 @@
   {
     "pageid": 342395,
     "title": "Thrall Damage"
+  },
+  {
+    "pageid": 354048,
+    "title": "Thrall of the Devourer"
   },
   {
     "pageid": 98312,
@@ -83178,6 +83430,10 @@
   {
     "pageid": 29923,
     "title": "Tomb of Bervirius"
+  },
+  {
+    "pageid": 356069,
+    "title": "Tomb wall"
   },
   {
     "pageid": 78936,
@@ -86608,10 +86864,6 @@
     "title": "Ulizius"
   },
   {
-    "pageid": 67590,
-    "title": "Ullek"
-  },
-  {
     "pageid": 42473,
     "title": "Ulsquire Shauncy"
   },
@@ -87044,6 +87296,10 @@
     "title": "Unferth"
   },
   {
+    "pageid": 354977,
+    "title": "Unferth's patch"
+  },
+  {
     "pageid": 26286,
     "title": "Unfinished batta"
   },
@@ -87290,6 +87546,10 @@
   {
     "pageid": 301589,
     "title": "Unicorn's caged monkey"
+  },
+  {
+    "pageid": 353815,
+    "title": "Unicorn's head"
   },
   {
     "pageid": 301500,
@@ -88182,6 +88442,10 @@
   {
     "pageid": 343499,
     "title": "Venomaster"
+  },
+  {
+    "pageid": 71102,
+    "title": "Venomous"
   },
   {
     "pageid": 338575,
@@ -89385,7 +89649,7 @@
   },
   {
     "pageid": 330228,
-    "title": "Wally Cutscene"
+    "title": "Wally the Hero"
   },
   {
     "pageid": 14740,
@@ -90026,6 +90290,10 @@
   {
     "pageid": 43653,
     "title": "Weapon poison+ (unf)"
+  },
+  {
+    "pageid": 354168,
+    "title": "Weapon poison (disambiguation)"
   },
   {
     "pageid": 302459,
@@ -91832,6 +92100,10 @@
     "title": "Workbench space"
   },
   {
+    "pageid": 96376,
+    "title": "Worker"
+  },
+  {
     "pageid": 324253,
     "title": "Working Overtime"
   },
@@ -92405,7 +92677,7 @@
   },
   {
     "pageid": 324596,
-    "title": "Yellow spice (4) (Scenery)"
+    "title": "Yellow spice (4) (scenery)"
   },
   {
     "pageid": 27667,
@@ -93405,7 +93677,7 @@
   },
   {
     "pageid": 324599,
-    "title": "Zul-Andra teleport (Scenery)"
+    "title": "Zul-Andra teleport (scenery)"
   },
   {
     "pageid": 44224,
