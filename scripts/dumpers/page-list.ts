@@ -2,6 +2,7 @@ import { writeFileSync } from "fs";
 import {
   ALL_ITEM_PAGE_LIST,
   ALL_SETS_PAGE_LIST,
+  ALL_SHOPS_PAGE_LIST,
   GE_ITEM_PAGE_LIST,
   WIKI_PAGE_LIST,
 } from "../paths";
@@ -95,4 +96,12 @@ export async function fetchItemSetsPageList() {
 export async function dumpItemSetsPageList() {
   const pages = await fetchItemSetsPageList();
   await writeFileSync(ALL_SETS_PAGE_LIST, JSON.stringify(pages, null, 2));
+}
+
+export async function fetchShopPageList() {
+  return fetchAllItemPageList("Shops");
+}
+export async function dumpShopPageList() {
+  const pages = await fetchShopPageList();
+  await writeFileSync(ALL_SHOPS_PAGE_LIST, JSON.stringify(pages, null, 2));
 }
