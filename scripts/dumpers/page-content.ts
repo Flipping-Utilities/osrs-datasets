@@ -36,6 +36,7 @@ export async function dumpAllWikiPages(): Promise<void> {
     }
 
     const currentPage = WikiPageList[i] as WikiPageSlim;
+    const redirects = WikiRequest.getRedirectsToPage(currentPage.pageid);
     const response = await WikiRequest.query<{ parse: WikiPageResponse }>({
       action: "parse",
       pageid: currentPage.pageid.toString(),
@@ -50,6 +51,7 @@ export async function dumpAllWikiPages(): Promise<void> {
       title: result.displaytitle,
       displaytitle: result.displaytitle,
       revid: result.revid,
+      redirects: await redirects,
       properties: result.properties.map((p) => ({
         name: p.name,
         value: p["*"],

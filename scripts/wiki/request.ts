@@ -39,7 +39,6 @@ export interface ParsePage {
   parse: WikiPageWithContent;
 }
 
-// Structure when using the API to query a page
 export interface WikiPageWithContent {
   pagename: string;
   title: string;
@@ -48,6 +47,7 @@ export interface WikiPageWithContent {
   content: string;
   rawContent: string;
   displaytitle: string;
+  redirects: string[];
   properties: { name: string; value: string }[];
 }
 
@@ -118,4 +118,34 @@ export class WikiRequest {
       yield values;
     } while (hasNext);
   };
+
+  public static async getRedirectsToPage(pageId: number): Promise<string[]> {
+    const params = {
+      action: "query",
+      format: "json",
+      prop: "redirects",
+      pageids: pageId,
+    };
+
+    const response = await axios.get<{
+      continue: unknown;
+      query: {
+        pages: {
+          [pageId: string]: {
+            pageid: number;
+            redirects: { pageid: number; title: string }[];
+          };
+        };
+      };
+    }>(WikiRequest.baseUrl, {
+      params,
+      headers: {
+        "User-Agent": "Anyny0#4452 - Wiki tools",
+      },
+    });
+
+    return response?.data?.query?.pages?.[pageId]?.redirects?.map(
+      (r) => r.title
+    );
+  }
 }
