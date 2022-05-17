@@ -1,12 +1,19 @@
-import { writeFileSync } from "fs";
+import { writeFileSync, readFileSync } from "fs";
 import {
   ALL_ITEM_PAGE_LIST,
   ALL_SETS_PAGE_LIST,
   ALL_SHOPS_PAGE_LIST,
   GE_ITEM_PAGE_LIST,
+  WIKI_PAGES_FOLDER,
   WIKI_PAGE_LIST,
 } from "../paths";
-import { WikiPageSlim, WikiRequest } from "../wiki/request";
+import {
+  WikiPageSlim,
+  WikiPageWithContent,
+  WikiRequest,
+} from "../wiki/request";
+
+import AllPages from "../../data/wiki-page-list";
 
 /**
  * Dumps all of the wiki page name + ids
@@ -30,6 +37,7 @@ export async function fetchWikiPageList(): Promise<WikiPageSlim[]> {
   return pages.map((p) => ({
     pageid: p.pageid,
     title: p.title,
+    redirects: [],
   }));
 }
 
@@ -39,6 +47,30 @@ export async function fetchWikiPageList(): Promise<WikiPageSlim[]> {
 export async function dumpWikiPageList(): Promise<void> {
   const pages = await fetchWikiPageList();
   await writeFileSync(WIKI_PAGE_LIST, JSON.stringify(pages, null, 2));
+}
+
+/**
+ * Extract the Page redirects from the page content and augment the page list with them.
+ * Must be run after at least 1 run of `dumpAllWikiPages`
+ */
+export async function dumpRedirectList(): Promise<void> {
+  AllPages.forEach((slimPage, i) => {
+    if (i % 100 === 0) {
+      console.log(`${i} / ${AllPages.length}`);
+    }
+    try {
+      const page: WikiPageWithContent = JSON.parse(
+        readFileSync(`${WIKI_PAGES_FOLDER}/${slimPage.pageid}.json`, {
+          encoding: "utf8",
+        })
+      );
+      const redirects = page?.redirects || [];
+      slimPage.redirects = redirects;
+    } catch (e) {
+      console.error(slimPage, e);
+    }
+  });
+  await writeFileSync(WIKI_PAGE_LIST, JSON.stringify(AllPages, null, 2));
 }
 
 /**
@@ -64,6 +96,7 @@ export async function fetchAllItemPageList(
   return pages.map((p) => ({
     pageid: p.pageid,
     title: p.title,
+    redirects: [],
   }));
 }
 

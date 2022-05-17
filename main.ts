@@ -10,6 +10,7 @@ import {
   dumpWikiPageList,
   dumpItemSetsPageList,
   dumpShopPageList,
+  dumpRedirectList,
 } from "./scripts/dumpers/page-list";
 import { dumpAllSets, extractAllSets } from "./scripts/extractors/extract-sets";
 import { dumpAllRecipes } from "./scripts/extractors/extract-recipes";
@@ -17,6 +18,7 @@ import { dumpAllShops } from "./scripts/extractors/extract-shops";
 
 // dumpWikiPageList();
 // dumpAllWikiPages();
+dumpRedirectList();
 // TestGeItems();
 // dumpGEItems();
 // dumpAllItemPageList();
@@ -25,4 +27,4 @@ import { dumpAllShops } from "./scripts/extractors/extract-shops";
 // dumpAllRecipes();
 
 // dumpShopPageList();
-dumpAllShops();
+// dumpAllShops();
