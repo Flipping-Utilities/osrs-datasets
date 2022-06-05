@@ -2,7 +2,8 @@
   {"outputs": [{"id": 26368, "quantity": 1}], "inputs": [{"id": 26231, "quantity": 1}], "name": "Grinding Nihil Shard"},
   {"outputs": [{"id": 26233, "quantity": 1}], "inputs": [{"id": 11798, "quantity": 1}, {"id": 26370, "quantity": 1}], "name": "Making Ancient godsword"},
   {"outputs": [{"id": 12863, "quantity": 1}], "inputs": [{"id": 10, "quantity": 1},   {"id": 6, "quantity": 1}, {"id": 12, "quantity": 1}, {"id": 8, "quantity": 1}], "name": "Creating Dwarf Cannon"},
-  {"outputs": [{"id": 10, "quantity": 1}, {"id": 6, "quantity": 1}, {"id": 12, "quantity": 1}, {"id": 8, "quantity": 1}], "inputs": [{"id": 12863, "quantity": 1}], "name": "Breaking Dwarf Cannon"}
+  {"outputs": [{"id": 10, "quantity": 1}, {"id": 6, "quantity": 1}, {"id": 12, "quantity": 1}, {"id": 8, "quantity": 1}], "inputs": [{"id": 12863, "quantity": 1}], "name": "Breaking Dwarf Cannon"},
+  {"outputs": [{"id": 13271, "quantity": 1}], "inputs": [{"id": 5940, "quantity": 1}, {"id": 13265, "quantity": 1}], "name": "Creating Abyssal dagger (p++)"}
   ]
 
   
