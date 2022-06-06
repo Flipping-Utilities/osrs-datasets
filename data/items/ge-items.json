@@ -4027,7 +4027,7 @@
     "relatedItems": [],
     "value": 40000,
     "weight": 0.3,
-    "limit": 0
+    "limit": 8
   },
   {
     "id": 26227,
@@ -4045,7 +4045,7 @@
     "relatedItems": [],
     "value": 40000,
     "weight": 0.2,
-    "limit": 0
+    "limit": 8
   },
   {
     "id": 26223,
@@ -4081,7 +4081,7 @@
     "relatedItems": [],
     "value": 50000,
     "weight": 0.3,
-    "limit": 0
+    "limit": 8
   },
   {
     "id": 26221,
@@ -15475,7 +15475,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": true,
+    "isMembers": false,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -15492,7 +15492,7 @@
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
-    "isMembers": true,
+    "isMembers": false,
     "isStackable": false,
     "drop": "Drop",
     "options": [],
@@ -25125,6 +25125,24 @@
     "value": 52,
     "weight": 0.453,
     "limit": 3000
+  },
+  {
+    "id": 26997,
+    "name": "Ensouled hellhound head",
+    "examine": "The creature's soul is still in here. I could reanimate it with Expert Reanimation.",
+    "image": "File:Ensouled hellhound head.png",
+    "isEquipable": false,
+    "isAlchable": false,
+    "isOnGrandExchange": true,
+    "isTradeable": true,
+    "isMembers": true,
+    "isStackable": false,
+    "drop": "Drop",
+    "options": [],
+    "relatedItems": [],
+    "value": 536,
+    "weight": 0.453,
+    "limit": 0
   },
   {
     "id": 13487,
@@ -45354,8 +45372,8 @@
     "limit": 40
   },
   {
-    "id": 9050,
-    "name": "Pharaoh's sceptre",
+    "id": 26945,
+    "name": "Pharaoh's sceptre (uncharged)",
     "examine": "This sceptre has no remaining charges.",
     "image": "File:Pharaoh's sceptre equipped.png",
     "isEquipable": true,
@@ -45366,32 +45384,10 @@
     "isStackable": false,
     "drop": "Drop",
     "options": [],
-    "relatedItems": [
-      9044
-    ],
+    "relatedItems": [],
     "value": 83334,
     "weight": 2,
-    "limit": 10000
-  },
-  {
-    "id": 9044,
-    "name": "Pharaoh's sceptre (3)",
-    "examine": "This sceptre is fully charged.",
-    "image": "File:Pharaoh's sceptre equipped.png",
-    "isEquipable": true,
-    "isAlchable": false,
-    "isOnGrandExchange": true,
-    "isTradeable": true,
-    "isMembers": true,
-    "isStackable": false,
-    "drop": "Drop",
-    "options": [],
-    "relatedItems": [
-      9050
-    ],
-    "value": 83334,
-    "weight": 2,
-    "limit": 50
+    "limit": 0
   },
   {
     "id": 11090,
@@ -45976,7 +45972,7 @@
   },
   {
     "id": 7116,
-    "name": "Pirate leggings (brown)",
+    "name": "Pirate leggings (beige)",
     "examine": "A sea worthy pair of trousers.",
     "image": "File:Pirate leggings (beige) equipped male.png",
     "isEquipable": true,
@@ -50101,7 +50097,7 @@
     "name": "Ring of 3rd age",
     "examine": "Makes you look like something really old, for those moments when you want that.",
     "image": "File:Ring of 3rd age.png",
-    "isEquipable": true,
+    "isEquipable": false,
     "isAlchable": false,
     "isOnGrandExchange": true,
     "isTradeable": true,
@@ -52957,7 +52953,7 @@
     "drop": "Drop",
     "options": [],
     "relatedItems": [],
-    "value": 400,
+    "value": 600,
     "weight": 0.015,
     "limit": 0
   },
@@ -65625,7 +65621,7 @@
       "File:Trading sticks 10.png",
       "File:Trading sticks 100.png",
       "File:Trading sticks 1000.png",
-      "File:Trading sticks.png"
+      "File:Trading sticks 10000.png"
     ],
     "isEquipable": false,
     "isAlchable": false,
