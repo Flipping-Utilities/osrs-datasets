@@ -42,7 +42,8 @@ export async function dumpAllWikiPages(): Promise<void> {
       pageid: currentPage.pageid.toString(),
       format: "json",
       prop: "properties|wikitext|displaytitle|subtitle|revid|text",
-    });
+    }).catch((e) => console.error(e));
+    if (!response) continue;
     const result = response.parse as WikiPageResponse;
 
     const newPage: WikiPageWithContent = {

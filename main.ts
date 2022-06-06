@@ -11,14 +11,17 @@ import {
   dumpItemSetsPageList,
   dumpShopPageList,
   dumpRedirectList,
+  dumpMonstersPageList,
 } from "./scripts/dumpers/page-list";
 import { dumpAllSets, extractAllSets } from "./scripts/extractors/extract-sets";
 import { dumpAllRecipes } from "./scripts/extractors/extract-recipes";
+
 import { dumpAllShops } from "./scripts/extractors/extract-shops";
+import { dumpAllMonsters, extractAllMonsters } from "./scripts/extractors/extract-monsters";
 
 // dumpWikiPageList();
 // dumpAllWikiPages();
-dumpRedirectList();
+// dumpRedirectList();
 // TestGeItems();
 // dumpGEItems();
 // dumpAllItemPageList();
@@ -28,3 +31,7 @@ dumpRedirectList();
 
 // dumpShopPageList();
 // dumpAllShops();
+
+// dumpMonstersPageList();
+// extractAllMonsters();
+dumpAllMonsters();

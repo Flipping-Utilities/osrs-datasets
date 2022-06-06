@@ -1,6 +1,7 @@
 import { writeFileSync, readFileSync } from "fs";
 import {
   ALL_ITEM_PAGE_LIST,
+  ALL_MONSTERS_PAGE_LIST,
   ALL_SETS_PAGE_LIST,
   ALL_SHOPS_PAGE_LIST,
   GE_ITEM_PAGE_LIST,
@@ -93,11 +94,13 @@ export async function fetchAllItemPageList(
     properties
   );
   // Wiki responses have 'ns' property, remove it
-  return pages.map((p) => ({
-    pageid: p.pageid,
-    title: p.title,
-    redirects: [],
-  }));
+  return pages
+    .map((p) => ({
+      pageid: p.pageid,
+      title: p.title,
+      redirects: [],
+    }))
+    .filter((page) => !page.title.startsWith("Category:"));
 }
 
 /**
@@ -137,4 +140,12 @@ export async function fetchShopPageList() {
 export async function dumpShopPageList() {
   const pages = await fetchShopPageList();
   await writeFileSync(ALL_SHOPS_PAGE_LIST, JSON.stringify(pages, null, 2));
+}
+
+export async function fetchMonstersPageList() {
+  return fetchAllItemPageList("Monsters");
+}
+export async function dumpMonstersPageList() {
+  const pages = await fetchMonstersPageList();
+  await writeFileSync(ALL_MONSTERS_PAGE_LIST, JSON.stringify(pages, null, 2));
 }
