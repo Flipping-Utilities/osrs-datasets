@@ -26865,7 +26865,7 @@
     "name": "Cow (Nightmare Zone)",
     "aliases": [],
     "drops": [],
-    "examine": "The cow is a Nightmare Zone \"boss\" which can randomly appear in practise mode&#91;1&#93;, regardless of difficulty, sharing its normal combat stats with a regular cow. Unlike other bosses, it is not associated with a particular quest, and does not have any special mechanics which can endanger the player."
+    "examine": "The cow is a Nightmare Zone \"boss\" which can randomly appear in practice mode&#91;1&#93;, regardless of difficulty, sharing its normal combat stats with a regular cow. Unlike other bosses, it is not associated with a particular quest, and does not have any special mechanics which can endanger the player."
   },
   {
     "name": "Cow calf",
@@ -31512,7 +31512,7 @@
         "rarity": "1/772"
       }
     ],
-    "examine": "Dagannoth spawn are baby dagannoth hatched from eggs found near the walls or water of Waterbirth Dungeon. The eggs will hatch as players walk near. The eggs respawn after 5 minutes."
+    "examine": "Dagannoth spawn are baby dagannoth hatched from eggs found near the walls or water of Waterbirth Dungeon. The eggs will hatch as players walk near, as long as the nearby dagannoth are not yet tolerant towards the player. The eggs respawn after 5 minutes."
   },
   {
     "name": "Dagannoth Supreme",

@@ -25,7 +25,6 @@ import { dumpAllMonsters, extractAllMonsters } from "./scripts/extractors/extrac
 // TestGeItems();
 // dumpGEItems();
 // dumpAllItemPageList();
-// dumpItemSets();
 // dumpAllSets();
 // dumpAllRecipes();
 
@@ -33,5 +32,5 @@ import { dumpAllMonsters, extractAllMonsters } from "./scripts/extractors/extrac
 // dumpAllShops();
 
 // dumpMonstersPageList();
-// extractAllMonsters();
-dumpAllMonsters();
+// dumpAllMonsters();
+extractAllMonsters();

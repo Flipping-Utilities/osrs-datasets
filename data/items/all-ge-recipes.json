@@ -2019,7 +2019,7 @@
     ],
     "members": true,
     "skills": [],
-    "ticks": null,
+    "ticks": 0,
     "toolIds": []
   },
   {
@@ -2816,6 +2816,36 @@
         "quantity": 1
       },
       {
+        "id": 3434,
+        "quantity": 1
+      }
+    ],
+    "outputs": [
+      {
+        "id": 10808,
+        "quantity": 1,
+        "subText": "2-dose oil"
+      }
+    ],
+    "members": true,
+    "skills": [
+      {
+        "boostable": true,
+        "lvl": 1,
+        "name": "Firemaking",
+        "xp": 12
+      }
+    ],
+    "ticks": 0,
+    "toolIds": []
+  },
+  {
+    "inputs": [
+      {
+        "id": 10810,
+        "quantity": 1
+      },
+      {
         "id": 3432,
         "quantity": 1
       }
@@ -2823,6 +2853,11 @@
     "outputs": [
       {
         "id": 10808,
+        "quantity": 1,
+        "subText": "3-dose oil"
+      },
+      {
+        "id": 3436,
         "quantity": 1,
         "subText": "3-dose oil"
       }
@@ -2857,7 +2892,7 @@
         "subText": "4-dose oil"
       },
       {
-        "id": 3436,
+        "id": 3434,
         "quantity": 1,
         "subText": "4-dose oil"
       }
@@ -2928,7 +2963,7 @@
     ],
     "members": true,
     "skills": [],
-    "ticks": null,
+    "ticks": 0,
     "toolIds": []
   },
   {
@@ -3872,7 +3907,7 @@
     ],
     "members": true,
     "skills": [],
-    "ticks": null,
+    "ticks": 0,
     "toolIds": []
   },
   {
@@ -8173,6 +8208,30 @@
   {
     "inputs": [
       {
+        "id": 22372,
+        "quantity": 1
+      },
+      {
+        "id": 995,
+        "quantity": 50000,
+        "cost": 1
+      }
+    ],
+    "outputs": [
+      {
+        "id": 22368,
+        "quantity": 1,
+        "subText": "Zaff"
+      }
+    ],
+    "members": false,
+    "skills": [],
+    "ticks": 0,
+    "toolIds": []
+  },
+  {
+    "inputs": [
+      {
         "id": 1925,
         "quantity": 1
       }
@@ -9154,6 +9213,10 @@
     "outputs": [
       {
         "id": 11326,
+        "quantity": 1
+      },
+      {
+        "id": 11334,
         "quantity": 1
       }
     ],
@@ -17838,7 +17901,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -17867,7 +17930,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -17896,7 +17959,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -17925,7 +17988,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -17954,7 +18017,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -17983,7 +18046,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -18012,7 +18075,7 @@
         "boostable": true,
         "lvl": 1,
         "name": "Crafting",
-        "xp": 3
+        "xp": 2.5
       }
     ],
     "ticks": 0,
@@ -28435,7 +28498,7 @@
         "boostable": true,
         "lvl": 26,
         "name": "Crafting",
-        "xp": 50
+        "xp": 0
       }
     ],
     "ticks": 1,
@@ -33357,13 +33420,17 @@
   {
     "inputs": [
       {
-        "id": 11330,
+        "id": 11328,
         "quantity": 1
       }
     ],
     "outputs": [
       {
         "id": 11324,
+        "quantity": 1
+      },
+      {
+        "id": 11334,
         "quantity": 1
       }
     ],
@@ -33382,13 +33449,17 @@
   {
     "inputs": [
       {
-        "id": 11328,
+        "id": 11330,
         "quantity": 1
       }
     ],
     "outputs": [
       {
         "id": 11324,
+        "quantity": 1
+      },
+      {
+        "id": 11334,
         "quantity": 1
       }
     ],
@@ -35852,7 +35923,7 @@
     ],
     "members": true,
     "skills": [],
-    "ticks": null,
+    "ticks": 0,
     "toolIds": []
   },
   {
@@ -45976,7 +46047,7 @@
     ],
     "members": true,
     "skills": [],
-    "ticks": null,
+    "ticks": 0,
     "toolIds": []
   },
   {
