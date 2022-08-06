@@ -13,7 +13,9 @@
   {"outputs": [{"id": 23387, "quantity": 15}], "inputs": [{"id": 21387, "quantity": 1}], "name": "Creating watson teleports"},
   {"outputs": [{"id": 13066, "quantity": 1}], "inputs": [{"id": 2436, "quantity": 1},{"id": 2442, "quantity": 1},{"id": 2440, "quantity": 1}], "name": "Creating super potion set"},
   {"outputs": [{"id": 12934, "quantity": 20000}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
-  {"outputs": [{"id": 12932, "quantity": 1}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"}
+  {"outputs": [{"id": 12932, "quantity": 1}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
+  {"outputs": [{"id": 22296, "quantity": 1}], "inputs": [{"id": 11791, "quantity": 1},{"id": 13256, "quantity": 1}], "name": "Creating Staff of light"
+  }
   ]
 
   
