@@ -15,6 +15,8 @@
   {"outputs": [{"id": 12934, "quantity": 20000}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
   {"outputs": [{"id": 12932, "quantity": 1}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
   {"outputs": [{"id": 22296, "quantity": 1}], "inputs": [{"id": 11791, "quantity": 1},{"id": 13256, "quantity": 1}], "name": "Creating Staff of light"
+  },
+  {"outputs": [{"id": 26374, "quantity": 1}], "inputs": [{"id": 11785, "quantity": 1},{"id": 26372, "quantity": 1},{"id": 26231, "quantity": 250}], "name": "Creating Zaryte crossbow"
   }
   ]
 
