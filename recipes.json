@@ -17,6 +17,10 @@
   {"outputs": [{"id": 22296, "quantity": 1}], "inputs": [{"id": 11791, "quantity": 1},{"id": 13256, "quantity": 1}], "name": "Creating Staff of light"
   },
   {"outputs": [{"id": 26374, "quantity": 1}], "inputs": [{"id": 11785, "quantity": 1},{"id": 26372, "quantity": 1},{"id": 26231, "quantity": 250}], "name": "Creating Zaryte crossbow"
+  },
+  {"outputs": [{"id": 23997, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Blade of saeldor (inactive)"
+  },
+  {"outputs": [{"id": 25862, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Bow of faerdhinen (inactive)"
   }
   ]
 
