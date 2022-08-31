@@ -41,7 +41,9 @@
   {"outputs": [{"id": 27241, "quantity": 1}], "inputs": [{"id": 27232, "quantity": 1},{"id": 27269, "quantity": 3}], "name": "Making Masori chaps (f)"
   },
   {"outputs": [{"id": 27235, "quantity": 1}], "inputs": [{"id": 27226, "quantity": 1},{"id": 27269, "quantity": 1}], "name": "Making Masori mask (f)"
-  }
+  },
+  {"outputs": [{"id": 12827, "quantity": 1}], "inputs": [{"id": 12825, "quantity": 1}], "name": "Creating Arcane sigil"
+  },
   ]
 
   
