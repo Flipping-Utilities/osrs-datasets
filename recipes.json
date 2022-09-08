@@ -48,7 +48,8 @@
   {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 25862, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"
   },
   {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 23997, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"
-  }
+  },
+  {"outputs": [{"id": 13265, "quantity": 1}], "inputs": [{"id": 13271, "quantity": 1}], "name": "Creating Abyssal dagger"}
   ]
 
   
