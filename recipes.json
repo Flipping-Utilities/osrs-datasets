@@ -28,7 +28,7 @@
   },
   {"outputs": [{"id": 26382, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26376, "quantity": 1}], "name": "Making Torva helm"
   },
-  {"outputs": [{"id": 26384, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26378, "quantity": 1}], "name": "Making Torva platebody"
+  {"outputs": [{"id": 26384, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 2},{"id": 26378, "quantity": 1}], "name": "Making Torva platebody"
   },
   {"outputs": [{"id": 26386, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26380, "quantity": 1}], "name": "Making Torva platelegs"
   },
