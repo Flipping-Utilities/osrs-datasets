@@ -14,43 +14,27 @@
   {"outputs": [{"id": 13066, "quantity": 1}], "inputs": [{"id": 2436, "quantity": 1},{"id": 2442, "quantity": 1},{"id": 2440, "quantity": 1}], "name": "Creating super potion set"},
   {"outputs": [{"id": 12934, "quantity": 20000}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
   {"outputs": [{"id": 12932, "quantity": 1}, {"id": 11791, "quantity": 1}], "inputs": [{"id": 12902, "quantity": 1}], "name": "Breaking Toxic staff (uncharged)"},
-  {"outputs": [{"id": 22296, "quantity": 1}], "inputs": [{"id": 11791, "quantity": 1},{"id": 13256, "quantity": 1}], "name": "Creating Staff of light"
-  },
-  {"outputs": [{"id": 26374, "quantity": 1}], "inputs": [{"id": 11785, "quantity": 1},{"id": 26372, "quantity": 1},{"id": 26231, "quantity": 250}], "name": "Creating Zaryte crossbow"
-  },
-  {"outputs": [{"id": 23997, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Blade of saeldor (inactive)"
-  },
-  {"outputs": [{"id": 25862, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Bow of faerdhinen (inactive)"
-  },
-  {"outputs": [{"id": 26394, "quantity": 3}], "inputs": [{"id": 11832, "quantity": 1}], "name": "Making Bandosian components (chestplate)"
-  },
-  {"outputs": [{"id": 26394, "quantity": 2}], "inputs": [{"id": 11834, "quantity": 1}], "name": "Making Bandosian components (tasset)"
-  },
-  {"outputs": [{"id": 26382, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26376, "quantity": 1}], "name": "Making Torva helm"
-  },
-  {"outputs": [{"id": 26384, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 2},{"id": 26378, "quantity": 1}], "name": "Making Torva platebody"
-  },
-  {"outputs": [{"id": 26386, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26380, "quantity": 1}], "name": "Making Torva platelegs"
-  },
+  {"outputs": [{"id": 22296, "quantity": 1}], "inputs": [{"id": 11791, "quantity": 1},{"id": 13256, "quantity": 1}], "name": "Creating Staff of light"},
+  {"outputs": [{"id": 26374, "quantity": 1}], "inputs": [{"id": 11785, "quantity": 1},{"id": 26372, "quantity": 1},{"id": 26231, "quantity": 250}], "name": "Creating Zaryte crossbow"},
+  {"outputs": [{"id": 23997, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Blade of saeldor (inactive)"},
+  {"outputs": [{"id": 25862, "quantity": 1}], "inputs": [{"id": 25859, "quantity": 1}], "name": "Creating Bow of faerdhinen (inactive)"},
+  {"outputs": [{"id": 26394, "quantity": 3}], "inputs": [{"id": 11832, "quantity": 1}], "name": "Making Bandosian components (chestplate)"},
+  {"outputs": [{"id": 26394, "quantity": 2}], "inputs": [{"id": 11834, "quantity": 1}], "name": "Making Bandosian components (tasset)"},
+  {"outputs": [{"id": 26382, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26376, "quantity": 1}], "name": "Making Torva helm"},
+  {"outputs": [{"id": 26384, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 2},{"id": 26378, "quantity": 1}], "name": "Making Torva platebody"},
+  {"outputs": [{"id": 26386, "quantity": 1}], "inputs": [{"id": 26394, "quantity": 1},{"id": 26380, "quantity": 1}], "name": "Making Torva platelegs"},
   {"outputs": [{"id": 27355, "quantity": 1}], "inputs": [{"id": 27238, "quantity": 1}, {"id": 27241, "quantity": 1}, {"id": 27235, "quantity": 1}], "name": "Making Masori set (f)"},
   {"outputs": [{"id": 27269, "quantity": 4}], "inputs": [{"id": 11828, "quantity": 1}], "name": "Making Armadylean plate (chestplate)"},
   {"outputs": [{"id": 27269, "quantity": 3}], "inputs": [{"id": 11830, "quantity": 1}], "name": "Making Armadylean plate (chainskirt)"},
   {"outputs": [{"id": 27269, "quantity": 1}], "inputs": [{"id": 11826, "quantity": 1}], "name": "Making Armadylean plate (helmet)"},
-  {"outputs": [{"id": 27238, "quantity": 1}], "inputs": [{"id": 27229, "quantity": 1},{"id": 27269, "quantity": 4}], "name": "Making Masori body (f)"
-  },
-  {"outputs": [{"id": 27241, "quantity": 1}], "inputs": [{"id": 27232, "quantity": 1},{"id": 27269, "quantity": 3}], "name": "Making Masori chaps (f)"
-  },
-  {"outputs": [{"id": 27235, "quantity": 1}], "inputs": [{"id": 27226, "quantity": 1},{"id": 27269, "quantity": 1}], "name": "Making Masori mask (f)"
-  },
-  {"outputs": [{"id": 12827, "quantity": 1}], "inputs": [{"id": 12825, "quantity": 1}], "name": "Creating Arcane sigil"
-  },
+  {"outputs": [{"id": 27238, "quantity": 1}], "inputs": [{"id": 27229, "quantity": 1},{"id": 27269, "quantity": 4}], "name": "Making Masori body (f)"},
+  {"outputs": [{"id": 27241, "quantity": 1}], "inputs": [{"id": 27232, "quantity": 1},{"id": 27269, "quantity": 3}], "name": "Making Masori chaps (f)"},
+  {"outputs": [{"id": 27235, "quantity": 1}], "inputs": [{"id": 27226, "quantity": 1},{"id": 27269, "quantity": 1}], "name": "Making Masori mask (f)"},
+  {"outputs": [{"id": 12827, "quantity": 1}], "inputs": [{"id": 12825, "quantity": 1}], "name": "Creating Arcane sigil"},
   {"outputs": [{"id": 22294, "quantity": 1}], "inputs": [{"id": 22290, "quantity": 1}, {"id": 12932, "quantity": 1}], "name": "Making Uncharged toxic trident (e)"},
-  {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 25862, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"
-  },
-  {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 23997, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"
-  },
+  {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 25862, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"},
+  {"outputs": [{"id": 25859, "quantity": 1}], "inputs": [{"id": 23997, "quantity": 1}], "name": "Creating Enhanced crystal weapon seed"},
   {"outputs": [{"id": 13265, "quantity": 1}], "inputs": [{"id": 13271, "quantity": 1}], "name": "Creating Abyssal dagger"},
-  {"outputs": [{"id": 11798, "quantity": 1}], "inputs": [{"id": 11820, "quantity": 1},{"id": 11818, "quantity": 1},{"id": 11822, "quantity": 1}], "name": "Making Godsword blade"}
-  ]
-
-  
+  {"outputs": [{"id": 11798, "quantity": 1}], "inputs": [{"id": 11820, "quantity": 1},{"id": 11818, "quantity": 1},{"id": 11822, "quantity": 1}], "name": "Making Godsword blade"},
+  {"outputs": [{"id": 27612, "quantity": 1}], "inputs": [{"id": 27614, "quantity": 5}], "name": "Making Venator bow"}
+]
