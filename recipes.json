@@ -15327,7 +15327,7 @@
       { "id": 556, "quantity": 10 }
     ],
     "outputs": [
-      { "id": 1775, "quantity": 16.9, "subText": "Superglass Make - seaweed" }
+      { "id": 1775, "quantity": 17, "subText": "Superglass Make - seaweed" }
     ],
     "name": "Making Molten glass"
   },
@@ -15340,7 +15340,7 @@
       { "id": 556, "quantity": 10 }
     ],
     "outputs": [
-      { "id": 1775, "quantity": 16.9, "subText": "Superglass Make - soda ash" }
+      { "id": 1775, "quantity": 17, "subText": "Superglass Make - soda ash" }
     ],
     "name": "Making Molten glass"
   },
@@ -15496,7 +15496,7 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 16.9,
+        "quantity": 17,
         "subText": "Superglass Make - swamp weed"
       }
     ],
@@ -15552,12 +15552,12 @@
   },
   {
     "inputs": [{ "id": 11992, "quantity": 1 }],
-    "outputs": [{ "id": 11994, "quantity": 4.5 }],
+    "outputs": [{ "id": 11994, "quantity": 5 }],
     "name": "Making Lava scale shard"
   },
   {
     "inputs": [{ "id": 11992, "quantity": 1 }],
-    "outputs": [{ "id": 11994, "quantity": 7.5 }],
+    "outputs": [{ "id": 11994, "quantity": 8 }],
     "name": "Making Lava scale shard"
   },
   {
@@ -15822,7 +15822,7 @@
     "outputs": [
       {
         "id": 1775,
-        "quantity": 28.8,
+        "quantity": 29,
         "subText": "Superglass Make - giant seaweed"
       }
     ],
