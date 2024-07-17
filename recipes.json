@@ -10360,6 +10360,14 @@
     "name": "Creating Abyssal dagger (p++)"
   },
   {
+    "outputs": [{ "id": 5698, "quantity": 1 }],
+    "inputs": [
+      { "id": 5940, "quantity": 1 },
+      { "id": 1215, "quantity": 1 }
+    ],
+    "name": "Creating Dragon dagger (p++)"
+  },
+  {
     "outputs": [{ "id": 223, "quantity": 100 }],
     "inputs": [{ "id": 23517, "quantity": 1 }],
     "name": "Creating red spider eggs"

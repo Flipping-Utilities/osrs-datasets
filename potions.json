@@ -635,5 +635,23 @@
       { "dose": 3, "id": 24638 },
       { "dose": 4, "id": 24635 }
     ]
+  },
+  {
+    "name": "Ancient brew",
+    "doses": [
+      { "dose": 1, "id": 26346 },
+      { "dose": 2, "id": 26344 },
+      { "dose": 3, "id": 26342 },
+      { "dose": 4, "id": 26340 }
+    ]
+  },
+  {
+    "name": "Forgotten brew",
+    "doses": [
+      { "dose": 1, "id": 27638 },
+      { "dose": 2, "id": 27635 },
+      { "dose": 3, "id": 27632 },
+      { "dose": 4, "id": 27629 }
+    ]
   }
 ]
