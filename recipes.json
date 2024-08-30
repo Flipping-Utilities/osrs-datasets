@@ -25547,6 +25547,29 @@
   {
     "outputs": [
       {
+        "id": 21902,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 21918,
+        "quantity": 1
+      },
+      {
+        "id": 9438,
+        "quantity": 1
+      },
+      {
+        "id": 21952,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Dragon crossbow"
+  },
+  {
+    "outputs": [
+      {
         "id": 21905,
         "quantity": 10
       }
