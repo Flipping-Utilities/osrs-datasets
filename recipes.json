@@ -44061,5 +44061,153 @@
       }
     ],
     "name": "Making Burning claws"
+  },
+  {
+    "outputs": [
+      {
+        "id": 29824,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12913,
+        "quantity": 1
+      },
+      {
+        "id": 29784,
+        "quantity": 4
+      }
+    ],
+    "name": "Making Extended anti-venom+(4)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 29827,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12915,
+        "quantity": 1
+      },
+      {
+        "id": 29784,
+        "quantity": 3
+      }
+    ],
+    "name": "Making Extended anti-venom+(3)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 29830,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12917,
+        "quantity": 1
+      },
+      {
+        "id": 29784,
+        "quantity": 2
+      }
+    ],
+    "name": "Making Extended anti-venom+(2)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 29833,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12919,
+        "quantity": 1
+      },
+      {
+        "id": 29784,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Extended anti-venom+(1)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30140,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 97,
+        "quantity": 1
+      },
+      {
+        "id": 29993,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Goading potion(3)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30128,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 30100,
+        "quantity": 1
+      },
+      {
+        "id": 29993,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Prayer regeneration potion(3)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30100,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 30097,
+        "quantity": 1
+      },
+      {
+        "id": 227,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Huasca potion (unf)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30097,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 30094,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Huasca"
   }
 ]
