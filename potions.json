@@ -646,12 +646,56 @@
     ]
   },
   {
+    "name": "Ancient mix",
+    "doses": [
+      { "dose": 1, "id": 26353 },
+      { "dose": 2, "id": 26350 }
+    ]
+  },
+  {
     "name": "Forgotten brew",
     "doses": [
       { "dose": 1, "id": 27638 },
       { "dose": 2, "id": 27635 },
       { "dose": 3, "id": 27632 },
       { "dose": 4, "id": 27629 }
+    ]
+  },
+  {
+    "name": "Goading potion",
+    "doses": [
+      { "dose": 1, "id": 30146 },
+      { "dose": 2, "id": 30143 },
+      { "dose": 3, "id": 30140 },
+      { "dose": 4, "id": 30137 }
+    ]
+  },
+  {
+    "name": "Prayer regeneration potion",
+    "doses": [
+      { "dose": 1, "id": 30134 },
+      { "dose": 2, "id": 30131 },
+      { "dose": 3, "id": 30128 },
+      { "dose": 4, "id": 30125 }
+    ]
+  },
+  {
+    "name": "Menaphite remedy",
+    "doses": [
+      { "dose": 1, "id": 27211 },
+      { "dose": 2, "id": 27208 },
+      { "dose": 3, "id": 27205 },
+      { "dose": 4, "id": 27202 }
+    ]
+  }
+  ,
+  {
+    "name": "Extended anti-venom+",
+    "doses": [
+      { "dose": 1, "id": 29833 },
+      { "dose": 2, "id": 29830 },
+      { "dose": 3, "id": 29827 },
+      { "dose": 4, "id": 29824 }
     ]
   }
 ]
