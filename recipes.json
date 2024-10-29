@@ -27274,6 +27274,25 @@
     "name": "Dismantling uncharged toxic trident"
   },
   {
+  "outputs": [
+    {
+      "id": 12934,
+      "quantity": 20000
+    },
+    {
+      "id": 11791,
+      "quantity": 1
+    }
+  ],
+  "inputs": [
+    {
+      "id": 12902,
+      "quantity": 1
+    }
+  ],
+  "name": "Dismantling Toxic staff (uncharged)"
+  },
+  {
     "outputs": [
       {
         "id": 12934,
