@@ -27259,6 +27259,25 @@
       {
         "id": 12934,
         "quantity": 20000
+      },
+      {
+        "id": 11908,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12900,
+        "quantity": 1
+      }
+    ],
+    "name": "Dismantling uncharged toxic trident"
+  },
+  {
+    "outputs": [
+      {
+        "id": 12934,
+        "quantity": 20000
       }
     ],
     "inputs": [
