@@ -27259,6 +27259,44 @@
       {
         "id": 12934,
         "quantity": 20000
+      },
+      {
+        "id": 11908,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 12900,
+        "quantity": 1
+      }
+    ],
+    "name": "Dismantling uncharged toxic trident"
+  },
+  {
+  "outputs": [
+    {
+      "id": 12934,
+      "quantity": 20000
+    },
+    {
+      "id": 11791,
+      "quantity": 1
+    }
+  ],
+  "inputs": [
+    {
+      "id": 12902,
+      "quantity": 1
+    }
+  ],
+  "name": "Dismantling Toxic staff (uncharged)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 12934,
+        "quantity": 20000
       }
     ],
     "inputs": [
@@ -44209,6 +44247,77 @@
       }
     ],
     "name": "Making Huasca"
+  },
+  {
+    "inputs": [
+      {
+        "id": 20716,
+        "quantity": 1,
+        "notes": "The Tome of fire can be traded in to Ignisia at The Wintertodt for burnt paged."
+      }
+    ],
+    "outputs": [
+      {
+        "id": 20718,
+        "quantity": 250
+      }
+    ],
+    "name": "Trading in a Tome of fire (empty)"
+  },
+  {
+    "inputs": [
+      {
+        "id": 25576,
+        "quantity": 1,
+        "notes": "The Tome of water can be traded in to the retired sailor at the Ruins of Unkah for soaked paged."
+      }
+    ],
+    "outputs": [
+      {
+        "id": 25578,
+        "quantity": 25
+      }
+    ],
+    "name": "Trading in a Tome of water (empty)"
+  },
+  {
+    "inputs": [
+      {
+        "id": 30066,
+        "quantity": 1,
+        "notes": "The Tome of earth can be traded in to the seer at the Darkfrost for soiled paged."
+      }
+    ],
+    "outputs": [
+      {
+        "id": 30068,
+        "quantity": 250
+      }
+    ],
+    "name": "Trading in a Tome of earth (empty)"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30634,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 1391,
+        "quantity": 1
+      },
+      {
+        "id": 30628,
+        "quantity": 1
+      },
+      {
+        "id": 30631,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Twinflame staff"
   },
   {
     "outputs": [
