@@ -44209,5 +44209,28 @@
       }
     ],
     "name": "Making Huasca"
+  },
+  {
+    "outputs": [
+      {
+        "id": 30634,
+        "quantity": 1
+      }
+    ],
+    "inputs": [
+      {
+        "id": 1391,
+        "quantity": 1
+      },
+      {
+        "id": 30628,
+        "quantity": 1
+      },
+      {
+        "id": 30631,
+        "quantity": 1
+      }
+    ],
+    "name": "Making Twinflame staff"
   }
 ]
